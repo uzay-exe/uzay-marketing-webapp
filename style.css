@@ -107,36 +107,43 @@ a {
   background: var(--accent);
 }
 
-/* Nav */
-nav.tabs {
+/* Bottom nav */
+nav.bottom-nav {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10;
   display: flex;
-  gap: 8px;
-  padding: 0 16px 20px;
-  overflow-x: auto;
+  background: var(--bg-elevated);
+  border-top: 1px solid var(--border);
+  padding: 8px 4px calc(8px + env(safe-area-inset-bottom));
 }
 
-nav.tabs a {
+nav.bottom-nav a {
   flex: 1;
-  text-align: center;
-  padding: 10px 8px;
-  border-radius: 12px;
-  background: var(--card);
-  border: 1px solid var(--border);
-  font-size: 13px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  padding: 4px 2px;
+  font-size: 11px;
   font-weight: 600;
   color: var(--text-dim);
-  white-space: nowrap;
 }
 
-nav.tabs a.active {
-  background: var(--accent-soft);
-  border-color: var(--accent);
+nav.bottom-nav a .bn-icon {
+  font-size: 20px;
+  line-height: 1;
+}
+
+nav.bottom-nav a.active {
   color: var(--accent);
 }
 
 /* Content */
 main {
-  padding: 0 16px 32px;
+  padding: 0 16px calc(88px + env(safe-area-inset-bottom));
 }
 
 .card {
