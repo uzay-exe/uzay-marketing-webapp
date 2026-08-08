@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Uzay Marketing</title>
+<link rel="stylesheet" href="style.css" />
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">Uzay <span>Marketing</span></div>
+  </header>
+
+  <section class="slider" id="slider">
+    <div class="slide active">
+      <h2>Hoş Geldin</h2>
+      <p>Güncel fırsatlar ve içerikler için buradayız.</p>
+    </div>
+    <div class="slide">
+      <h2>Haberler</h2>
+      <p>Sektörden en son gelişmeleri takip et.</p>
+    </div>
+    <div class="slide">
+      <h2>Ortaklıklar</h2>
+      <p>İş birliği fırsatlarını keşfet.</p>
+    </div>
+    <div class="slider-dots"></div>
+  </section>
+
+  <nav class="tabs">
+    <a href="index.html" class="active">Anasayfa</a>
+    <a href="haberler.html">Haberler</a>
+    <a href="ortakliklar.html">Ortaklıklar</a>
+    <a href="oyunlar.html">Oyunlar</a>
+  </nav>
+
+  <main>
+    <div class="card">
+      <h3>Uzay Marketing'e Hoş Geldin</h3>
+      <p>Bu alan yakında ürün ve kampanya içerikleriyle dolacak. Üstteki menüden Haberler ve Ortaklıklar sayfalarına göz atabilirsin.</p>
+    </div>
+  </main>
+
+  <script>
+    const tg = window.Telegram.WebApp;
+    tg.ready();
+    tg.expand();
+
+    const slides = document.querySelectorAll('.slide');
+    const dotsWrap = document.querySelector('.slider-dots');
+    slides.forEach((_, i) => {
+      const dot = document.createElement('div');
+      dot.className = 'dot' + (i === 0 ? ' active' : '');
+      dotsWrap.appendChild(dot);
+    });
+    const dots = document.querySelectorAll('.dot');
+
+    let current = 0;
+    function showSlide(i) {
+      slides[current].classList.remove('active');
+      dots[current].classList.remove('active');
+      current = i;
+      slides[current].classList.add('active');
+      dots[current].classList.add('active');
+    }
+    setInterval(() => showSlide((current + 1) % slides.length), 4000);
+  </script>
+</body>
+</html>
