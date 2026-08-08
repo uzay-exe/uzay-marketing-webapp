@@ -18,7 +18,7 @@
     <div class="card">
       <span class="badge">Ortaklık</span>
       <h3>Bizimle çalışmak ister misin?</h3>
-      <p>İş birliği ve ortaklık detayları yakında burada yer alacak.</p>
+      <p>İş birliği ve ortaklık teklifleri için bize Telegram üzerinden ulaşabilirsin.</p>
     </div>
     <button class="cta" id="contact">İletişime Geç</button>
   </main>
@@ -48,7 +48,7 @@
     tg.expand();
 
     document.getElementById('contact').addEventListener('click', () => {
-      tg.close();
+      tg.openTelegramLink('https://t.me/UzayMR');
     });
   </script>
 </body>
