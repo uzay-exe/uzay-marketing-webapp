@@ -48,8 +48,11 @@
           <span class="badge">${formatDate(item.pubDate)}</span>
           <h2>${item.title}</h2>
           <p>${item.description}</p>
-          <a class="cta" id="source-link" href="${item.link}" target="_blank" rel="noopener" style="display:block; text-align:center; margin-top:16px; text-decoration:none;">Kaynağa git (${data.source || 'kaynak'})</a>
+          <button class="cta" id="source-link" style="margin-top:16px;">Kaynağa git (${data.source || 'kaynak'})</button>
         `;
+        document.getElementById('source-link').addEventListener('click', () => {
+          tg.openLink(item.link);
+        });
       })
       .catch(() => {
         document.getElementById('detail').innerHTML = '<div class="icon">📰</div><p>Haber yüklenemedi.</p>';
