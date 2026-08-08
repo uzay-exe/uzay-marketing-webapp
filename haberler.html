@@ -20,9 +20,9 @@
   </nav>
 
   <main>
-    <div class="empty-state">
+    <div id="news-list" class="empty-state">
       <div class="icon">📰</div>
-      <p>Henüz haber eklenmedi. Yeni içerikler burada listelenecek.</p>
+      <p>Haberler yükleniyor...</p>
     </div>
   </main>
 
@@ -30,6 +30,38 @@
     const tg = window.Telegram.WebApp;
     tg.ready();
     tg.expand();
+
+    function formatDate(pubDate) {
+      const d = new Date(pubDate);
+      if (isNaN(d)) return '';
+      return d.toLocaleDateString('tr-TR', { day: '2-digit', month: 'long', hour: '2-digit', minute: '2-digit' });
+    }
+
+    fetch('news.json?t=' + Date.now())
+      .then((r) => r.json())
+      .then((data) => {
+        const list = document.getElementById('news-list');
+        if (!data.items || !data.items.length) {
+          list.innerHTML = '<div class="icon">📰</div><p>Henüz haber eklenmedi.</p>';
+          return;
+        }
+        list.classList.remove('empty-state');
+        list.innerHTML = data.items
+          .map(
+            (item) => `
+          <a class="card news-card" href="${item.link}" target="_blank" rel="noopener">
+            ${item.image ? `<img class="news-thumb" src="${item.image}" alt="" loading="lazy" />` : ''}
+            <span class="badge">${formatDate(item.pubDate)}</span>
+            <h3>${item.title}</h3>
+            <p>${item.description}</p>
+          </a>`
+          )
+          .join('');
+      })
+      .catch(() => {
+        const list = document.getElementById('news-list');
+        list.innerHTML = '<div class="icon">📰</div><p>Haberler şu an yüklenemedi.</p>';
+      });
   </script>
 </body>
 </html>

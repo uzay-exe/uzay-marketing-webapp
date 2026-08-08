@@ -170,6 +170,18 @@ main {
   margin-bottom: 8px;
 }
 
+.news-card {
+  display: block;
+}
+
+.news-thumb {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 10px;
+}
+
 .empty-state {
   text-align: center;
   padding: 48px 20px;
