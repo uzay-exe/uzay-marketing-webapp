@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Haber · Uzay Marketing</title>
+<link rel="stylesheet" href="style.css" />
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <a href="haberler.html" class="brand">&larr; <span>Haberler</span></a>
+  </header>
+
+  <main>
+    <div id="detail" class="empty-state">
+      <div class="icon">📰</div>
+      <p>Yükleniyor...</p>
+    </div>
+  </main>
+
+  <script>
+    const tg = window.Telegram.WebApp;
+    tg.ready();
+    tg.expand();
+
+    function formatDate(pubDate) {
+      const d = new Date(pubDate);
+      if (isNaN(d)) return '';
+      return d.toLocaleDateString('tr-TR', { day: '2-digit', month: 'long', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+    }
+
+    const params = new URLSearchParams(location.search);
+    const idx = Number(params.get('i'));
+
+    fetch('news.json?t=' + Date.now())
+      .then((r) => r.json())
+      .then((data) => {
+        const detail = document.getElementById('detail');
+        const item = data.items && data.items[idx];
+        if (!item) {
+          detail.innerHTML = '<div class="icon">📰</div><p>Haber bulunamadı.</p>';
+          return;
+        }
+        detail.classList.remove('empty-state');
+        detail.innerHTML = `
+          ${item.image ? `<img class="news-thumb" src="${item.image}" alt="" />` : ''}
+          <span class="badge">${formatDate(item.pubDate)}</span>
+          <h2>${item.title}</h2>
+          <p>${item.description}</p>
+          <a class="cta" id="source-link" href="${item.link}" target="_blank" rel="noopener" style="display:block; text-align:center; margin-top:16px; text-decoration:none;">Kaynağa git (${data.source || 'kaynak'})</a>
+        `;
+      })
+      .catch(() => {
+        document.getElementById('detail').innerHTML = '<div class="icon">📰</div><p>Haber yüklenemedi.</p>';
+      });
+  </script>
+</body>
+</html>

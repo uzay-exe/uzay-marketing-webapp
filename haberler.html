@@ -48,8 +48,8 @@
         list.classList.remove('empty-state');
         list.innerHTML = data.items
           .map(
-            (item) => `
-          <a class="card news-card" href="${item.link}" target="_blank" rel="noopener">
+            (item, i) => `
+          <a class="card news-card" href="haber-detay.html?i=${i}">
             ${item.image ? `<img class="news-thumb" src="${item.image}" alt="" loading="lazy" />` : ''}
             <span class="badge">${formatDate(item.pubDate)}</span>
             <h3>${item.title}</h3>
