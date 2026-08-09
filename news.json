@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-09T16:03:24.641241+00:00",
+  "updated": "2026-08-09T18:04:33.431573+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Türkiye Süper Enduro Şampiyonası'nın ikinci ayağı Kocaeli'de yapıldı",
+      "link": "https://www.aa.com.tr/tr/spor/turkiye-super-enduro-sampiyonasinin-ikinci-ayagi-kocaelide-yapildi/4022602",
+      "description": "Türkiye Süper Enduro Şampiyonası'nın ikinci ayağı, Kocaeli'nin Kartepe ilçesinde düzenlendi.",
+      "pubDate": "Sun, 09 Aug 2026 19:41:02 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/09/thumbs_b_c_f7c0f722451e6521c634756d49bf1f93.jpg"
+    },
     {
       "title": "Kocaeli'de sporcular İzmit Körfezi'ni yüzerek geçti",
       "link": "https://www.aa.com.tr/tr/spor/kocaelide-sporcular-izmit-korfezini-yuzerek-gecti/4022570",
@@ -78,13 +85,6 @@
       "description": "Hatay'da yetenek taramasında keşfedilerek boksa yönlendirilen 14 yaşındaki İvana Kılcı, ekimde Trabzon'da düzenlenecek Avrupa Şampiyonası'nda birincilik kürsüsünde yer alabilmek için yumruk sallıyor.",
       "pubDate": "Sun, 09 Aug 2026 11:11:12 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/09/thumbs_b_c_17f9695a4e456b44f5792a15e717e851.jpg"
-    },
-    {
-      "title": "Avrupa Atletizm Şampiyonası, yarın İngiltere'de başlayacak",
-      "link": "https://www.aa.com.tr/tr/spor/avrupa-atletizm-sampiyonasi-yarin-ingilterede-baslayacak/4022290",
-      "description": "Avrupa Atletizm Şampiyonası, yarın İngiltere'de başlayacak.",
-      "pubDate": "Sun, 09 Aug 2026 10:51:04 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/09/thumbs_b_c_990cae65a49e20e7eb176903c725f9ad.jpg"
     }
   ]
 }
