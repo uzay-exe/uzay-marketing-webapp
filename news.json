@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-12T05:17:18.775615+00:00",
+  "updated": "2026-08-12T09:46:59.782564+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Beşiktaş, Hradec Kralove maçının hazırlıklarını tamamladı",
+      "link": "https://www.aa.com.tr/tr/spor/besiktas-hradec-kralove-macinin-hazirliklarini-tamamladi/4025053",
+      "description": "UEFA Avrupa Ligi 3. eleme turu rövanşında yarın Çekya'nın Hradec Kralove takımıyla karşılaşacak Beşiktaş, son antrenmanını yaptı.",
+      "pubDate": "Wed, 12 Aug 2026 12:16:12 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_a98b6e9629fc351f01aabda33475389e.jpg"
+    },
+    {
+      "title": "Galatasaray'ın bu sezonki rakipleri karşısındaki karnesi",
+      "link": "https://www.aa.com.tr/tr/spor/galatasarayin-bu-sezonki-rakipleri-karsisindaki-karnesi/4024899",
+      "description": "Trendyol Süper Lig'de 2026-2027 sezonuna sahasındaki Çorum FK maçı ile başlayacak son şampiyon Galatasaray, bu kulvarda en çok Fenerbahçe ile karşı karşıya geldi.",
+      "pubDate": "Wed, 12 Aug 2026 11:28:26 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_b6a638ea6810edd951f1e5c357f7628f.jpg"
+    },
+    {
+      "title": "Galatasaray'ın lig tarihindeki performansı",
+      "link": "https://www.aa.com.tr/tr/spor/galatasarayin-lig-tarihindeki-performansi/4024896",
+      "description": "Galatasaray, Trendyol Süper Lig'de yarın Çorum FK ile yapacağı maçla lig tarihinde 69. sezonuna girecek.",
+      "pubDate": "Wed, 12 Aug 2026 11:28:11 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_67cbb9e5bbcee6b4704c85dc9b43dcac.jpg"
+    },
+    {
+      "title": "Süper Lig tarihinin \"en\"leri",
+      "link": "https://www.aa.com.tr/tr/spor/super-lig-tarihinin-enleri/4024860",
+      "description": "Eski adıyla Türkiye 1. Futbol Ligi, son yıllardaki ismiyle Süper Lig'in 68 yıllık geçmişinde birçok rekora imza atıldı.",
+      "pubDate": "Wed, 12 Aug 2026 11:12:59 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_634a10d23e5d2d0434cdd2331fa10866.jpg"
+    },
+    {
+      "title": "Süper Lig'in en gollü maçları",
+      "link": "https://www.aa.com.tr/tr/spor/super-ligin-en-gollu-maclari/4024856",
+      "description": "Bu sezon 69. yaşına girecek eski adı Türkiye 1. Futbol Ligi olan Süper Lig'de şimdiye kadar bir maçta en fazla 12 kez gol sevinci yaşandı.",
+      "pubDate": "Wed, 12 Aug 2026 11:12:14 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_3727adc7171fce2d087979d3d6dca8d7.jpg"
+    },
+    {
+      "title": "Beşiktaş, Avrupa kupalarında 262. maçına çıkacak",
+      "link": "https://www.aa.com.tr/tr/spor/besiktas-avrupa-kupalarinda-262-macina-cikacak/4024855",
+      "description": "UEFA Avrupa Ligi 3. eleme turu rövanşında yarın Çekya ekibi Hradec Kralove'yi ağırlayacak Beşiktaş, Avrupa kupalarındaki 262. mücadelesine çıkacak.",
+      "pubDate": "Wed, 12 Aug 2026 11:11:57 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_6470435414ebb66b6c88d2261992c974.jpg"
+    },
+    {
+      "title": "Ligin \"en hızlı\" golcüleri",
+      "link": "https://www.aa.com.tr/tr/spor/ligin-en-hizli-golculeri/4024840",
+      "description": "Bu sezon 69 yaşına girecek eski adıyla Türkiye 1. Futbol Ligi, son yıllardaki adıyla Süper Lig'de bilinen en erken golü, 2021-2022 sezonunda Gaziantep FK'li futbolcu Muhammet Demir attı.",
+      "pubDate": "Wed, 12 Aug 2026 11:03:48 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_a0fab831cb20e39bd9765ee405fbaf7d.jpg"
+    },
+    {
+      "title": "TEKNOFEST Mavi Vatan kapsamında 22 Ağustos'ta Açık Su Yüzme Yarışları yapılacak",
+      "link": "https://www.aa.com.tr/tr/spor/teknofest-mavi-vatan-kapsaminda-22-agustosta-acik-su-yuzme-yarislari-yapilacak/4024802",
+      "description": "TEKNOFEST Mavi Vatan kapsamında düzenlenecek Açık Su Yüzme Yarışları, 22 Ağustos'ta Kocaeli'nin Gölcük ilçesinde gerçekleştirilecek.",
+      "pubDate": "Wed, 12 Aug 2026 10:33:37 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_bbf3be4ad16a9c290a0e8c09b68ba22b.jpg"
+    },
+    {
+      "title": "Samsunspor, yeni sezona galibiyetle başlamak istiyor",
+      "link": "https://www.aa.com.tr/tr/spor/samsunspor-yeni-sezona-galibiyetle-baslamak-istiyor/4024760",
+      "description": "Trendyol Süper Lig ekiplerinden Samsunspor, yeni sezona galibiyetle başlamayı hedefliyor.",
+      "pubDate": "Wed, 12 Aug 2026 09:43:52 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_0eafdc6507e69109aadb260816256113.jpg"
+    },
+    {
+      "title": "Beşiktaş, UEFA Avrupa Ligi'nde yarın Hradec Kralove'u ağırlayacak",
+      "link": "https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-yarin-hradec-kraloveu-agirlayacak/4024753",
+      "description": "Beşiktaş, UEFA Avrupa Ligi 3. eleme turu rövanş maçında yarın evinde Çekya ekibi Hradec Kralove ile karşılaşacak.",
+      "pubDate": "Wed, 12 Aug 2026 09:33:39 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_a50dac6eef0d001672f286b88dd293a7.jpg"
+    },
     {
       "title": "UEFA Şampiyonlar Ligi'nde üçüncü eleme turu  rövanş maçları tamamlandı",
       "link": "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-ucuncu-eleme-turu-rovans-maclari-tamamlandi/4024677",
@@ -15,76 +85,6 @@
       "description": "Fenerbahçe, UEFA Şampiyonlar Ligi 3. eleme turu rövanş maçında Sturm Graz’ı 1-0 yenerek play-off’a yükseldi.",
       "pubDate": "Tue, 11 Aug 2026 22:23:29 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/11/thumbs_b_c_642507c73b5aae299b9b6f518303a735.jpg"
-    },
-    {
-      "title": "Galatasaraylı futbolcu Lucas Torreira'ya göre bu sezon lig yarışı zor olacak",
-      "link": "https://www.aa.com.tr/tr/spor/galatasarayli-futbolcu-lucas-torreiraya-gore-bu-sezon-lig-yarisi-zor-olacak/4024478",
-      "description": "Galatasaray'ın Uruguaylı futbolcusu Lucas Torreira, Türkiye'de ligin geliştiğini ve şampiyonluk yarışının her zamankinden daha zor olacağını söyledi.",
-      "pubDate": "Tue, 11 Aug 2026 19:06:29 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/11/thumbs_b_c_05f77ab66b36a97f857bf96faaa26edd.jpg"
-    },
-    {
-      "title": "Hentbolda 2026-2027 sezonu Süper Lig fikstürü belli oldu",
-      "link": "https://www.aa.com.tr/tr/spor/hentbolda-2026-2027-sezonu-super-lig-fiksturu-belli-oldu/4024507",
-      "description": "Erkekler Süper Lig'de sezon 29 Ağustos, Kadınlar Süper Lig'de 30 Ağustos'ta başlayacak.",
-      "pubDate": "Tue, 11 Aug 2026 19:37:00 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/11/thumbs_b_c_c593aa2af1193e2dcd53ea752442c3bc.jpg"
-    },
-    {
-      "title": "Şekip Mosturoğlu'ndan takım otobüsüne saldırı dosyasına ilişkin açıklama",
-      "link": "https://www.aa.com.tr/tr/spor/sekip-mosturoglundan-takim-otobusune-saldiri-dosyasina-iliskin-aciklama/4024376",
-      "description": "Fenerbahçe Kulübü Yüksek Divan Kurulu Başkanı Şekip Mosturoğlu, takım otobüsüne saldırı dosyasına ilişkin açıklama yaptı.",
-      "pubDate": "Tue, 11 Aug 2026 17:30:43 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/11/thumbs_b_c_73c3af08c9cd38f86ba619a3271246a2.jpg"
-    },
-    {
-      "title": "Teknik direktör Abdullah Avcı'nın annesi Feriha Avcı vefat etti",
-      "link": "https://www.aa.com.tr/tr/spor/teknik-direktor-abdullah-avcinin-annesi-feriha-avci-vefat-etti/4024280",
-      "description": "Teknik direktör Abdullah Avcı'nın annesi Feriha Avcı vefat etti.",
-      "pubDate": "Tue, 11 Aug 2026 16:08:37 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/11/thumbs_b_c_dddcdb657dd82034f0bee4d8b396fae0.jpg"
-    },
-    {
-      "title": "Trabzonspor'un yıldız oyuncusu Muhammed Salah'ın yer aldığı video milyonların gönlüne dokundu",
-      "link": "https://www.aa.com.tr/tr/spor/trabzonsporun-yildiz-oyuncusu-muhammed-salahin-yer-aldigi-video-milyonlarin-gonlune-dokundu/4023938",
-      "description": "Bordo-mavili takımın Mısırlı oyuncusu Muhammed Salah'ın tanıtım filminde Karadenizli ailenin sofrasına konuk olduğu video sosyal medyada ilgi görüyor.",
-      "pubDate": "Tue, 11 Aug 2026 11:46:10 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/11/thumbs_b_c_828e0184e07cf7ad860139e8d5e0b26f.jpg"
-    },
-    {
-      "title": "UEFA, hakemlerin karar alma süreçlerine açıklık getirmek için \"Clear Line\"ı kullanıma sundu",
-      "link": "https://www.aa.com.tr/tr/spor/uefa-hakemlerin-karar-alma-sureclerine-aciklik-getirmek-icin-clear-linei-kullanima-sundu/4024071",
-      "description": "UEFA, Avrupa futbolunda hakemlerin karar alma süreçlerine daha fazla açıklık, tutarlılık ve şeffaflık getirmek amacıyla tasarlanmış yeni bir veri tabanı olan \"Clear Line\"ı (Net Çizgi) kullanıma sundu.",
-      "pubDate": "Tue, 11 Aug 2026 13:27:58 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/11/thumbs_b_c_c0cf67b3f9ce88265a7b44651666eda1.jpg"
-    },
-    {
-      "title": "Skibbe'nin yardımcısı Serhat Umar, yoluna teknik direktör olarak devam etmek istiyor",
-      "link": "https://www.aa.com.tr/tr/spor/skibbenin-yardimcisi-serhat-umar-yoluna-teknik-direktor-olarak-devam-etmek-istiyor/4023871",
-      "description": "Japonya 1. Futbol Ligi (J1 Ligi) takımlarından Vissel Kobe'de Alman teknik adam Michael Skibbe'nin yardımcılığını yapan Serhat Umar, kariyerine teknik direktör olarak devam etmek istediğini söyledi.",
-      "pubDate": "Tue, 11 Aug 2026 11:09:15 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/11/thumbs_b_c_d9b97a05fc9a5f8f440d06ebf6fa3d1c.jpg"
-    },
-    {
-      "title": "Samsunspor, Sarıyer Kola ile sponsorluk anlaşması imzaladı",
-      "link": "https://www.aa.com.tr/tr/spor/samsunspor-sariyer-kola-ile-sponsorluk-anlasmasi-imzaladi/4024023",
-      "description": "Trendyol Süper Lig ekiplerinden Samsunspor, konç sponsorluğu için Sarıyer Kola ile sözleşme imzaladı.",
-      "pubDate": "Tue, 11 Aug 2026 12:44:26 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/11/thumbs_b_c_329f88985be042db344360aa88ba2fd0.jpg"
-    },
-    {
-      "title": "Süper Lig'e \"Üç büyükler\" damgası",
-      "link": "https://www.aa.com.tr/tr/spor/super-lige-uc-buyukler-damgasi/4023864",
-      "description": "Süper Lig'in 68 yıllık geçmişine Galatasaray, Fenerbahçe ve Beşiktaş damgasını vurdu.",
-      "pubDate": "Tue, 11 Aug 2026 11:06:37 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/11/thumbs_b_c_ac3454f60dff98062eb09cd3ecb3ec40.jpg"
-    },
-    {
-      "title": "Süper Lig'in \"farklı\" skorları",
-      "link": "https://www.aa.com.tr/tr/spor/super-ligin-farkli-skorlari/4023860",
-      "description": "Bu sezon 69 yaşına girecek, eski adıyla Türkiye 1. Futbol Ligi, şimdiki adıyla Süper Lig'de en farklı skorlu galibiyeti Beşiktaş elde etti.",
-      "pubDate": "Tue, 11 Aug 2026 11:04:59 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/11/thumbs_b_c_ac43c13bbabc17b3c0f1f8f41148596b.jpg"
     }
   ]
 }
