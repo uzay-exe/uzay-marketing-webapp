@@ -69,6 +69,8 @@ a {
   background-size: cover;
   background-position: center;
   cursor: pointer;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .slide.active {
@@ -82,10 +84,10 @@ a {
   bottom: 14px;
   background: var(--text);
   color: #171208;
-  font-size: 13px;
+  font-size: 11px;
   font-weight: 700;
   border-radius: 999px;
-  padding: 8px 18px;
+  padding: 5px 13px;
 }
 
 .slider-next {
@@ -106,6 +108,8 @@ a {
   justify-content: center;
   cursor: pointer;
   backdrop-filter: blur(2px);
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .slider-dots {
