@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<title>Çark · Uzay Marketing</title>
+<link rel="stylesheet" href="style.css?v=3" />
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+</head>
+<body>
+  <header class="subpage-header">
+    <a class="back-btn" href="oyunlar.html">
+      <span>←</span> GERİ
+    </a>
+    <div class="subpage-title">🎡 ÇARK</div>
+    <div class="token-pill">🪙 <span id="token-balance">0</span></div>
+  </header>
+
+  <main>
+    <div class="wheel-wrap">
+      <div class="wheel-pointer"></div>
+      <div class="wheel" id="wheel">
+        <div class="wheel-center">🦄</div>
+      </div>
+    </div>
+
+    <p class="spin-status" id="spin-status">Çarka dokun, döndür, dilime göre token kazan.</p>
+
+    <button class="cta" id="spin-btn">Çevirmek için dokun</button>
+  </main>
+
+  <nav class="bottom-nav">
+    <a href="index.html">
+      <span class="bn-icon">🏠</span>
+      <span class="bn-label">Anasayfa</span>
+    </a>
+    <a href="haberler.html">
+      <span class="bn-icon">📰</span>
+      <span class="bn-label">Haberler</span>
+    </a>
+    <a href="ortakliklar.html">
+      <span class="bn-icon">🤝</span>
+      <span class="bn-label">Ortaklıklar</span>
+    </a>
+    <a href="oyunlar.html" class="active">
+      <span class="bn-icon">🎮</span>
+      <span class="bn-label">Oyunlar</span>
+    </a>
+  </nav>
+
+  <script>
+    const tg = window.Telegram.WebApp;
+    tg.ready();
+    tg.expand();
+
+    // Demo veri katmanı: gerçek backend gelene kadar localStorage kullanılıyor.
+    const BALANCE_KEY = 'demo_token_balance';
+    const LAST_SPIN_KEY = 'cark_last_spin_ts';
+    const COOLDOWN_MS = 24 * 60 * 60 * 1000; // 24 saat
+
+    function getBalance() {
+      return parseInt(localStorage.getItem(BALANCE_KEY) || '1000', 10);
+    }
+    function setBalance(v) {
+      localStorage.setItem(BALANCE_KEY, String(v));
+      document.getElementById('token-balance').textContent = v.toLocaleString('tr-TR');
+    }
+
+    // Truvabet referansındaki 12 dilim + ağırlıklar (düşük değer daha sık, jackpot nadir)
+    const segments = [
+      { value: 50, weight: 20 },
+      { value: 100, weight: 18 },
+      { value: 150, weight: 15 },
+      { value: 200, weight: 13 },
+      { value: 250, weight: 10 },
+      { value: 300, weight: 8 },
+      { value: 400, weight: 6 },
+      { value: 500, weight: 4 },
+      { value: 750, weight: 2.5 },
+      { value: 1000, weight: 1.5 },
+      { value: 1500, weight: 0.7 },
+      { value: 5000, weight: 0.3, jackpot: true },
+    ];
+
+    const segAngle = 360 / segments.length;
+    const colorA = '#1c2029';
+    const colorB = '#2a2f3d';
+    const colorJackpot = '#8c2f2f';
+
+    function buildWheel() {
+      const wheel = document.getElementById('wheel');
+      const stops = segments
+        .map((seg, i) => {
+          const from = i * segAngle;
+          const to = from + segAngle;
+          const color = seg.jackpot ? colorJackpot : i % 2 === 0 ? colorA : colorB;
+          return `${color} ${from}deg ${to}deg`;
+        })
+        .join(', ');
+      wheel.style.background = `conic-gradient(${stops})`;
+
+      segments.forEach((seg, i) => {
+        const mid = i * segAngle + segAngle / 2;
+        const label = document.createElement('div');
+        label.className = 'wheel-segment-label';
+        label.textContent = seg.value;
+        // conic-gradient açıları 12 yönünden (yukarı, 0deg) saat yönünde başlar,
+        // translate(Xpx) ise rotate(0)'da 3 yönünü (sağ) işaret eder — ikisini
+        // hizalamak için -90deg ile referans noktasını yukarı kaydırıyoruz.
+        label.style.transform = `rotate(${mid - 90}deg) translate(78px) rotate(90deg) translate(-50%, -50%)`;
+        wheel.appendChild(label);
+      });
+    }
+
+    function pickSegment() {
+      const totalWeight = segments.reduce((sum, s) => sum + s.weight, 0);
+      let r = Math.random() * totalWeight;
+      for (let i = 0; i < segments.length; i++) {
+        r -= segments[i].weight;
+        if (r <= 0) return i;
+      }
+      return 0;
+    }
+
+    let spinTurns = 0;
+
+    function spin() {
+      const wheel = document.getElementById('wheel');
+      const btn = document.getElementById('spin-btn');
+      const status = document.getElementById('spin-status');
+
+      const index = pickSegment();
+      const seg = segments[index];
+      const segCenter = index * segAngle + segAngle / 2;
+
+      spinTurns += 1;
+      const targetRotation = spinTurns * 360 * 5 + (360 - segCenter);
+      wheel.style.transform = `rotate(${targetRotation}deg)`;
+
+      btn.disabled = true;
+      status.textContent = 'Çark dönüyor...';
+
+      setTimeout(() => {
+        setBalance(getBalance() + seg.value);
+        status.textContent = seg.jackpot
+          ? `🎉 JACKPOT! +${seg.value} token kazandın!`
+          : `+${seg.value} token kazandın.`;
+        localStorage.setItem(LAST_SPIN_KEY, String(Date.now()));
+        lockUntilCooldown();
+      }, 4600);
+    }
+
+    function formatCountdown(ms) {
+      const total = Math.max(0, Math.floor(ms / 1000));
+      const h = String(Math.floor(total / 3600)).padStart(2, '0');
+      const m = String(Math.floor((total % 3600) / 60)).padStart(2, '0');
+      const s = String(total % 60).padStart(2, '0');
+      return `${h}:${m}:${s}`;
+    }
+
+    let countdownTimer = null;
+
+    function lockUntilCooldown() {
+      const btn = document.getElementById('spin-btn');
+      const status = document.getElementById('spin-status');
+      btn.disabled = true;
+
+      function tick() {
+        const lastTs = parseInt(localStorage.getItem(LAST_SPIN_KEY) || '0', 10);
+        const remaining = COOLDOWN_MS - (Date.now() - lastTs);
+        if (remaining <= 0) {
+          clearInterval(countdownTimer);
+          btn.disabled = false;
+          status.textContent = 'Çarka dokun, döndür, dilime göre token kazan.';
+          status.classList.remove('countdown');
+          return;
+        }
+        status.classList.add('countdown');
+        status.textContent = `Bugünkü hakkını kullandın. Yeni hakkına kalan süre: ${formatCountdown(remaining)}`;
+      }
+
+      tick();
+      countdownTimer = setInterval(tick, 1000);
+    }
+
+    buildWheel();
+    setBalance(getBalance());
+
+    const lastTs = parseInt(localStorage.getItem(LAST_SPIN_KEY) || '0', 10);
+    if (Date.now() - lastTs < COOLDOWN_MS) {
+      lockUntilCooldown();
+    }
+
+    document.getElementById('spin-btn').addEventListener('click', spin);
+  </script>
+</body>
+</html>

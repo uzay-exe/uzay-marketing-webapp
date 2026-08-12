@@ -12,12 +12,21 @@
 <body>
   <header class="topbar">
     <div class="brand">Uzay <span>Marketing</span></div>
+    <div class="token-pill">🪙 <span id="token-balance">0</span></div>
   </header>
 
   <main>
+    <a class="card game-card" href="cark.html">
+      <div class="game-card-icon">🎡</div>
+      <div class="game-card-body">
+        <h3>Bedava Çark</h3>
+        <p>Günde bir kez çevir, dilime göre token kazan.</p>
+      </div>
+    </a>
+
     <div class="empty-state">
       <div class="icon">🎮</div>
-      <p>Oyunlar çok yakında burada olacak.</p>
+      <p>Diğer oyunlar çok yakında burada olacak.</p>
     </div>
   </main>
 
@@ -44,6 +53,9 @@
     const tg = window.Telegram.WebApp;
     tg.ready();
     tg.expand();
+
+    const balance = parseInt(localStorage.getItem('demo_token_balance') || '1000', 10);
+    document.getElementById('token-balance').textContent = balance.toLocaleString('tr-TR');
   </script>
 </body>
 </html>
