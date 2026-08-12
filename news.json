@@ -1,13 +1,27 @@
 {
-  "updated": "2026-08-12T09:46:59.782564+00:00",
+  "updated": "2026-08-12T12:35:09.975315+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Milli artistik cimnastikçiler, Avrupa Şampiyonası'nda mücadele edecek",
+      "link": "https://www.aa.com.tr/tr/spor/milli-artistik-cimnastikciler-avrupa-sampiyonasinda-mucadele-edecek/4025136",
+      "description": "Hem büyük hem de genç yaş grubundaki milli sporcuların katılacağı Avrupa Artistik Cimnastik Şampiyonası, yarın Hırvatistan'da başlayacak.",
+      "pubDate": "Wed, 12 Aug 2026 13:15:49 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_427a5ac95cfe40d9c47c870390e21580.jpg"
+    },
+    {
+      "title": "TVF Başkanı Mehmet Üstündağ: İnşallah bu yıl Milletler Ligi şampiyonluğuna Avrupa şampiyonluğunu da ilave ederiz",
+      "link": "https://www.aa.com.tr/tr/spor/tvf-baskani-mehmet-ustundag-insallah-bu-yil-milletler-ligi-sampiyonluguna-avrupa-sampiyonlugunu-da-ilave-ederiz/4025092",
+      "description": "Türkiye Voleybol Federasyonu (TVF) Başkanı Mehmet Akif Üstündağ, A Milli Kadın Voleybol Takımı'nın 21 Ağustos-6 Eylül tarihlerinde İstanbul'da düzenlenecek 2026 CEV Avrupa Şampiyonası'nda son şampiyon ünvanını koruyacağına inandığını söyledi.",
+      "pubDate": "Wed, 12 Aug 2026 12:41:53 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_466d57d68bd3eac4aa352488673298f9.jpg"
+    },
     {
       "title": "Beşiktaş, Hradec Kralove maçının hazırlıklarını tamamladı",
       "link": "https://www.aa.com.tr/tr/spor/besiktas-hradec-kralove-macinin-hazirliklarini-tamamladi/4025053",
       "description": "UEFA Avrupa Ligi 3. eleme turu rövanşında yarın Çekya'nın Hradec Kralove takımıyla karşılaşacak Beşiktaş, son antrenmanını yaptı.",
       "pubDate": "Wed, 12 Aug 2026 12:16:12 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_a98b6e9629fc351f01aabda33475389e.jpg"
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_887b696047127833d5ff8e8a5f468a8b.jpg"
     },
     {
       "title": "Galatasaray'ın bu sezonki rakipleri karşısındaki karnesi",
@@ -71,20 +85,6 @@
       "description": "Beşiktaş, UEFA Avrupa Ligi 3. eleme turu rövanş maçında yarın evinde Çekya ekibi Hradec Kralove ile karşılaşacak.",
       "pubDate": "Wed, 12 Aug 2026 09:33:39 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_a50dac6eef0d001672f286b88dd293a7.jpg"
-    },
-    {
-      "title": "UEFA Şampiyonlar Ligi'nde üçüncü eleme turu  rövanş maçları tamamlandı",
-      "link": "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-ucuncu-eleme-turu-rovans-maclari-tamamlandi/4024677",
-      "description": "UEFA Şampiyonlar Ligi'nde üçüncü eleme turu rövanş maçları sona erdi.",
-      "pubDate": "Wed, 12 Aug 2026 00:09:20 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_fb6239759210ec70ee727e7e06460b51.jpg"
-    },
-    {
-      "title": "Fenerbahçe, play-off turuna galibiyetle yükseldi",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-play-off-turuna-galibiyetle-yukseldi/4024623",
-      "description": "Fenerbahçe, UEFA Şampiyonlar Ligi 3. eleme turu rövanş maçında Sturm Graz’ı 1-0 yenerek play-off’a yükseldi.",
-      "pubDate": "Tue, 11 Aug 2026 22:23:29 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/11/thumbs_b_c_642507c73b5aae299b9b6f518303a735.jpg"
     }
   ]
 }
