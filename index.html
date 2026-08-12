@@ -6,7 +6,7 @@
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
 <meta http-equiv="Pragma" content="no-cache" />
 <title>Uzay Marketing</title>
-<link rel="stylesheet" href="style.css?v=7" />
+<link rel="stylesheet" href="style.css?v=8" />
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
 </head>
 <body>
@@ -15,9 +15,16 @@
   </header>
 
   <section class="slider" id="slider">
-    <button class="slide active" style="background-image: url('images/slide-truvabet.jpg')" data-url="http://tinyurl.com/truvagiris" aria-label="Truvabet"></button>
-    <button class="slide" style="background-image: url('images/slide-venusbet.png')" data-url="http://tinyurl.com/venusgiris" aria-label="Venüsbet"></button>
-    <button class="slide" style="background-image: url('images/slide-ronabet.jpg')" data-url="https://ronabet.io/" aria-label="Ronabet"></button>
+    <div class="slide active" style="background-image: url('images/slide-truvabet.jpg')" data-url="http://tinyurl.com/truvagiris" role="button" tabindex="0" aria-label="Truvabet">
+      <span class="slide-cta">Geçmek</span>
+    </div>
+    <div class="slide" style="background-image: url('images/slide-venusbet.png')" data-url="http://tinyurl.com/venusgiris" role="button" tabindex="0" aria-label="Venüsbet">
+      <span class="slide-cta">Geçmek</span>
+    </div>
+    <div class="slide" style="background-image: url('images/slide-ronabet.jpg')" data-url="https://ronabet.io/" role="button" tabindex="0" aria-label="Ronabet">
+      <span class="slide-cta">Geçmek</span>
+    </div>
+    <button class="slider-next" id="slider-next" aria-label="Sonraki slayt">›</button>
     <div class="slider-dots"></div>
   </section>
 
@@ -69,13 +76,23 @@
       slides[current].classList.add('active');
       dots[current].classList.add('active');
     }
-    setInterval(() => showSlide((current + 1) % slides.length), 4000);
+
+    let autoplay = setInterval(() => showSlide((current + 1) % slides.length), 4000);
+    function restartAutoplay() {
+      clearInterval(autoplay);
+      autoplay = setInterval(() => showSlide((current + 1) % slides.length), 4000);
+    }
 
     slides.forEach((slide) => {
       slide.addEventListener('click', () => {
         const url = slide.dataset.url;
         if (url) tg.openLink(url);
       });
+    });
+
+    document.getElementById('slider-next').addEventListener('click', () => {
+      showSlide((current + 1) % slides.length);
+      restartAutoplay();
     });
   </script>
 </body>

@@ -76,6 +76,38 @@ a {
   pointer-events: auto;
 }
 
+.slide-cta {
+  position: absolute;
+  left: 12px;
+  bottom: 14px;
+  background: var(--text);
+  color: #171208;
+  font-size: 13px;
+  font-weight: 700;
+  border-radius: 999px;
+  padding: 8px 18px;
+}
+
+.slider-next {
+  position: absolute;
+  right: 12px;
+  bottom: 14px;
+  z-index: 5;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(23, 26, 33, 0.55);
+  color: var(--text);
+  font-size: 18px;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  backdrop-filter: blur(2px);
+}
+
 .slider-dots {
   position: absolute;
   bottom: 12px;
