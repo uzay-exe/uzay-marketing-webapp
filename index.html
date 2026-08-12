@@ -15,18 +15,9 @@
   </header>
 
   <section class="slider" id="slider">
-    <div class="slide active">
-      <h2>Hoş Geldin</h2>
-      <p>Güncel fırsatlar ve içerikler için buradayız.</p>
-    </div>
-    <div class="slide">
-      <h2>Haberler</h2>
-      <p>Sektörden en son gelişmeleri takip et.</p>
-    </div>
-    <div class="slide">
-      <h2>Ortaklıklar</h2>
-      <p>İş birliği fırsatlarını keşfet.</p>
-    </div>
+    <button class="slide active" style="background-image: url('images/slide-truvabet.jpg')" data-url="http://tinyurl.com/truvagiris" aria-label="Truvabet"></button>
+    <button class="slide" style="background-image: url('images/slide-venusbet.png')" data-url="http://tinyurl.com/venusgiris" aria-label="Venüsbet"></button>
+    <button class="slide" style="background-image: url('images/slide-ronabet.jpg')" data-url="https://ronabet.io/" aria-label="Ronabet"></button>
     <div class="slider-dots"></div>
   </section>
 
@@ -79,6 +70,13 @@
       dots[current].classList.add('active');
     }
     setInterval(() => showSlide((current + 1) % slides.length), 4000);
+
+    slides.forEach((slide) => {
+      slide.addEventListener('click', () => {
+        const url = slide.dataset.url;
+        if (url) tg.openLink(url);
+      });
+    });
   </script>
 </body>
 </html>
