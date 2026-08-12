@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-12T20:04:33.359366+00:00",
+  "updated": "2026-08-12T23:21:30.958393+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Paris Saint-Germain, UEFA Süper Kupa'da peş peşe şampiyonluğa ulaştı",
+      "link": "https://www.aa.com.tr/tr/spor/paris-saint-germain-uefa-super-kupada-pes-pese-sampiyonluga-ulasti/4025815",
+      "description": "Fransız kulübü Paris Saint-Germain (PSG), UEFA Süper Kupa'da hem üst üste hem de toplamda 2'nci şampiyonluğuna ulaştı.",
+      "pubDate": "Wed, 12 Aug 2026 23:55:48 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_cd5cc3f0cd1422b1d11aa556f71feab9.jpg"
+    },
+    {
+      "title": "TFF Fenerbahçe'nin Gençlerbirliği maçını erteleme talebini reddetti",
+      "link": "https://www.aa.com.tr/tr/spor/tff-fenerbahcenin-genclerbirligi-macini-erteleme-talebini-reddetti/4025775",
+      "description": "TFF, UEFA Şampiyonlar Ligi play-off turundaki Olimpik Lyon maçı nedeniyle Fenerbahçe'nin Trendyol Süper Lig'in ilk haftasında yapacakları Gençlerbirliği maçının ertelenmesi yönündeki talebini reddetti.",
+      "pubDate": "Wed, 12 Aug 2026 23:09:08 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_778a61cc71c31a37b13d0ee17f5edb75.jpg"
+    },
     {
       "title": "THF Mobil Uygulaması tanıtıldı",
       "link": "https://www.aa.com.tr/tr/spor/thf-mobil-uygulamasi-tanitildi/4025701",
@@ -71,20 +85,6 @@
       "description": "Trendyol Süper Lig'de 2026-2027 sezonuna sahasındaki Çorum FK maçı ile başlayacak son şampiyon Galatasaray, bu kulvarda en çok Fenerbahçe ile karşı karşıya geldi.",
       "pubDate": "Wed, 12 Aug 2026 11:28:26 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_b6a638ea6810edd951f1e5c357f7628f.jpg"
-    },
-    {
-      "title": "Galatasaray'ın lig tarihindeki performansı",
-      "link": "https://www.aa.com.tr/tr/spor/galatasarayin-lig-tarihindeki-performansi/4024896",
-      "description": "Galatasaray, Trendyol Süper Lig'de yarın Çorum FK ile yapacağı maçla lig tarihinde 69. sezonuna girecek.",
-      "pubDate": "Wed, 12 Aug 2026 11:28:11 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_67cbb9e5bbcee6b4704c85dc9b43dcac.jpg"
-    },
-    {
-      "title": "Süper Lig tarihinin \"en\"leri",
-      "link": "https://www.aa.com.tr/tr/spor/super-lig-tarihinin-enleri/4024860",
-      "description": "Eski adıyla Türkiye 1. Futbol Ligi, son yıllardaki ismiyle Süper Lig'in 68 yıllık geçmişinde birçok rekora imza atıldı.",
-      "pubDate": "Wed, 12 Aug 2026 11:12:59 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_634a10d23e5d2d0434cdd2331fa10866.jpg"
     }
   ]
 }
