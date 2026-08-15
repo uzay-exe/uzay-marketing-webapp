@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-15T20:51:19.121225+00:00",
+  "updated": "2026-08-15T21:43:10.562320+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Fenerbahçe, Süper Lig'e yenilgiyle başladı",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-super-lige-yenilgiyle-basladi/4028465",
+      "description": "Fenerbahçe, Trendyol Süper Lig'in ilk haftasında deplasmanda Gençlerbirliği'ne 2-1 yenilerek sezona kötü bir başlangıç yaptı.",
+      "pubDate": "Sat, 15 Aug 2026 22:34:40 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/15/thumbs_b_c_e1a258e092d0c33ab10ee27630ed27fd.jpg"
+    },
     {
       "title": "Gaziantep FK, evinde Corendon Alanyaspor ile 1-1 berabere kaldı",
       "link": "https://www.aa.com.tr/tr/spor/gaziantep-fk-evinde-corendon-alanyaspor-ile-1-1-berabere-kaldi/4028461",
@@ -78,13 +85,6 @@
       "description": "Fransa Ligue 1 ekibi Paris Saint-Germain, Barcelona'dan Ferran Torres'i transfer etti.",
       "pubDate": "Sat, 15 Aug 2026 12:43:19 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/15/thumbs_b_c_b97af74a7364c961939524a7540ba079.jpg"
-    },
-    {
-      "title": "Beşiktaş'ın Süper Lig'deki seyir defteri",
-      "link": "https://www.aa.com.tr/tr/spor/besiktasin-super-ligdeki-seyir-defteri/4028053",
-      "description": "Beşiktaş, Trendyol Süper Lig'in ilk haftasında Eyüpspor ile sahasında oynayacağı maçla Türk futbolunun en üst seviye organizasyonunda 69. sezonuna başlayacak.",
-      "pubDate": "Sat, 15 Aug 2026 12:12:07 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/15/thumbs_b_c_74a2873c9a0a1b5a2543bfcbb97fb86c.jpg"
     }
   ]
 }
