@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-15T08:59:51.941224+00:00",
+  "updated": "2026-08-15T09:53:24.135298+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Atletico Madrid, Cristian Romero'yu kadrosuna kattı",
+      "link": "https://www.aa.com.tr/tr/spor/atletico-madrid-cristian-romeroyu-kadrosuna-katti/4028084",
+      "description": "İspanya LaLiga ekibi Atletico Madrid, Arjantinli stoper Cristian Romero'yu kadrosuna kattı.",
+      "pubDate": "Sat, 15 Aug 2026 12:43:15 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/15/thumbs_b_c_57d2c48d54491bfa58cc5658880b7f15.jpg"
+    },
+    {
+      "title": "Paris Saint-Germain, Barcelona'dan Ferran Torres'i transfer etti",
+      "link": "https://www.aa.com.tr/tr/spor/paris-saint-germain-barcelonadan-ferran-torresi-transfer-etti/4028085",
+      "description": "Fransa Ligue 1 ekibi Paris Saint-Germain, Barcelona'dan Ferran Torres'i transfer etti.",
+      "pubDate": "Sat, 15 Aug 2026 12:43:19 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/15/thumbs_b_c_b97af74a7364c961939524a7540ba079.jpg"
+    },
+    {
+      "title": "Beşiktaş'ın Süper Lig'deki seyir defteri",
+      "link": "https://www.aa.com.tr/tr/spor/besiktasin-super-ligdeki-seyir-defteri/4028053",
+      "description": "Beşiktaş, Trendyol Süper Lig'in ilk haftasında Eyüpspor ile sahasında oynayacağı maçla Türk futbolunun en üst seviye organizasyonunda 69. sezonuna başlayacak.",
+      "pubDate": "Sat, 15 Aug 2026 12:12:07 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/15/thumbs_b_c_74a2873c9a0a1b5a2543bfcbb97fb86c.jpg"
+    },
     {
       "title": "Andrea Mazzon, Dünya Kupası'nda büyük hayaller kurmaları gerektiğini düşünüyor",
       "link": "https://www.aa.com.tr/tr/spor/andrea-mazzon-dunya-kupasinda-buyuk-hayaller-kurmalari-gerektigini-dusunuyor/4027986",
@@ -64,27 +85,6 @@
       "description": "A Milli Kadın Basketbol Takımı, Dünya Kupası hazırlıkları kapsamında karşılaştığı Portekiz'i 63-51 mağlup etti.",
       "pubDate": "Fri, 14 Aug 2026 22:08:30 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/14/thumbs_b_c_e1d81907e95a18753012ca48681a5fe4.jpg"
-    },
-    {
-      "title": "Trendyol Süper Lig'de 2026-2027 sezonunun ilk düdüğü İstanbul'da çaldı",
-      "link": "https://www.aa.com.tr/tr/spor/trendyol-super-ligde-2026-2027-sezonunun-ilk-dudugu-istanbulda-caldi/4027807",
-      "description": "Trendyol Süper Lig'de 2026-2027 sezonu Galatasaray-Arca Çorum FK maçıyla başladı.",
-      "pubDate": "Fri, 14 Aug 2026 21:47:36 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/14/thumbs_b_c_0d0274a70c22de15af52fed1d5cc43c3.jpg"
-    },
-    {
-      "title": "Fenerbahçe'nin Olimpik Lyon maçlarının oyuncu listesi belli oldu",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahcenin-olimpik-lyon-maclarinin-oyuncu-listesi-belli-oldu/4027782",
-      "description": "UEFA Şampiyonlar Ligi play-off turunda Fransa'nın Olimpik Lyon ekibiyle eşleşen Fenerbahçe, UEFA'ya kadro bildiriminde bulundu.",
-      "pubDate": "Fri, 14 Aug 2026 21:35:31 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/14/thumbs_b_c_0f8c352bf7c89a3293acd6d41f323dd4.jpg"
-    },
-    {
-      "title": "Beşiktaş Kulübü, Sırp golcü Dusan Vlahovic için imza töreni düzenledi",
-      "link": "https://www.aa.com.tr/tr/spor/besiktas-kulubu-sirp-golcu-dusan-vlahovic-icin-imza-toreni-duzenledi/4027692",
-      "description": "Beşiktaş Kulübü, 3 yıllığına kadrosuna kattığı Sırp santrfor Dusan Vlahovic için imza töreni gerçekleştirdi.",
-      "pubDate": "Fri, 14 Aug 2026 20:56:53 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/14/thumbs_b_c_4725259e14d689fc013c553cf877a5c6.jpg"
     }
   ]
 }
