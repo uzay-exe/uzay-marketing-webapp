@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-16T17:40:47.702120+00:00",
+  "updated": "2026-08-16T19:00:04.902948+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Necip Uysal, Beşiktaş taraftarına veda etti",
+      "link": "https://www.aa.com.tr/tr/spor/necip-uysal-besiktas-taraftarina-veda-etti/4028949",
+      "description": "Beşiktaş formasını 17 sezon aralıksız giyen ve futbolculuk kariyerini sonlandıran kaptan Necip Uysal, siyah-beyazlı taraftarlarla vedalaştı.",
+      "pubDate": "Sun, 16 Aug 2026 21:31:55 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/16/thumbs_b_c_7fea90c4a74b491e92e8b26af38aa1c1.jpg"
+    },
+    {
+      "title": "Milli para yüzücü Defne Kurt, Fransa'da Avrupa şampiyonu oldu",
+      "link": "https://www.aa.com.tr/tr/spor/milli-para-yuzucu-defne-kurt-fransada-avrupa-sampiyonu-oldu/4028944",
+      "description": "Milli para yüzücü Defne Kurt, Fransa'da düzenlenen Avrupa Yüzme Şampiyonası'nda 100 metre serbestte altın madalya kazandı.",
+      "pubDate": "Sun, 16 Aug 2026 21:16:36 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/16/thumbs_b_c_0f71b328386aca8b264b7e887a5780f8.jpg"
+    },
+    {
+      "title": "Başakşehir konuk ettiği Kocaelispor'u mağlup etti",
+      "link": "https://www.aa.com.tr/tr/spor/basaksehir-konuk-ettigi-kocaelisporu-maglup-etti/4028928",
+      "description": "Başakşehir, konuk ettiği Kocaelispor'u 2-0 yendi.",
+      "pubDate": "Sun, 16 Aug 2026 19:56:47 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/16/thumbs_b_c_0f656bbb29cd8983e0a5c527aa7a37ed.jpg"
+    },
     {
       "title": "Trabzonspor-Ferencvaros maçının biletleri yarın satışa sunulacak",
       "link": "https://www.aa.com.tr/tr/spor/trabzonspor-ferencvaros-macinin-biletleri-yarin-satisa-sunulacak/4028930",
@@ -64,27 +85,6 @@
       "description": "İspanya'da yapılacak 19. Aerobik Cimnastik Dünya Şampiyonası'na katılacak Ayşe Begüm Onbaşı, \"Görevimiz Tehlike\" temasıyla Türk bayrağını bir kez daha göndere çektirmeye çalışacak.",
       "pubDate": "Sun, 16 Aug 2026 11:30:04 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/16/thumbs_b_c_e4dfaffb34d95f60ee4e8ad545ab2d61.jpg"
-    },
-    {
-      "title": "Samsunspor, Süper Lig'de yarın Göztepe'yi konuk edecek",
-      "link": "https://www.aa.com.tr/tr/spor/samsunspor-super-ligde-yarin-goztepeyi-konuk-edecek/4028596",
-      "description": "Samsunspor, Trendyol Süper Lig'de 2026-2027 sezonunun ilk haftasında yarın Göztepe ile sahasında karşılaşacak.",
-      "pubDate": "Sun, 16 Aug 2026 10:58:00 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/16/thumbs_b_c_435d338a18bd1bb6016d8b63ddfd377f.jpg"
-    },
-    {
-      "title": "Türkiye Görme Engelliler B1 Erkek Futbol Takımı, Avrupa Şampiyonası'nda mücadele edecek",
-      "link": "https://www.aa.com.tr/tr/spor/turkiye-gorme-engelliler-b1-erkek-futbol-takimi-avrupa-sampiyonasinda-mucadele-edecek/4028551",
-      "description": "Türkiye Görme Engelliler B1 Futbol Erkek Takımı, Fransa'da yarın başlayacak IBSA B1 Avrupa Şampiyonası'nda mücadele edecek.",
-      "pubDate": "Sun, 16 Aug 2026 09:27:44 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/16/thumbs_b_c_41dfb441ea29d9d83e8a99f8b713a8aa.jpg"
-    },
-    {
-      "title": "Fenerbahçe, Süper Lig'e yenilgiyle başladı",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-super-lige-yenilgiyle-basladi/4028465",
-      "description": "Fenerbahçe, Trendyol Süper Lig'in ilk haftasında deplasmanda Gençlerbirliği'ne 2-1 yenilerek sezona kötü bir başlangıç yaptı.",
-      "pubDate": "Sat, 15 Aug 2026 22:34:40 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/15/thumbs_b_c_e1a258e092d0c33ab10ee27630ed27fd.jpg"
     }
   ]
 }
