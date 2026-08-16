@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-16T13:44:16.934644+00:00",
+  "updated": "2026-08-16T14:52:50.043894+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Beşiktaş Kulübü Başkanı Adalı'dan siyah-beyazlı camiaya birlik mesajı",
+      "link": "https://www.aa.com.tr/tr/spor/besiktas-kulubu-baskani-adalidan-siyah-beyazli-camiaya-birlik-mesaji/4028870",
+      "description": "Beşiktaş Kulübü Başkanı Serdal Adalı, siyah-beyazlı camiaya Süper Lig'de oynanacak ilk hafta maçı öncesinde birlik ve beraberlik mesajı gönderdi.",
+      "pubDate": "Sun, 16 Aug 2026 17:44:17 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/16/thumbs_b_c_8b1dbc64eedfdbd98f5a278259bebeb8.jpg"
+    },
+    {
+      "title": "Atlı Okçuluk 2026 Türkiye Şampiyonası'nın yarı finalleri Gaziantep'te tamamlandı",
+      "link": "https://www.aa.com.tr/tr/spor/atli-okculuk-2026-turkiye-sampiyonasinin-yari-finalleri-gaziantepte-tamamlandi/4028854",
+      "description": "Türkiye Geleneksel Atlı Spor Dalları Federasyonu (TGASDF) ile Şahinbey Belediyesi işbirliğinde düzenlenen Atlı Okçuluk 2026 Türkiye Şampiyonası'nın yarı final yarışları tamamlandı.",
+      "pubDate": "Sun, 16 Aug 2026 17:16:42 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/16/thumbs_b_c_c1951e075e08ab3cef63a9c14778c6de.jpg"
+    },
     {
       "title": "Fenerbahçe, Olimpik Lyon maçının hazırlıklarına başladı",
       "link": "https://www.aa.com.tr/tr/spor/fenerbahce-olimpik-lyon-macinin-hazirliklarina-basladi/4028779",
@@ -10,9 +24,9 @@
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/16/thumbs_b_c_41ff55e33dd5b2696571e9b5655f7b4b.jpg"
     },
     {
-      "title": "Gençlerbirliği-Fenerbahçe maçında çocuğun formasının çıkarttırılmasıyla ilgili bir şüpheli yakalandı",
-      "link": "https://www.aa.com.tr/tr/spor/genclerbirligi-fenerbahce-macinda-cocugun-formasinin-cikarttirilmasiyla-ilgili-bir-supheli-yakalandi/4028718",
-      "description": "Gençlerbirliği-Fenerbahçe maçında küçük çocuğun formasının çıkarttırılmasıyla ilgili soruşturma kapsamında bir zanlı gözaltına alındı.",
+      "title": "Gençlerbirliği-Fenerbahçe maçındaki olaya ilişkin yakalanan şüpheliye ev hapsi",
+      "link": "https://www.aa.com.tr/tr/spor/genclerbirligi-fenerbahce-macindaki-olaya-iliskin-yakalanan-supheliye-ev-hapsi-/4028718",
+      "description": "Gençlerbirliği-Fenerbahçe maçında çocuğun formasının çıkarttırılmasıyla ilgili yakalanan şüpheli hakkında, soruşturma süresince konutu terk etmemesine dair adli kontrol hükümlerinin uygulanmasına karar verildi.",
       "pubDate": "Sun, 16 Aug 2026 13:33:02 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/16/thumbs_b_c_5a1380f12597fc8470a9d9ddf86e8508.jpg"
     },
@@ -71,20 +85,6 @@
       "description": "Milli para yüzücü Defne Kurt, Fransa'da düzenlenen Avrupa Yüzme Şampiyonası'nda 50 metre serbestte 27.13'lük derecesiyle gümüş madalya kazandı.",
       "pubDate": "Sat, 15 Aug 2026 22:18:11 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/15/thumbs_b_c_44ae7194c3f8ff41f49158ed9644e1bf.jpg"
-    },
-    {
-      "title": "Çaykur Rizespor, deplasmanda TÜMOSAN Konyaspor'u 1-0 mağlup etti",
-      "link": "https://www.aa.com.tr/tr/spor/caykur-rizespor-deplasmanda-tumosan-konyasporu-1-0-maglup-etti/4028402",
-      "description": "Trendyol Süper Lig'in ilk haftasında Çaykur Rizespor, deplasmanda TÜMOSAN Konyaspor'u 1-0 mağlup etti.",
-      "pubDate": "Sat, 15 Aug 2026 20:00:13 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/15/thumbs_b_c_9629dfe129991d419a40aa57855876a0.jpg"
-    },
-    {
-      "title": "Kasımpaşa evinde Trabzonspor ile 1-1 berabere kaldı",
-      "link": "https://www.aa.com.tr/tr/spor/kasimpasa-evinde-trabzonspor-ile-1-1-berabere-kaldi/4028397",
-      "description": "Trendyol Süper Lig'in ilk haftasında Kasımpaşa ile Trabzonspor 1-1 berabere kaldı.",
-      "pubDate": "Sat, 15 Aug 2026 19:54:58 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/15/thumbs_b_c_68ffe8348ec5b6e5f3de2f97eaab2647.jpg"
     }
   ]
 }
