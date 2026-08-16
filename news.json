@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-16T19:43:33.839348+00:00",
+  "updated": "2026-08-16T20:50:10.583413+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Beşiktaş konuk ettiği Eyüpspor'u yendi",
+      "link": "https://www.aa.com.tr/tr/spor/besiktas-konuk-ettigi-eyupsporu-yendi/4028973",
+      "description": "Beşiktaş, konuk ettiği Eyüpspor'u 1-0 yendi.",
+      "pubDate": "Sun, 16 Aug 2026 22:28:19 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/16/thumbs_b_c_164c5e317181989c0dc0fdceadaa38de.jpg"
+    },
+    {
+      "title": "Milli motosikletçiler, BMU Avrupa Pist Şampiyonası'nda birinci oldu",
+      "link": "https://www.aa.com.tr/tr/spor/milli-motosikletciler-bmu-avrupa-pist-sampiyonasinda-birinci-oldu/4028974",
+      "description": "Türkiye, İstanbul Park'ta düzenlenen Balkan Motosiklet Birliği (BMU) Avrupa Pist Şampiyonası'nda takımlar klasmanında birinci oldu.",
+      "pubDate": "Sun, 16 Aug 2026 22:31:59 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/16/thumbs_b_c_9cb9f7492e83cd037c8c91cc91abff47.jpg"
+    },
     {
       "title": "Amed Sportif Faaliyetler, Süper Lig'deki ilk maçına çıktı",
       "link": "https://www.aa.com.tr/tr/spor/amed-sportif-faaliyetler-super-ligdeki-ilk-macina-cikti/4028960",
@@ -71,20 +85,6 @@
       "description": "Gençlerbirliği-Fenerbahçe maçında çocuğun formasının çıkarttırılmasıyla ilgili yakalanan şüpheli hakkında, soruşturma süresince konutu terk etmemesine dair adli kontrol hükümlerinin uygulanmasına karar verildi.",
       "pubDate": "Sun, 16 Aug 2026 13:33:02 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/16/thumbs_b_c_5a1380f12597fc8470a9d9ddf86e8508.jpg"
-    },
-    {
-      "title": "Fenerbahçe'nin Olimpik Lyon ile yapacağı maçı Alman hakem Sven Jablonski yönetecek",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahcenin-olimpik-lyon-ile-yapacagi-maci-alman-hakem-sven-jablonski-yonetecek/4028651",
-      "description": "Fenerbahçe'nin UEFA Şampiyonlar Ligi play-off turundaki ilk maçını yönetecek hakemler belli oldu.",
-      "pubDate": "Sun, 16 Aug 2026 11:57:34 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/16/thumbs_b_c_18ee6114a6c630b796cdd19fcba1f378.jpg"
-    },
-    {
-      "title": "Milli atıcı Ege Keten, Avrupa Şampiyonası'na hazırlanıyor",
-      "link": "https://www.aa.com.tr/tr/spor/milli-atici-ege-keten-avrupa-sampiyonasina-hazirlaniyor/4028623",
-      "description": "Kırşehir'deki trap yarışlarında keşfedilen madalya avcısı 21 yaşındaki Ege Keten, Yunanistan'ın başkenti Atina'da düzenlenecek Avrupa Şampiyonası'na hazırlanıyor.",
-      "pubDate": "Sun, 16 Aug 2026 11:24:33 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/16/thumbs_b_c_a491163fa74235602b1b51036db16029.jpg"
     }
   ]
 }
