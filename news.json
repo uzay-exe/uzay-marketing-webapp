@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-18T20:54:15.211289+00:00",
+  "updated": "2026-08-18T21:50:11.164803+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Fenerbahçe, turu Fransa'ya bıraktı",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-turu-fransaya-birakti/4031095",
+      "description": "UEFA Şampiyonlar Ligi play-off turu ilk maçında konuk ettiği Olimpik Lyon ile 1-1 berabere kalan Fenerbahçe, turu rövanşa bıraktı.",
+      "pubDate": "Tue, 18 Aug 2026 23:54:00 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/18/thumbs_b_c_906fd451f10c90f98329603a330ef3fd.jpg"
+    },
     {
       "title": "Milli cimnastikçi Adem Asil, Avrupa Şampiyonası'nda olmayacak",
       "link": "https://www.aa.com.tr/tr/spor/milli-cimnastikci-adem-asil-avrupa-sampiyonasinda-olmayacak/4030936",
@@ -78,13 +85,6 @@
       "description": "Avrupa Artistik Cimnastik Şampiyonası'nda erkekler kategorisinde yarışmalar, yarın Hırvatistan'da başlayacak.",
       "pubDate": "Tue, 18 Aug 2026 11:37:40 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/18/thumbs_b_c_37220d8d82ce6f257de5da4746203cd2.jpg"
-    },
-    {
-      "title": "Genç basketbolcu Yiğit Mehmet Okur, kariyerini Barcelona altyapısında sürdürecek",
-      "link": "https://www.aa.com.tr/tr/spor/genc-basketbolcu-yigit-mehmet-okur-kariyerini-barcelona-altyapisinda-surdurecek/4030226",
-      "description": "Eski milli basketbolcu Mehmet Okur’un oğlu Yiğit Mehmet Okur, İspanyol ekibi Barcelona’ya transfer oldu.",
-      "pubDate": "Tue, 18 Aug 2026 11:22:10 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/18/thumbs_b_c_567fd4f8b1c7776d5d11551b9fdd0998.jpg"
     }
   ]
 }
