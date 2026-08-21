@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-21T20:54:11.534339+00:00",
+  "updated": "2026-08-21T21:54:19.647204+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Premier Lig'in son şampiyonu Arsenal, sezona galibiyetle başladı",
+      "link": "https://www.aa.com.tr/tr/spor/premier-ligin-son-sampiyonu-arsenal-sezona-galibiyetle-basladi-/4034319",
+      "description": "İngiltere Premier Lig'de 2026-27 sezonunun açılış maçında Arsenal, sahasında Coventry City'yi 3-0 mağlup etti.",
+      "pubDate": "Sat, 22 Aug 2026 00:04:48 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_73bda15a246bb32019dcf2efceb39740.jpg"
+    },
     {
       "title": "Galatasaray, sezonun ilk galibiyetini Erzurum deplasmanında aldı",
       "link": "https://www.aa.com.tr/tr/spor/galatasaray-sezonun-ilk-galibiyetini-erzurum-deplasmaninda-aldi/4034271",
@@ -45,9 +52,9 @@
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/21/thumbs_b_c_420aff06c50df8a464ca5b61493bd7b0.jpg"
     },
     {
-      "title": "Çaykur Rizespor, yarın Samsunspor'u konuk edecek",
-      "link": "https://www.aa.com.tr/tr/spor/caykur-rizespor-yarin-samsunsporu-konuk-edecek/4033621",
-      "description": "Çaykur Rizespor, Trendyol Süper Lig'in 2. haftasında yarın sahasında Samsunspor ile karşılaşacak.",
+      "title": "Çaykur Rizespor, bugün Samsunspor'u konuk edecek",
+      "link": "https://www.aa.com.tr/tr/spor/caykur-rizespor-bugun-samsunsporu-konuk-edecek/4033621",
+      "description": "Çaykur Rizespor, Trendyol Süper Lig'in 2. haftasında bugün sahasında Samsunspor ile karşılaşacak.",
       "pubDate": "Fri, 21 Aug 2026 11:41:35 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/21/thumbs_b_c_3d90bdbdde3441cbac5216897cd08411.jpg"
     },
@@ -75,16 +82,9 @@
     {
       "title": "Fenerbahçe ile Konyaspor, Süper Lig'de 51. randevuda",
       "link": "https://www.aa.com.tr/tr/spor/fenerbahce-ile-konyaspor-super-ligde-51-randevuda/4033535",
-      "description": "Trendyol Süper Lig'in 2. haftasında yarın TÜMOSAN Konyaspor'u ağırlayacak Fenerbahçe, yeşil-beyazlı rakibiyle ligde 51. kez karşı karşıya gelecek.",
+      "description": "Trendyol Süper Lig'in 2. haftasında bugün TÜMOSAN Konyaspor'u ağırlayacak Fenerbahçe, yeşil-beyazlı rakibiyle ligde 51. kez karşı karşıya gelecek.",
       "pubDate": "Fri, 21 Aug 2026 11:03:34 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/21/thumbs_b_c_8e29c625a2a763d93101c60ec1d629c6.jpg"
-    },
-    {
-      "title": "Hull City, Premier Lig'e Manchester United maçıyla dönüyor",
-      "link": "https://www.aa.com.tr/tr/spor/hull-city-premier-lige-manchester-united-maciyla-donuyor/4033513",
-      "description": "İngiltere Premier Lig'e 10 yıl aradan sonra geri dönen Hull City, 2026-2027 sezonunun ilk haftasında yarın Manchester United ile karşılaşacak.",
-      "pubDate": "Fri, 21 Aug 2026 10:53:00 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/21/thumbs_b_c_f4943fdcc62e92880773c609edfd19d9.jpg"
     }
   ]
 }
