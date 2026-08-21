@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-21T05:49:30.173756+00:00",
+  "updated": "2026-08-21T08:04:03.288238+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Hull City, Premier Lig'e Manchester United maçıyla dönüyor",
+      "link": "https://www.aa.com.tr/tr/spor/hull-city-premier-lige-manchester-united-maciyla-donuyor/4033513",
+      "description": "İngiltere Premier Lig'e 10 yıl aradan sonra geri dönen Hull City, 2026-2027 sezonunun ilk haftasında yarın Manchester United ile karşılaşacak.",
+      "pubDate": "Fri, 21 Aug 2026 10:53:00 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/21/thumbs_b_c_f4943fdcc62e92880773c609edfd19d9.jpg"
+    },
+    {
+      "title": "Formula 1'de sıradaki durak Hollanda",
+      "link": "https://www.aa.com.tr/tr/spor/formula-1de-siradaki-durak-hollanda/4033477",
+      "description": "Formula 1 Dünya Şampiyonası'nda heyecan, sezonun 12. etabı Hollanda Grand Prix'siyle devam edecek.",
+      "pubDate": "Fri, 21 Aug 2026 10:16:25 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/21/thumbs_b_c_c95e0a5e3155b2f0ee0394c15751550d.jpg"
+    },
+    {
+      "title": "Fenerbahçe, Süper Lig'de yarın Konyaspor'u konuk edecek",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-super-ligde-yarin-konyasporu-konuk-edecek/4033492",
+      "description": "Fenerbahçe, Trendyol Süper Lig'in 2. haftasında yarın sahasında TÜMOSAN Konyaspor ile karşılaşacak.",
+      "pubDate": "Fri, 21 Aug 2026 10:31:25 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/21/thumbs_b_c_42725d80bed419c693d82dadf465a646.jpg"
+    },
+    {
+      "title": "Arca Çorum FK, Süper Lig'de yarın Kasımpaşa'yı konuk edecek",
+      "link": "https://www.aa.com.tr/tr/spor/arca-corum-fk-super-ligde-yarin-kasimpasayi-konuk-edecek/4033471",
+      "description": "Trendyol Süper Lig'in yeni ekiplerinden Arca Çorum FK, ligin ilk iç saha maçında Kasımpaşa ile karşılaşacak.",
+      "pubDate": "Fri, 21 Aug 2026 10:13:15 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/21/thumbs_b_c_61937da278cd87dea273bbc9295dff9d.jpg"
+    },
     {
       "title": "Kerküklü sporseverlerin yeni tutkusu: Kürek sörfü",
       "link": "https://www.aa.com.tr/tr/spor/kerkuklu-sporseverlerin-yeni-tutkusu-kurek-sorfu/4033364",
@@ -57,34 +85,6 @@
       "description": "Galatasaray, İstanbul'a getirdiği Rus futbolcu Aleksey Batrakov'la 5 yıllık sözleşme imzalandığını Türkiye Futbol Federasyonuna (TFF) bildirdi.",
       "pubDate": "Thu, 20 Aug 2026 20:48:30 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/20/thumbs_b_c_07e538440b0e3fa2bd8fba7a280bf9cb.jpg"
-    },
-    {
-      "title": "Trabzonspor'da Salah, ilk kez 11'de",
-      "link": "https://www.aa.com.tr/tr/spor/trabzonsporda-salah-ilk-kez-11de/4033192",
-      "description": "Süper Lig'de geçen hafta Kasımpaşa müsabakasının ikinci yarısında oyuna giren bordo-mavili takımın Mısırlı yıldızı Muhammed Salah, Ferencvaros maçıyla Trabzon'da taraftarın önüne ilk 11'de çıktı.",
-      "pubDate": "Thu, 20 Aug 2026 20:13:30 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/20/thumbs_b_c_63d11582d81c59958da0942716f8681e.jpg"
-    },
-    {
-      "title": "PFDK'den 7 Süper Lig ekibine para cezası",
-      "link": "https://www.aa.com.tr/tr/spor/pfdkden-7-super-lig-ekibine-para-cezasi/4033171",
-      "description": "Türkiye Futbol Federasyonu (TFF) Profesyonel Futbol Disiplin Kurulu (PFDK), 7 Süper Lig ekibine para cezası verdi.",
-      "pubDate": "Thu, 20 Aug 2026 19:39:35 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/20/thumbs_b_c_4af897dc45fd019b53227cedf724a20a.jpg"
-    },
-    {
-      "title": "A Milli Kadın Voleybol Takımı, Avrupa Şampiyonası'na hazır",
-      "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-voleybol-takimi-avrupa-sampiyonasina-hazir/4033131",
-      "description": "Trendyol 2026 Avrupa Kadınlar Voleybol Şampiyonası ilk maçında Letonya ile karşılaşacak A Milli Kadın Voleybol Takımı, hazırlıklarını tamamladı.",
-      "pubDate": "Thu, 20 Aug 2026 18:34:44 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/20/thumbs_b_c_4118695dd1c972b4ac788997ea4f5c81.jpg"
-    },
-    {
-      "title": "Ziraat Türkiye Kupası 1. eleme turu kura çekimi, 27 Ağustos'ta yapılacak",
-      "link": "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasi-1-eleme-turu-kura-cekimi-27-agustosta-yapilacak/4033074",
-      "description": "Ziraat Türkiye Kupası 1. Eleme turu kura çekimi, 27 Ağustos Perşembe günü yapılacak.",
-      "pubDate": "Thu, 20 Aug 2026 17:38:03 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/20/thumbs_b_c_93f111accc80b5d447c9b25d59941d9e.jpg"
     }
   ]
 }
