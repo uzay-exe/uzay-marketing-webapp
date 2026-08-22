@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-22T05:04:05.917414+00:00",
+  "updated": "2026-08-22T07:45:40.942129+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Beşiktaş, Süper Lig'in 2. haftasında yarın Alanyaspor'a konuk olacak",
+      "link": "https://www.aa.com.tr/tr/spor/besiktas-super-ligin-2-haftasinda-yarin-alanyaspora-konuk-olacak/4034390",
+      "description": "Beşiktaş, Trendyol Süper Lig'in 2. haftasında yarın deplasmanda Corendon Alanyaspor ile karşı karşıya gelecek.",
+      "pubDate": "Sat, 22 Aug 2026 09:58:53 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_3b5a65e8a430ab35cff9892c08402ac6.jpg"
+    },
+    {
+      "title": "Başakşehir, Süper Lig'de yarın Trabzonspor'a konuk olacak",
+      "link": "https://www.aa.com.tr/tr/spor/basaksehir-super-ligde-yarin-trabzonspora-konuk-olacak/4034385",
+      "description": "İstanbul Başakşehir, Trendyol Süper Lig'in 2. haftasında yarın deplasmanda Trabzonspor ile karşı karşıya gelecek.",
+      "pubDate": "Sat, 22 Aug 2026 09:56:22 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_5a6a5e7824550e053783a95f44fb488e.jpg"
+    },
     {
       "title": "Teneffüste koşarken keşfedilen Elfinay Kama, atletizmde 2 yıl üst üste Türkiye şampiyonu oldu",
       "link": "https://www.aa.com.tr/tr/spor/teneffuste-kosarken-kesfedilen-elfinay-kama-atletizmde-2-yil-ust-uste-turkiye-sampiyonu-oldu/4034340",
@@ -71,20 +85,6 @@
       "description": "İngiltere Premier Lig'de 2026-2027 sezonu bugün oynanacak Arsenal-Coventry City maçıyla başlıyor.",
       "pubDate": "Fri, 21 Aug 2026 11:05:06 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/21/thumbs_b_c_c27a3e67490417c08f25a371ed2739eb.jpg"
-    },
-    {
-      "title": "Yeşilay Yarı Maratonu 23 Ağustos'ta yapılacak",
-      "link": "https://www.aa.com.tr/tr/spor/yesilay-yari-maratonu-23-agustosta-yapilacak/4030984",
-      "description": "Türkiye Yeşilay Cemiyeti tarafından düzenlenen Yeşilay Yarı Maratonu, yaklaşık bin 500 sporcunun katılımıyla 23 Ağustos'ta gerçekleştirilecek.",
-      "pubDate": "Tue, 18 Aug 2026 21:30:05 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/18/thumbs_b_c_9a84396852fb2581577e638b0d4862de.jpg"
-    },
-    {
-      "title": "Aleksey Batrakov, Galatasaray tarihindeki ilk Rus futbolcu oldu",
-      "link": "https://www.aa.com.tr/tr/spor/aleksey-batrakov-galatasaray-tarihindeki-ilk-rus-futbolcu-oldu/4033536",
-      "description": "Galatasaray'ın yeni transferi Aleksey Batrakov, sarı-kırmızılıların tarihindeki ilk Rus futbolcu oldu.",
-      "pubDate": "Fri, 21 Aug 2026 11:03:42 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/21/thumbs_b_c_330d30ae2b7f1d91f7e0e2ee26235112.jpg"
     }
   ]
 }
