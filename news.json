@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-22T09:02:46.090775+00:00",
+  "updated": "2026-08-22T10:53:02.940457+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "MLS Disiplin Kurulu, Lionel Messi'ye para cezası verdi",
+      "link": "https://www.aa.com.tr/tr/spor/mls-disiplin-kurulu-lionel-messiye-para-cezasi-verdi/4034542",
+      "description": "Amerikan Futbol Ligi (MLS) Disiplin Kurulu, rakibine yaptığı centilmenlik dışı hareket nedeniyle Inter Miami'nin Arjantinli yıldızı Lionel Messi'ye para cezası verdi.",
+      "pubDate": "Sat, 22 Aug 2026 13:16:29 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_005466eeac0e434ae544c544b89d0bae.jpg"
+    },
+    {
+      "title": "İdil Bengisu Tunçbilek'ten İşitme Engelliler Avrupa Gençlik Oyunları'nda gümüş madalya",
+      "link": "https://www.aa.com.tr/tr/spor/idil-bengisu-tuncbilekten-isitme-engelliler-avrupa-genclik-oyunlarinda-gumus-madalya/4034529",
+      "description": "Almanya'da düzenlenen İşitme Engelliler Avrupa Gençlik Oyunları'nda milli yüzücü İdil Bengisu Tunçbilek, 400 metre serbestte gümüş madalya kazandı.",
+      "pubDate": "Sat, 22 Aug 2026 12:57:18 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_115efff75b6b5ea4f9835f69774c8a4d.jpg"
+    },
+    {
+      "title": "UEFA'dan Halil Umut Meler'e görev",
+      "link": "https://www.aa.com.tr/tr/spor/uefadan-halil-umut-melere-gorev/4034514",
+      "description": "FIFA kokartlı hakem Halil Umut Meler, İsviçre'nin Thun ile Polonya'nın Lech Poznan takımları arasında yapılacak UEFA Avrupa Ligi play-off turu rövanş maçını yönetecek.",
+      "pubDate": "Sat, 22 Aug 2026 12:37:09 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_800f1a61e905d735b8f29243c0df7f8b.jpg"
+    },
+    {
+      "title": "Ferencvaros-Trabzonspor maçını Sloven hakem Obrenovic yönetecek",
+      "link": "https://www.aa.com.tr/tr/spor/ferencvaros-trabzonspor-macini-sloven-hakem-obrenovic-yonetecek/4034509",
+      "description": "Trabzonspor'un UEFA Avrupa Ligi play-off turu rövanşında deplasmanda Macaristan temsilcisi Ferencvaros ile yapacağı maçı Sloven hakem Rade Obrenovic yönetecek.",
+      "pubDate": "Sat, 22 Aug 2026 12:29:26 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_e38fb146be2091ac21e5150fab1a0ecc.jpg"
+    },
+    {
+      "title": "Kauno Zalgiris-Beşiktaş maçını İspanyol hakem Jesus Gil Manzano yönetecek",
+      "link": "https://www.aa.com.tr/tr/spor/kauno-zalgiris-besiktas-macini-ispanyol-hakem-jesus-gil-manzano-yonetecek/4034504",
+      "description": "Beşiktaş'ın UEFA Avrupa Ligi play-off turu rövanşında 27 Ağustos Perşembe günü Litvanya ekibi Kauno Zalgiris'e konuk olacağı karşılaşmayı İspanyol hakem Jesus Gil Manzano yönetecek.",
+      "pubDate": "Sat, 22 Aug 2026 12:19:27 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_ad19c758027483faacb4b293581d108d.jpg"
+    },
     {
       "title": "Çorum FK'nin Süper Lig'deki ilk iç saha maçı öncesi stat hazırlandı",
       "link": "https://www.aa.com.tr/tr/spor/corum-fknin-super-ligdeki-ilk-ic-saha-maci-oncesi-stat-hazirlandi/4034427",
@@ -17,7 +52,7 @@
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_9704739fe0cf1a4b02c56945374d8c7f.jpg"
     },
     {
-      "title": "Beşiktaş ile Alanyaspor, 21. randevuda",
+      "title": "Beşiktaş ile Alanyaspor 21. randevuda",
       "link": "https://www.aa.com.tr/tr/spor/besiktas-ile-alanyaspor-21-randevuda/4034424",
       "description": "Trendyol Süper Lig'in 2. haftasında yarın Corendon Alanyaspor'a konuk olacak Beşiktaş, rakibiyle bu kulvarda 21. kez kozlarını paylaşacak.",
       "pubDate": "Sat, 22 Aug 2026 11:02:28 +0300",
@@ -50,41 +85,6 @@
       "description": "Osmaniye'nin Kadirli ilçesinde, okuldaki teneffüste hızlı koşarken kendisini gören antrenör tarafından atletizme yönlendirilen 13 yaşındaki Elfinay Kama, üçlü branşta 2 yıl üst üste Türkiye şampiyonluğu elde etti.",
       "pubDate": "Sat, 22 Aug 2026 01:23:15 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_a7d75a69d31d7a10a0c0c9e85727b1c5.jpg"
-    },
-    {
-      "title": "Premier Lig'in son şampiyonu Arsenal, sezona galibiyetle başladı",
-      "link": "https://www.aa.com.tr/tr/spor/premier-ligin-son-sampiyonu-arsenal-sezona-galibiyetle-basladi-/4034319",
-      "description": "İngiltere Premier Lig'de 2026-27 sezonunun açılış maçında Arsenal, sahasında Coventry City'yi 3-0 mağlup etti.",
-      "pubDate": "Sat, 22 Aug 2026 00:04:48 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_73bda15a246bb32019dcf2efceb39740.jpg"
-    },
-    {
-      "title": "Galatasaray, sezonun ilk galibiyetini Erzurum deplasmanında aldı",
-      "link": "https://www.aa.com.tr/tr/spor/galatasaray-sezonun-ilk-galibiyetini-erzurum-deplasmaninda-aldi/4034271",
-      "description": "Trendyol Süper Lig'in ikinci haftasında Galatasaray, deplasmanda Erzurumspor FK'yi 4-0 yendi.",
-      "pubDate": "Fri, 21 Aug 2026 22:42:40 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/21/thumbs_b_c_b69b3d92ec5267308690ac3ec7586217.jpg"
-    },
-    {
-      "title": "A Milli Erkek Basketbol Takımı, Hırvatistan'a 95-94 mağlup oldu",
-      "link": "https://www.aa.com.tr/tr/spor/a-milli-erkek-basketbol-takimi-hirvatistana-95-94-maglup-oldu/4034245",
-      "description": "A Milli Erkek Basketbol Takımı, Almanya'da düzenlenen Türk Hava Yolları DBB Süper Kupa'daki ilk maçında Hırvatistan'a 95-94 mağlup oldu.",
-      "pubDate": "Fri, 21 Aug 2026 22:06:57 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/21/thumbs_b_c_9de7d793d02b575302c630e9067cf9e8.jpg"
-    },
-    {
-      "title": "A Milli Kadın Voleybol Takımı, Letonya'yı 3-0 yendi",
-      "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-voleybol-takimi-letonyayi-3-0-yendi/4034197",
-      "description": "A Milli Kadın Voleybol Takımı, Trendyol 2026 Avrupa Kadınlar Voleybol Şampiyonası A Grubu ilk maçında Letonya'yı 3-0 yendi.",
-      "pubDate": "Fri, 21 Aug 2026 20:27:24 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/21/thumbs_b_c_39e2ed7ae4e6fc436319fd44f818d9b3.jpg"
-    },
-    {
-      "title": "FIFA, 2026 Dünya Kupası finalinde yaşanan olayların cezasını açıkladı",
-      "link": "https://www.aa.com.tr/tr/spor/fifa-2026-dunya-kupasi-finalinde-yasanan-olaylarin-cezasini-acikladi/4034108",
-      "description": "FIFA, İspanya ile Arjantin arasında oynanan 2026 Dünya Kupası final maçının ardından çıkan olaylarla ilgili cezaları duyurdu.",
-      "pubDate": "Fri, 21 Aug 2026 18:29:24 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/21/thumbs_b_c_75ecd2ae1bc71ef206f3b0d7c936900b.jpg"
     }
   ]
 }
