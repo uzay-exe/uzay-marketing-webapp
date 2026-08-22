@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-22T11:43:18.453697+00:00",
+  "updated": "2026-08-22T13:43:17.056967+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Dünya Modern Pentatlon Şampiyonası’nda Türkiye’yi İlke Özyüksel Mihrioğlu temsil edecek",
+      "link": "https://www.aa.com.tr/tr/spor/dunya-modern-pentatlon-sampiyonasi-nda-turkiye-yi-ilke-ozyuksel-mihrioglu-temsil-edecek/4034661",
+      "description": "Avrupa şampiyonu milli pentatlet İlke Özyüksel Mihrioğlu, 27 Ağustos'ta başlayacak dünya şampiyonasında Türkiye'yi temsil edecek.",
+      "pubDate": "Sat, 22 Aug 2026 16:29:42 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_b149b749e56bdc02d42160eea318c0b5.jpg"
+    },
+    {
+      "title": "Fenerbahçe Tarfin, Avrupa Ligi Süper Kupa'da mücadele edecek",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-avrupa-ligi-super-kupada-mucadele-edecek/4034617",
+      "description": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Avrupa Ligi'nin düzenleyeceği Süper Kupa organizasyonuna katılacak.",
+      "pubDate": "Sat, 22 Aug 2026 15:30:18 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_53b0fc8a61dbdddd38c5cf3111aab965.jpg"
+    },
     {
       "title": "Formula 1 Hollanda Grand Prix'sinde sprint yarışını George Russell kazandı",
       "link": "https://www.aa.com.tr/tr/spor/formula-1-hollanda-grand-prixsinde-sprint-yarisini-george-russell-kazandi/4034568",
@@ -71,20 +85,6 @@
       "description": "A Milli Kadın Voleybol Takımı, Trendyol 2026 Avrupa Şampiyonası'ndaki ikinci maçında yarın Slovenya ile karşı karşıya gelecek.",
       "pubDate": "Sat, 22 Aug 2026 11:04:39 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_6b934cfeb6d50108f24dbacc35a3bd0e.jpg"
-    },
-    {
-      "title": "Beşiktaş, Süper Lig'in 2. haftasında yarın Alanyaspor'a konuk olacak",
-      "link": "https://www.aa.com.tr/tr/spor/besiktas-super-ligin-2-haftasinda-yarin-alanyaspora-konuk-olacak/4034390",
-      "description": "Beşiktaş, Trendyol Süper Lig'in 2. haftasında yarın deplasmanda Corendon Alanyaspor ile karşı karşıya gelecek.",
-      "pubDate": "Sat, 22 Aug 2026 09:58:53 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_3b5a65e8a430ab35cff9892c08402ac6.jpg"
-    },
-    {
-      "title": "Trabzonspor, Süper Lig'de yarın İstanbul Başakşehir'i konuk edecek",
-      "link": "https://www.aa.com.tr/tr/spor/trabzonspor-super-ligde-yarin-istanbul-basaksehiri-konuk-edecek/4034385",
-      "description": "Trabzonspor, Trendyol Süper Lig'in ikinci haftasında yarın İstanbul Başakşehir'i konuk edecek.",
-      "pubDate": "Sat, 22 Aug 2026 09:56:22 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_5a6a5e7824550e053783a95f44fb488e.jpg"
     }
   ]
 }
