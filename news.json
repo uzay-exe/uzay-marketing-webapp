@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-22T19:02:35.441432+00:00",
+  "updated": "2026-08-22T20:52:37.655621+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Fenerbahçe, Konyaspor'u farklı geçti",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-konyasporu-farkli-gecti/4034852",
+      "description": "Fenerbahçe, Trendyol Süper Lig'in 2. haftasında konuk ettiği TÜMOSAN Konyaspor'u 4-2 yendi.",
+      "pubDate": "Sat, 22 Aug 2026 23:38:49 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_f79ccada7a97f5266059a429b1552bb3.jpg"
+    },
     {
       "title": "Hakan Çalhanoğlu'nun gol attığı maçta Inter, Serie A'da sezona galibiyetle başladı",
       "link": "https://www.aa.com.tr/tr/spor/hakan-calhanoglunun-gol-attigi-macta-inter-serie-ada-sezona-galibiyetle-basladi/4034812",
@@ -78,13 +85,6 @@
       "description": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Avrupa Ligi'nin düzenleyeceği Süper Kupa organizasyonuna katılacak.",
       "pubDate": "Sat, 22 Aug 2026 15:30:18 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_53b0fc8a61dbdddd38c5cf3111aab965.jpg"
-    },
-    {
-      "title": "Formula 1 Hollanda Grand Prix'sinde sprint yarışını George Russell kazandı",
-      "link": "https://www.aa.com.tr/tr/spor/formula-1-hollanda-grand-prixsinde-sprint-yarisini-george-russell-kazandi/4034568",
-      "description": "Formula 1 Dünya Şampiyonası Hollanda Grand Prix'sindeki sprint yarışını, Mercedes'in Büyük Britanyalı pilotu George Russell kazandı.",
-      "pubDate": "Sat, 22 Aug 2026 13:54:47 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_0932a4d4d2964e7ffc58678305a37953.jpg"
     }
   ]
 }
