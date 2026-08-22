@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-22T15:46:30.978630+00:00",
+  "updated": "2026-08-22T16:54:49.112445+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Milli cimnastikçi Ferhat Arıcan, Avrupa ikincisi oldu",
+      "link": "https://www.aa.com.tr/tr/spor/milli-cimnastikci-ferhat-arican-avrupa-ikincisi-oldu/4034763",
+      "description": "2026 Avrupa Artistik Cimnastik Şampiyonası'nda milli sporcu Ferhat Arıcan, paralel barda gümüş madalya kazandı.",
+      "pubDate": "Sat, 22 Aug 2026 19:24:19 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_13493470096b54d86f2b90c17c227243.jpg"
+    },
+    {
+      "title": "Akdeniz Oyunları'nda ilk madalyalar milli eskrimcilerden geldi",
+      "link": "https://www.aa.com.tr/tr/spor/akdeniz-oyunlarinda-ilk-madalyalar-milli-eskrimcilerden-geldi/4034748",
+      "description": "Kılıç disiplininde yarışan milli eskrimcilerden Enver Yıldırım birinci, Furkan Yaman ise ikinci olarak Türkiye'ye 20. Akdeniz Oyunları'ndaki (Taranto 2026) ilk madalyalarını kazandırdı.",
+      "pubDate": "Sat, 22 Aug 2026 18:55:26 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_d97bf54f42aa38c4f2ddde68159479a0.jpg"
+    },
+    {
+      "title": "Avrupa ve Türkiye motokros şampiyonalarında ilk günün en hızlıları belli oldu",
+      "link": "https://www.aa.com.tr/tr/spor/avrupa-ve-turkiye-motokros-sampiyonalarinda-ilk-gunun-en-hizlilari-belli-oldu/4034752",
+      "description": "Balkan Motosiklet Birliği (BMU) Avrupa Motokros Şampiyonası ile Türkiye Motokros Şampiyonası'nda ilk günün en hızlı sporcuları belli oldu.",
+      "pubDate": "Sat, 22 Aug 2026 19:00:02 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_d57c17fedbebce2691db1fd5805c08aa.jpg"
+    },
+    {
+      "title": "Formula 1 Hollanda Grand Prix'sinde pole pozisyonu Lando Norris'in oldu",
+      "link": "https://www.aa.com.tr/tr/spor/formula-1-hollanda-grand-prixsinde-pole-pozisyonu-lando-norrisin-oldu/4034743",
+      "description": "Formula 1 Dünya Şampiyonası'nda sezonun 12. yarışı Hollanda Grand Prix'inde McLaren takımının Büyük Britanyalı pilotu Lando Norris, ilk sıradan başlayacak.",
+      "pubDate": "Sat, 22 Aug 2026 18:44:15 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_aba862756131280e98c556787428073e.jpg"
+    },
     {
       "title": "Gençlerbirliği, Metehan Baltacı'yı kiralık olarak kadrosuna kattı",
       "link": "https://www.aa.com.tr/tr/spor/genclerbirligi-metehan-baltaciyi-kiralik-olarak-kadrosuna-katti/4034722",
@@ -57,34 +85,6 @@
       "description": "FIFA kokartlı hakem Halil Umut Meler, İsviçre'nin Thun ile Polonya'nın Lech Poznan takımları arasında yapılacak UEFA Avrupa Ligi play-off turu rövanş maçını yönetecek.",
       "pubDate": "Sat, 22 Aug 2026 12:37:09 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_800f1a61e905d735b8f29243c0df7f8b.jpg"
-    },
-    {
-      "title": "Ferencvaros-Trabzonspor maçını Sloven hakem Obrenovic yönetecek",
-      "link": "https://www.aa.com.tr/tr/spor/ferencvaros-trabzonspor-macini-sloven-hakem-obrenovic-yonetecek/4034509",
-      "description": "Trabzonspor'un UEFA Avrupa Ligi play-off turu rövanşında deplasmanda Macaristan temsilcisi Ferencvaros ile yapacağı maçı Sloven hakem Rade Obrenovic yönetecek.",
-      "pubDate": "Sat, 22 Aug 2026 12:29:26 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_e38fb146be2091ac21e5150fab1a0ecc.jpg"
-    },
-    {
-      "title": "Kauno Zalgiris-Beşiktaş maçını İspanyol hakem Jesus Gil Manzano yönetecek",
-      "link": "https://www.aa.com.tr/tr/spor/kauno-zalgiris-besiktas-macini-ispanyol-hakem-jesus-gil-manzano-yonetecek/4034504",
-      "description": "Beşiktaş'ın UEFA Avrupa Ligi play-off turu rövanşında 27 Ağustos Perşembe günü Litvanya ekibi Kauno Zalgiris'e konuk olacağı karşılaşmayı İspanyol hakem Jesus Gil Manzano yönetecek.",
-      "pubDate": "Sat, 22 Aug 2026 12:19:27 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_ad19c758027483faacb4b293581d108d.jpg"
-    },
-    {
-      "title": "Çorum FK'nin Süper Lig'deki ilk iç saha maçı öncesi stat hazırlandı",
-      "link": "https://www.aa.com.tr/tr/spor/corum-fknin-super-ligdeki-ilk-ic-saha-maci-oncesi-stat-hazirlandi/4034427",
-      "description": "Trendyol Süper Lig'de bu sezon Arca Çorum FK'nin iç saha maçlarına ev sahipliği yapacak Çorum Şehir Stadı'nda hazırlıklar tamamlandı.",
-      "pubDate": "Sat, 22 Aug 2026 11:02:58 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_70116e2cb7e7d0c88f0f76bf3a7dc9f0.jpg"
-    },
-    {
-      "title": "Trabzonspor ile Başakşehir 37. randevuda",
-      "link": "https://www.aa.com.tr/tr/spor/trabzonspor-ile-basaksehir-37-randevuda/4034426",
-      "description": "Trabzonspor ile İstanbul Başakşehir, yarın Trabzon'da yapacakları maçla ligde 37. kez karşı karşıya gelecek.",
-      "pubDate": "Sat, 22 Aug 2026 11:02:36 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_9704739fe0cf1a4b02c56945374d8c7f.jpg"
     }
   ]
 }
