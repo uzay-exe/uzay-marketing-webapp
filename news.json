@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-22T20:52:37.655621+00:00",
+  "updated": "2026-08-22T21:46:10.952731+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Almanya Süper Kupası'nı Borussia Dortmund'u 2-1 yenen Bayern Münih kazandı",
+      "link": "https://www.aa.com.tr/tr/spor/almanya-super-kupasini-borussia-dortmundu-2-1-yenen-bayern-munih-kazandi/4034859",
+      "description": "Bayern Münih, Borussia Dortmund'u 2-1 mağlup ederek Almanya Süper Kupası'nın sahibi oldu.",
+      "pubDate": "Sun, 23 Aug 2026 00:01:14 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_3e57a668b23ef5df52c2e5ecdadabef6.jpg"
+    },
     {
       "title": "Fenerbahçe, Konyaspor'u farklı geçti",
       "link": "https://www.aa.com.tr/tr/spor/fenerbahce-konyasporu-farkli-gecti/4034852",
@@ -78,13 +85,6 @@
       "description": "Avrupa şampiyonu milli pentatlet İlke Özyüksel Mihrioğlu, 27 Ağustos'ta başlayacak dünya şampiyonasında Türkiye'yi temsil edecek.",
       "pubDate": "Sat, 22 Aug 2026 16:29:42 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_b149b749e56bdc02d42160eea318c0b5.jpg"
-    },
-    {
-      "title": "Fenerbahçe Tarfin, Avrupa Ligi Süper Kupa'da mücadele edecek",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-avrupa-ligi-super-kupada-mucadele-edecek/4034617",
-      "description": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Avrupa Ligi'nin düzenleyeceği Süper Kupa organizasyonuna katılacak.",
-      "pubDate": "Sat, 22 Aug 2026 15:30:18 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_53b0fc8a61dbdddd38c5cf3111aab965.jpg"
     }
   ]
 }
