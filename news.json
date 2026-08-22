@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-22T17:45:04.137864+00:00",
+  "updated": "2026-08-22T19:02:35.441432+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Hakan Çalhanoğlu'nun gol attığı maçta Inter, Serie A'da sezona galibiyetle başladı",
+      "link": "https://www.aa.com.tr/tr/spor/hakan-calhanoglunun-gol-attigi-macta-inter-serie-ada-sezona-galibiyetle-basladi/4034812",
+      "description": "İtalya 1. Futbol Ligi'nde (Serie A) Hakan Çalhanoğlu'nun gol attığı maçta Inter, Monza'yı 4-1 yenerek sezona galibiyetle başladı.",
+      "pubDate": "Sat, 22 Aug 2026 21:52:55 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_d3f99a06c80f0a03fd4ff9093d43f4e2.jpg"
+    },
+    {
+      "title": "Kasımpaşa, deplasmanda Arca Çorum FK'ı 1-0 yendi",
+      "link": "https://www.aa.com.tr/tr/spor/kasimpasa-deplasmanda-arca-corum-fki-1-0-yendi/4034795",
+      "description": "Trendyol Süper Lig'in 2. haftasında Kasımpaşa, deplasmanda Arca Çorum FK'ı 1-0 yendi.",
+      "pubDate": "Sat, 22 Aug 2026 21:06:21 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_bb5a3369f278c67ff90d1b4207fa434c.jpg"
+    },
+    {
+      "title": "Samsunspor, deplasmanda Çaykur Rizespor'u 2-0 yendi",
+      "link": "https://www.aa.com.tr/tr/spor/samsunspor-deplasmanda-caykur-rizesporu-2-0-yendi/4034781",
+      "description": "Trendyol Süper Lig'in ikinci haftasında Samsunspor, deplasmanda Çaykur Rizespor'u 2-0 yendi.",
+      "pubDate": "Sat, 22 Aug 2026 20:06:09 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_ae2ac3b7b9c14fb22ca1c97814190a30.jpg"
+    },
     {
       "title": "Milli cimnastikçi Ferhat Arıcan, Avrupa ikincisi oldu",
       "link": "https://www.aa.com.tr/tr/spor/milli-cimnastikci-ferhat-arican-avrupa-ikincisi-oldu/4034763",
@@ -64,27 +85,6 @@
       "description": "Formula 1 Dünya Şampiyonası Hollanda Grand Prix'sindeki sprint yarışını, Mercedes'in Büyük Britanyalı pilotu George Russell kazandı.",
       "pubDate": "Sat, 22 Aug 2026 13:54:47 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_0932a4d4d2964e7ffc58678305a37953.jpg"
-    },
-    {
-      "title": "MLS Disiplin Kurulu, Lionel Messi'ye para cezası verdi",
-      "link": "https://www.aa.com.tr/tr/spor/mls-disiplin-kurulu-lionel-messiye-para-cezasi-verdi/4034542",
-      "description": "Amerikan Futbol Ligi (MLS) Disiplin Kurulu, rakibine yaptığı centilmenlik dışı hareket nedeniyle Inter Miami'nin Arjantinli yıldızı Lionel Messi'ye para cezası verdi.",
-      "pubDate": "Sat, 22 Aug 2026 13:16:29 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_005466eeac0e434ae544c544b89d0bae.jpg"
-    },
-    {
-      "title": "İdil Bengisu Tunçbilek'ten İşitme Engelliler Avrupa Gençlik Oyunları'nda gümüş madalya",
-      "link": "https://www.aa.com.tr/tr/spor/idil-bengisu-tuncbilekten-isitme-engelliler-avrupa-genclik-oyunlarinda-gumus-madalya/4034529",
-      "description": "Almanya'da düzenlenen İşitme Engelliler Avrupa Gençlik Oyunları'nda milli yüzücü İdil Bengisu Tunçbilek, 400 metre serbestte gümüş madalya kazandı.",
-      "pubDate": "Sat, 22 Aug 2026 12:57:18 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_115efff75b6b5ea4f9835f69774c8a4d.jpg"
-    },
-    {
-      "title": "UEFA'dan Halil Umut Meler'e görev",
-      "link": "https://www.aa.com.tr/tr/spor/uefadan-halil-umut-melere-gorev/4034514",
-      "description": "FIFA kokartlı hakem Halil Umut Meler, İsviçre'nin Thun ile Polonya'nın Lech Poznan takımları arasında yapılacak UEFA Avrupa Ligi play-off turu rövanş maçını yönetecek.",
-      "pubDate": "Sat, 22 Aug 2026 12:37:09 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_800f1a61e905d735b8f29243c0df7f8b.jpg"
     }
   ]
 }
