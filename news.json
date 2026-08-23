@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-23T07:47:47.244530+00:00",
+  "updated": "2026-08-23T09:02:11.047908+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Milli güreşçi Fazlı Eryılmaz'ın hedefi Los Angeles 2028'de madalya",
+      "link": "https://www.aa.com.tr/tr/spor/milli-guresci-fazli-eryilmazin-hedefi-los-angeles-2028de-madalya/4034994",
+      "description": "Ankara'da düzenlenen Keçiören Büyükler Karakucak Güreşi Dünya Şampiyonası'nda 75 kiloda altın madalya kazanan milli güreşçi Fazlı Eryılmaz, Los Angeles 2028 Olimpiyatları'nda Türkiye'ye madalya kazandırmayı hedefliyor.",
+      "pubDate": "Sun, 23 Aug 2026 11:44:54 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_1a76589dcfb05e25c3a8dfae9d7b17b6.jpg"
+    },
+    {
+      "title": "ON Hotels Alanya Belediyespor'da yeni sezon hedefi play-off",
+      "link": "https://www.aa.com.tr/tr/spor/on-hotels-alanya-belediyesporda-yeni-sezon-hedefi-play-off/4034984",
+      "description": "Voleybol SMS Grup Efeler Ligi takımlarından ON Hotels Alanya Belediyespor'da başantrenör Serkan Oğuz, bu yıl tamamen yenilenen bir takım kurduklarını belirterek, play-off'a kalmayı hedeflediklerini söyledi.",
+      "pubDate": "Sun, 23 Aug 2026 11:32:13 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_d6be2def02cedf2d6f13cc4fe66a69e3.jpg"
+    },
+    {
+      "title": "İstanbul'da Yeşilay Yarı Maratonu yapıldı",
+      "link": "https://www.aa.com.tr/tr/spor/istanbulda-yesilay-yari-maratonu-yapildi-/4034929",
+      "description": "Türkiye Yeşilay Cemiyeti tarafından bu yıl ilk kez düzenlenen Yeşilay Yarı Maratonu, 1500 sporcunun katılımıyla İstanbul'un tarihi ve simge noktalarını kapsayan parkurda gerçekleştirildi.",
+      "pubDate": "Sun, 23 Aug 2026 10:29:09 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_d7e91f8094faa20ed10fc622bfdf13b4.jpg"
+    },
     {
       "title": "Türkiye, İşitme Engelliler Avrupa Gençlik Oyunları'nı 9'u altın, 33 madalyayla tamamladı",
       "link": "https://www.aa.com.tr/tr/spor/turkiye-isitme-engelliler-avrupa-genclik-oyunlarini-9u-altin-33-madalyayla-tamamladi/4034933",
@@ -64,27 +85,6 @@
       "description": "Trendyol Süper Lig'in ikinci haftasında Samsunspor, deplasmanda Çaykur Rizespor'u 2-0 yendi.",
       "pubDate": "Sat, 22 Aug 2026 20:06:09 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_ae2ac3b7b9c14fb22ca1c97814190a30.jpg"
-    },
-    {
-      "title": "Milli cimnastikçi Ferhat Arıcan, Avrupa ikincisi oldu",
-      "link": "https://www.aa.com.tr/tr/spor/milli-cimnastikci-ferhat-arican-avrupa-ikincisi-oldu/4034763",
-      "description": "2026 Avrupa Artistik Cimnastik Şampiyonası'nda milli sporcu Ferhat Arıcan, paralel barda gümüş madalya kazandı.",
-      "pubDate": "Sat, 22 Aug 2026 19:24:19 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_13493470096b54d86f2b90c17c227243.jpg"
-    },
-    {
-      "title": "Akdeniz Oyunları'nda ilk madalyalar milli eskrimcilerden geldi",
-      "link": "https://www.aa.com.tr/tr/spor/akdeniz-oyunlarinda-ilk-madalyalar-milli-eskrimcilerden-geldi/4034748",
-      "description": "Kılıç disiplininde yarışan milli eskrimcilerden Enver Yıldırım birinci, Furkan Yaman ise ikinci olarak Türkiye'ye 20. Akdeniz Oyunları'ndaki (Taranto 2026) ilk madalyalarını kazandırdı.",
-      "pubDate": "Sat, 22 Aug 2026 18:55:26 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_5e0943f89837ee779543c70585a3f240.jpg"
-    },
-    {
-      "title": "Avrupa ve Türkiye motokros şampiyonalarında ilk günün en hızlıları belli oldu",
-      "link": "https://www.aa.com.tr/tr/spor/avrupa-ve-turkiye-motokros-sampiyonalarinda-ilk-gunun-en-hizlilari-belli-oldu/4034752",
-      "description": "Balkan Motosiklet Birliği (BMU) Avrupa Motokros Şampiyonası ile Türkiye Motokros Şampiyonası'nda ilk günün en hızlı sporcuları belli oldu.",
-      "pubDate": "Sat, 22 Aug 2026 19:00:02 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_d57c17fedbebce2691db1fd5805c08aa.jpg"
     }
   ]
 }
