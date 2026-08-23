@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-23T17:43:12.444509+00:00",
+  "updated": "2026-08-23T19:01:47.888600+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Formula 1 Hollanda Grand Prix'sini Lando Norris kazandı",
+      "link": "https://www.aa.com.tr/tr/spor/formula-1-hollanda-grand-prixsini-lando-norris-kazandi/4035265",
+      "description": "Formula 1 Dünya Şampiyonası'nda sezonun 12. yarışı Hollanda Grand Prix'ini McLaren takımının Büyük Britanyalı pilotu Lando Norris kazandı.",
+      "pubDate": "Sun, 23 Aug 2026 21:21:25 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_12167bee049e5c8e4c110d111f2abfbf.jpg"
+    },
+    {
+      "title": "A Milli Kadın Voleybol Takımı, Slovenya'yı 3-1 yendi",
+      "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-voleybol-takimi-slovenyayi-3-1-yendi/4035262",
+      "description": "A Milli Kadın Voleybol Takımı, Trendyol 2026 Avrupa Kadınlar Voleybol Şampiyonası A Grubu ikinci maçında Slovenya'yı 3-1 yendi.",
+      "pubDate": "Sun, 23 Aug 2026 21:17:38 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_5bf8f3020d4dbd72084ccf3735109980.jpg"
+    },
+    {
+      "title": "Trabzonspor, Salah'ın golleriyle sezonun ilk galibiyetini aldı",
+      "link": "https://www.aa.com.tr/tr/spor/trabzonspor-salahin-golleriyle-sezonun-ilk-galibiyetini-aldi/4035241",
+      "description": "Trabzonspor, Trendyol Süper Lig'in 2. haftasında sahasında İstanbul Başakşehir'i Mısırlı yıldızı Muhammed Salah'ın golleriyle 2-1 mağlup etti.",
+      "pubDate": "Sun, 23 Aug 2026 19:59:34 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_8508a4a9c89e1790db3d2dd207174e23.jpg"
+    },
+    {
+      "title": "Gaziantep FK, konuk olduğu Eyüpspor'u yendi",
+      "link": "https://www.aa.com.tr/tr/spor/gaziantep-fk-konuk-oldugu-eyupsporu-yendi/4035240",
+      "description": "Gaziantep FK, Trendyol Süper Lig'in ikinci haftasında konuk olduğu Eyüpspor'u 1-0 yendi.",
+      "pubDate": "Sun, 23 Aug 2026 19:59:08 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_34497e9cf4fa04a261e0cf3eaa7e14e4.jpg"
+    },
     {
       "title": "Premier Lig'de Brighton'a Aston Villa karşısında yarım saat yetti",
       "link": "https://www.aa.com.tr/tr/spor/premier-ligde-brightona-aston-villa-karsisinda-yarim-saat-yetti/4035191",
@@ -57,34 +85,6 @@
       "description": "Türkiye, Almanya'da düzenlenen İşitme Engelliler Avrupa Gençlik Oyunları'nı 9 altın, 14 gümüş ve 10 bronz olmak üzere 33 madalyayla tamamladı.",
       "pubDate": "Sun, 23 Aug 2026 10:41:28 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_7d075f54e08263e9c8445b578ae58b61.jpg"
-    },
-    {
-      "title": "38. Boğaziçi Kıtalararası Yüzme Yarışı yapıldı",
-      "link": "https://www.aa.com.tr/tr/spor/38-bogazici-kitalararasi-yuzme-yarisi-yapildi/4034923",
-      "description": "Türkiye Milli Olimpiyat Komitesi (TMOK) tarafından bu yıl 38'incisi düzenlenen Boğaziçi Kıtalararası Yüzme Yarışı, İstanbul'da gerçekleştirildi.",
-      "pubDate": "Sun, 23 Aug 2026 10:07:48 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_862615a2b3934fd35bb198cfdd81b0f9.jpg"
-    },
-    {
-      "title": "Kocaelispor, Süper Lig'de yarın Amed Sportif Faaliyetler'i konuk edecek",
-      "link": "https://www.aa.com.tr/tr/spor/kocaelispor-super-ligde-yarin-amed-sportif-faaliyetleri-konuk-edecek/4034911",
-      "description": "Kocaelispor, Trendyol Süper Lig'in 2. haftasında yarın Amed Sportif Faaliyetler ile karşılaşacak.",
-      "pubDate": "Sun, 23 Aug 2026 09:50:37 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_8bceba490e27b04dd2c2d0ece89472cc.jpg"
-    },
-    {
-      "title": "Genç sporcular, eski milli boksörün gözetiminde ay-yıldızlı formayı terletmenin peşinde",
-      "link": "https://www.aa.com.tr/tr/spor/genc-sporcular-eski-milli-boksorun-gozetiminde-ay-yildizli-formayi-terletmenin-pesinde/4034868",
-      "description": "Zonguldak'ta eski milli boksör ve antrenör İshak Tiryaki yönetiminde katılacakları organizasyonlara hazırlanan genç boksörler Elif Pınar Bozkurt ve Ayhan Öz, milli takımda yer alarak adlarından söz ettirmek istiyor.",
-      "pubDate": "Sun, 23 Aug 2026 00:58:27 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_cd19b483cf8e28ac67c2c00b70f59f2e.jpg"
-    },
-    {
-      "title": "Almanya Süper Kupası'nı Borussia Dortmund'u 2-1 yenen Bayern Münih kazandı",
-      "link": "https://www.aa.com.tr/tr/spor/almanya-super-kupasini-borussia-dortmundu-2-1-yenen-bayern-munih-kazandi/4034859",
-      "description": "Bayern Münih, Borussia Dortmund'u 2-1 mağlup ederek Almanya Süper Kupası'nın sahibi oldu.",
-      "pubDate": "Sun, 23 Aug 2026 00:01:14 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_3e57a668b23ef5df52c2e5ecdadabef6.jpg"
     }
   ]
 }
