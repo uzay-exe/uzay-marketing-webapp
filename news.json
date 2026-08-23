@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-23T10:53:48.461483+00:00",
+  "updated": "2026-08-23T11:44:06.936539+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "FUT Esports, Dünya Kupası'nda finale çıktı",
+      "link": "https://www.aa.com.tr/tr/spor/fut-esports-dunya-kupasinda-finale-cikti/4035078",
+      "description": "2026 Espor Dünya Kupası'nda mücadele eden FUT Esports takımı, finale yükseldi.",
+      "pubDate": "Sun, 23 Aug 2026 14:07:44 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_eba6472d98425f09d5268d5b62fd0bad.jpg"
+    },
     {
       "title": "Fenerbahçe'den Kerem Aktürkoğlu'nun sağlık durumuna ilişkin açıklama",
       "link": "https://www.aa.com.tr/tr/spor/fenerbahceden-kerem-akturkoglunun-saglik-durumuna-iliskin-aciklama/4035013",
@@ -38,9 +45,9 @@
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_7d075f54e08263e9c8445b578ae58b61.jpg"
     },
     {
-      "title": "38. Boğaziçi Kıtalararası Yüzme Yarışı başladı",
-      "link": "https://www.aa.com.tr/tr/spor/38-bogazici-kitalararasi-yuzme-yarisi-basladi/4034923",
-      "description": "Türkiye Milli Olimpiyat Komitesi (TMOK) tarafından organize edilen Boğaziçi Kıtalararası Yüzme Yarışı başladı.",
+      "title": "38. Boğaziçi Kıtalararası Yüzme Yarışı yapıldı",
+      "link": "https://www.aa.com.tr/tr/spor/38-bogazici-kitalararasi-yuzme-yarisi-yapildi/4034923",
+      "description": "Türkiye Milli Olimpiyat Komitesi (TMOK) tarafından bu yıl 38'incisi düzenlenen Boğaziçi Kıtalararası Yüzme Yarışı, İstanbul'da gerçekleştirildi.",
       "pubDate": "Sun, 23 Aug 2026 10:07:48 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_862615a2b3934fd35bb198cfdd81b0f9.jpg"
     },
@@ -78,13 +85,6 @@
       "description": "İtalya 1. Futbol Ligi'nde (Serie A) Hakan Çalhanoğlu'nun gol attığı maçta Inter, Monza'yı 4-1 yenerek sezona galibiyetle başladı.",
       "pubDate": "Sat, 22 Aug 2026 21:52:55 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_d3f99a06c80f0a03fd4ff9093d43f4e2.jpg"
-    },
-    {
-      "title": "Kasımpaşa, deplasmanda Arca Çorum FK'ı 1-0 yendi",
-      "link": "https://www.aa.com.tr/tr/spor/kasimpasa-deplasmanda-arca-corum-fki-1-0-yendi/4034795",
-      "description": "Trendyol Süper Lig'in 2. haftasında Kasımpaşa, deplasmanda Arca Çorum FK'ı 1-0 yendi.",
-      "pubDate": "Sat, 22 Aug 2026 21:06:21 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_bb5a3369f278c67ff90d1b4207fa434c.jpg"
     }
   ]
 }
