@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-23T09:02:11.047908+00:00",
+  "updated": "2026-08-23T10:53:48.461483+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Fenerbahçe'den Kerem Aktürkoğlu'nun sağlık durumuna ilişkin açıklama",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahceden-kerem-akturkoglunun-saglik-durumuna-iliskin-aciklama/4035013",
+      "description": "Fenerbahçe Kulübü, Trendyol Süper Lig'de TÜMOSAN Konyaspor ile yapılan maçta kafa travması geçiren Kerem Aktürkoğlu'nun tomografisinde herhangi bir bulguya rastlanmadığını açıkladı.",
+      "pubDate": "Sun, 23 Aug 2026 12:19:18 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_ec6cb1908b800298952ba55595037513.jpg"
+    },
     {
       "title": "Milli güreşçi Fazlı Eryılmaz'ın hedefi Los Angeles 2028'de madalya",
       "link": "https://www.aa.com.tr/tr/spor/milli-guresci-fazli-eryilmazin-hedefi-los-angeles-2028de-madalya/4034994",
@@ -78,13 +85,6 @@
       "description": "Trendyol Süper Lig'in 2. haftasında Kasımpaşa, deplasmanda Arca Çorum FK'ı 1-0 yendi.",
       "pubDate": "Sat, 22 Aug 2026 21:06:21 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_bb5a3369f278c67ff90d1b4207fa434c.jpg"
-    },
-    {
-      "title": "Samsunspor, deplasmanda Çaykur Rizespor'u 2-0 yendi",
-      "link": "https://www.aa.com.tr/tr/spor/samsunspor-deplasmanda-caykur-rizesporu-2-0-yendi/4034781",
-      "description": "Trendyol Süper Lig'in ikinci haftasında Samsunspor, deplasmanda Çaykur Rizespor'u 2-0 yendi.",
-      "pubDate": "Sat, 22 Aug 2026 20:06:09 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_ae2ac3b7b9c14fb22ca1c97814190a30.jpg"
     }
   ]
 }
