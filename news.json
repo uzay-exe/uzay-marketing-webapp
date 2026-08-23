@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-23T05:16:01.455152+00:00",
+  "updated": "2026-08-23T07:47:47.244530+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Türkiye, İşitme Engelliler Avrupa Gençlik Oyunları'nı 9'u altın, 33 madalyayla tamamladı",
+      "link": "https://www.aa.com.tr/tr/spor/turkiye-isitme-engelliler-avrupa-genclik-oyunlarini-9u-altin-33-madalyayla-tamamladi/4034933",
+      "description": "Türkiye, Almanya'da düzenlenen İşitme Engelliler Avrupa Gençlik Oyunları'nı 9 altın, 14 gümüş ve 10 bronz olmak üzere 33 madalyayla tamamladı.",
+      "pubDate": "Sun, 23 Aug 2026 10:41:28 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_7d075f54e08263e9c8445b578ae58b61.jpg"
+    },
+    {
+      "title": "38. Boğaziçi Kıtalararası Yüzme Yarışı başladı",
+      "link": "https://www.aa.com.tr/tr/spor/38-bogazici-kitalararasi-yuzme-yarisi-basladi/4034923",
+      "description": "Türkiye Milli Olimpiyat Komitesi (TMOK) tarafından organize edilen Boğaziçi Kıtalararası Yüzme Yarışı başladı.",
+      "pubDate": "Sun, 23 Aug 2026 10:07:48 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_862615a2b3934fd35bb198cfdd81b0f9.jpg"
+    },
+    {
+      "title": "Kocaelispor, Süper Lig'de yarın Amed Sportif Faaliyetler'i konuk edecek",
+      "link": "https://www.aa.com.tr/tr/spor/kocaelispor-super-ligde-yarin-amed-sportif-faaliyetleri-konuk-edecek/4034911",
+      "description": "Kocaelispor, Trendyol Süper Lig'in 2. haftasında yarın Amed Sportif Faaliyetler ile karşılaşacak.",
+      "pubDate": "Sun, 23 Aug 2026 09:50:37 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_8bceba490e27b04dd2c2d0ece89472cc.jpg"
+    },
     {
       "title": "Genç sporcular, eski milli boksörün gözetiminde ay-yıldızlı formayı terletmenin peşinde",
       "link": "https://www.aa.com.tr/tr/spor/genc-sporcular-eski-milli-boksorun-gozetiminde-ay-yildizli-formayi-terletmenin-pesinde/4034868",
@@ -64,27 +85,6 @@
       "description": "Balkan Motosiklet Birliği (BMU) Avrupa Motokros Şampiyonası ile Türkiye Motokros Şampiyonası'nda ilk günün en hızlı sporcuları belli oldu.",
       "pubDate": "Sat, 22 Aug 2026 19:00:02 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_d57c17fedbebce2691db1fd5805c08aa.jpg"
-    },
-    {
-      "title": "Formula 1 Hollanda Grand Prix'sinde pole pozisyonu Lando Norris'in oldu",
-      "link": "https://www.aa.com.tr/tr/spor/formula-1-hollanda-grand-prixsinde-pole-pozisyonu-lando-norrisin-oldu/4034743",
-      "description": "Formula 1 Dünya Şampiyonası'nda sezonun 12. yarışı Hollanda Grand Prix'inde McLaren takımının Büyük Britanyalı pilotu Lando Norris, ilk sıradan başlayacak.",
-      "pubDate": "Sat, 22 Aug 2026 18:44:15 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_aba862756131280e98c556787428073e.jpg"
-    },
-    {
-      "title": "Gençlerbirliği, Metehan Baltacı'yı kiralık olarak kadrosuna kattı",
-      "link": "https://www.aa.com.tr/tr/spor/genclerbirligi-metehan-baltaciyi-kiralik-olarak-kadrosuna-katti/4034722",
-      "description": "Trendyol Süper Lig ekiplerinden Gençlerbirliği, Galatasaray forması giyen defans oyuncusu Metehan Baltacı'yı sezon sonuna kadar kiralık olarak kadrosuna kattığını duyurdu.",
-      "pubDate": "Sat, 22 Aug 2026 18:05:24 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_94852fa5b3db59695d9f0c210649c604.jpg"
-    },
-    {
-      "title": "Hull City, Premier Lig'e Manchester United galibiyetiyle döndü",
-      "link": "https://www.aa.com.tr/tr/spor/hull-city-premier-lige-manchester-united-galibiyetiyle-dondu/4034683",
-      "description": "İngiltere Premier Lig'in ilk haftasında oynanan maçta Hull City, sahasında Manchester United'ı 2-0 mağlup etti.",
-      "pubDate": "Sat, 22 Aug 2026 17:00:07 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_606d2687e6815d549b1cbe4a1f86c9a9.jpg"
     }
   ]
 }
