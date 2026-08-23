@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-23T15:48:58.221913+00:00",
+  "updated": "2026-08-23T16:56:23.854015+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Premier Lig'de Brighton'a Aston Villa karşısında yarım saat yetti",
+      "link": "https://www.aa.com.tr/tr/spor/premier-ligde-brightona-aston-villa-karsisinda-yarim-saat-yetti/4035191",
+      "description": "İngiltere Premier Lig'de oynanan maçta Brighton Hove Albion, sahasında Aston Villa'yı 4-0 mağlup etti.",
+      "pubDate": "Sun, 23 Aug 2026 18:12:31 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_92b53d3f7cedf21362ac6c04e9d90c16.jpg"
+    },
     {
       "title": "Gran Fondo Başkent Bisiklet Yarışı'nda şampiyonlar belli oldu",
       "link": "https://www.aa.com.tr/tr/spor/gran-fondo-baskent-bisiklet-yarisinda-sampiyonlar-belli-oldu/4035112",
@@ -78,13 +85,6 @@
       "description": "Bayern Münih, Borussia Dortmund'u 2-1 mağlup ederek Almanya Süper Kupası'nın sahibi oldu.",
       "pubDate": "Sun, 23 Aug 2026 00:01:14 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_3e57a668b23ef5df52c2e5ecdadabef6.jpg"
-    },
-    {
-      "title": "Fenerbahçe, Konyaspor'u farklı geçti",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-konyasporu-farkli-gecti/4034852",
-      "description": "Fenerbahçe, Trendyol Süper Lig'in 2. haftasında konuk ettiği TÜMOSAN Konyaspor'u 4-2 yendi.",
-      "pubDate": "Sat, 22 Aug 2026 23:38:49 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_f79ccada7a97f5266059a429b1552bb3.jpg"
     }
   ]
 }
