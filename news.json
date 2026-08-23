@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-23T11:44:06.936539+00:00",
+  "updated": "2026-08-23T13:45:00.634587+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Gran Fondo Başkent Bisiklet Yarışı'nda şampiyonlar belli oldu",
+      "link": "https://www.aa.com.tr/tr/spor/gran-fondo-baskent-bisiklet-yarisinda-sampiyonlar-belli-oldu/4035112",
+      "description": "- Yarışta 90,91 kilometrelik uzun parkurda erkeklerde Ömer Cumhur Boyraz, kadınlarda Seniz Pamuk; 55,76 kilometrelik kısa parkurda ise erkeklerde Furkan Akdeniz, kadınlarda Aylin Yüce birinci oldu",
+      "pubDate": "Sun, 23 Aug 2026 15:18:30 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_871e397ebcdbc6f15b43cb83eb21be3e.jpg"
+    },
     {
       "title": "FUT Esports, Dünya Kupası'nda finale çıktı",
       "link": "https://www.aa.com.tr/tr/spor/fut-esports-dunya-kupasinda-finale-cikti/4035078",
@@ -10,9 +17,9 @@
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_eba6472d98425f09d5268d5b62fd0bad.jpg"
     },
     {
-      "title": "Fenerbahçe'den Kerem Aktürkoğlu'nun sağlık durumuna ilişkin açıklama",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahceden-kerem-akturkoglunun-saglik-durumuna-iliskin-aciklama/4035013",
-      "description": "Fenerbahçe Kulübü, Trendyol Süper Lig'de TÜMOSAN Konyaspor ile yapılan maçta kafa travması geçiren Kerem Aktürkoğlu'nun tomografisinde herhangi bir bulguya rastlanmadığını açıkladı.",
+      "title": "Fenerbahçe'den Asensio ve Kerem Aktürkoğlu'nun sağlık durumuna ilişkin açıklama",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahceden-asensio-ve-kerem-akturkoglunun-saglik-durumuna-iliskin-aciklama/4035013",
+      "description": "Fenerbahçe Futbol Direktörü Oğuz Çetin, sarı-lacivertli oyuncular Kerem Aktürkoğlu ve Marco Asensio'nun sağlık durumuna ilişkin açıklamada bulundu.",
       "pubDate": "Sun, 23 Aug 2026 12:19:18 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_ec6cb1908b800298952ba55595037513.jpg"
     },
@@ -78,13 +85,6 @@
       "description": "Fenerbahçe, Trendyol Süper Lig'in 2. haftasında konuk ettiği TÜMOSAN Konyaspor'u 4-2 yendi.",
       "pubDate": "Sat, 22 Aug 2026 23:38:49 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_f79ccada7a97f5266059a429b1552bb3.jpg"
-    },
-    {
-      "title": "Hakan Çalhanoğlu'nun gol attığı maçta Inter, Serie A'da sezona galibiyetle başladı",
-      "link": "https://www.aa.com.tr/tr/spor/hakan-calhanoglunun-gol-attigi-macta-inter-serie-ada-sezona-galibiyetle-basladi/4034812",
-      "description": "İtalya 1. Futbol Ligi'nde (Serie A) Hakan Çalhanoğlu'nun gol attığı maçta Inter, Monza'yı 4-1 yenerek sezona galibiyetle başladı.",
-      "pubDate": "Sat, 22 Aug 2026 21:52:55 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_d3f99a06c80f0a03fd4ff9093d43f4e2.jpg"
     }
   ]
 }
