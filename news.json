@@ -1,7 +1,56 @@
 {
-  "updated": "2026-08-24T08:29:13.404301+00:00",
+  "updated": "2026-08-24T10:58:03.704110+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "MultiSport Türkiye'den İzmir'de alışveriş merkezinde koşu etkinliği",
+      "link": "https://www.aa.com.tr/tr/spor/multisport-turkiyeden-izmirde-alisveris-merkezinde-kosu-etkinligi/4033889",
+      "description": "MultiSport Türkiye, yaz aylarında yüksek sıcaklık nedeniyle açık havada spor yapmanın zorlaştığı İzmir'de, sporu günlük yaşam alanlarına taşıma amacıyla alışveriş merkezinde koşu etkinliği düzenledi.",
+      "pubDate": "Fri, 21 Aug 2026 15:29:03 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/21/thumbs_b_c_9ea2d08bb882d96558017b06e60c9b91.jpg"
+    },
+    {
+      "title": "Milli para golfçüler, Çekya'daki turnuvada 4 kupa kazandı",
+      "link": "https://www.aa.com.tr/tr/spor/milli-para-golfculer-cekyadaki-turnuvada-4-kupa-kazandi/4035643",
+      "description": "Çekya Engelliler Açık Golf Turnuvası'nda Türkiye'yi temsil eden Mehmet Kazan ve Karahan Yıldırım, 2'şer şampiyonluk kazandı.",
+      "pubDate": "Mon, 24 Aug 2026 12:24:01 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_d3a51df51e69768b8f81522b1dce6c3f.jpg"
+    },
+    {
+      "title": "Trendyol Süper Lig kombinelerinin en pahalısı 275 bin, en ucuzu 3 bin lira",
+      "link": "https://www.aa.com.tr/tr/spor/trendyol-super-lig-kombinelerinin-en-pahalisi-275-bin-en-ucuzu-3-bin-lira/4035607",
+      "description": "Trendyol Süper Lig'de 2026-2027 sezonu kombinelerinin en pahalısı 275 bin, en ucuzu ise 3 bin lira fiyatla futbolseverlere sunuldu.",
+      "pubDate": "Mon, 24 Aug 2026 11:52:06 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_bb4eca8b08ee7ead39b0190a5ece5bcb.jpg"
+    },
+    {
+      "title": "Gaziantep FK, Süper Lig'de bu sezonki ilk galibiyetini aldı",
+      "link": "https://www.aa.com.tr/tr/spor/gaziantep-fk-super-ligde-bu-sezonki-ilk-galibiyetini-aldi/4035616",
+      "description": "Trendyol Süper Lig'in 2. haftasında konuk olduğu Eyüpspor'u 1-0 yenen Gaziantep FK, bu sezonki ilk galibiyetini aldı.",
+      "pubDate": "Mon, 24 Aug 2026 12:02:54 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_4d4fc478469029e5ecfe31890c010eea.jpg"
+    },
+    {
+      "title": "Avrupa Ligi Süper Kupa'da mücadele edecek takımlar belli oldu",
+      "link": "https://www.aa.com.tr/tr/spor/avrupa-ligi-super-kupada-mucadele-edecek-takimlar-belli-oldu/4035598",
+      "description": "Abu Dabi'nin ev sahipliğindeki organizasyonda Fenerbahçe Tarfin, Olympiakos, Real Madrid ve Dubai Basketbol yer alacak.",
+      "pubDate": "Mon, 24 Aug 2026 11:42:34 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_387d51048da870350a974f57bdce0b52.jpg"
+    },
+    {
+      "title": "Hakkari'de sporcular, asfalt yolda antrenman yaparak kışın yapılacak yarışlara hazırlanıyor",
+      "link": "https://www.aa.com.tr/tr/spor/hakkaride-sporcular-asfalt-yolda-antrenman-yaparak-kisin-yapilacak-yarislara-hazirlaniyor/4035538",
+      "description": "Hakkari'nin Yüksekova ilçesinde kayaklı koşu ve biatlon sporcuları, asfalt yolda tekerlekli kayaklarla antrenman yaparak kış sezonunda düzenlenecek ulusal ve uluslararası yarışmalara hazırlanıyor.",
+      "pubDate": "Mon, 24 Aug 2026 11:05:55 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_cd618650829f8bce76c3cf7958ff0b05.jpg"
+    },
+    {
+      "title": "Olimpik Lyon-Fenerbahçe maçını, İtalyan hakem Maurizio Mariani yönetecek",
+      "link": "https://www.aa.com.tr/tr/spor/olimpik-lyon-fenerbahce-macini-italyan-hakem-maurizio-mariani-yonetecek/4035582",
+      "description": "Fenerbahçe'nin UEFA Şampiyonlar Ligi play-off turunda Fransız ekibi Olimpik Lyon ile yapacağı rövanş maçını yönetecek hakemler belli oldu.",
+      "pubDate": "Mon, 24 Aug 2026 11:32:59 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_36963370c3de2320e5986b271650fef5.jpg"
+    },
     {
       "title": "Trabzonspor'da şampiyonluk sonrası en golcü başlangıcı Salah yaptı",
       "link": "https://www.aa.com.tr/tr/spor/trabzonsporda-sampiyonluk-sonrasi-en-golcu-baslangici-salah-yapti/4035562",
@@ -36,55 +85,6 @@
       "description": "Lihtenştayn Açık Amatör Golf Şampiyonası'na katılan milli sporculardan Deniz Sapmaz, kadınlar kategorisinde 2'nciliği elde etti.",
       "pubDate": "Mon, 24 Aug 2026 10:38:48 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_385d6ef28191a5bba200ac26874cd6a5.jpg"
-    },
-    {
-      "title": "UEFA Şampiyonlar Ligi'nde play-off turu rövanş maçları yarın başlayacak",
-      "link": "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-play-off-turu-rovans-maclari-yarin-baslayacak/4035439",
-      "description": "Fenerbahçe, 26 Ağustos Çarşamba günü Fransa'nın Olimpik Lyon takımına konuk olacak.",
-      "pubDate": "Mon, 24 Aug 2026 09:42:39 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_1a406c3fec4cf57ff02c6b984c685df3.jpg"
-    },
-    {
-      "title": "Gençlerbirliği, deplasmanda Göztepe'yi mağlup etti",
-      "link": "https://www.aa.com.tr/tr/spor/genclerbirligi-deplasmanda-goztepeyi-maglup-etti/4035308",
-      "description": "Trendyol Süper Lig'in 2. haftasında Gençlerbirliği, deplasmanda Göztepe'yi 1-0 mağlup etti.",
-      "pubDate": "Sun, 23 Aug 2026 22:31:17 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_e637791a126bd1b1ca5b12b584408d4e.jpg"
-    },
-    {
-      "title": "Corendon Alanyaspor, evinde Beşiktaş'ı mağlup etti",
-      "link": "https://www.aa.com.tr/tr/spor/corendon-alanyaspor-evinde-besiktasi-maglup-etti/4035324",
-      "description": "Trendyol Süper Lig'in 2. haftasında Corendon Alanyaspor, evinde Beşiktaş'ı 1-0 mağlup etti.",
-      "pubDate": "Sun, 23 Aug 2026 23:04:44 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_5902e18f4a3105125ef77a2d8b9edecb.jpg"
-    },
-    {
-      "title": "\"Atom Karınca\" Cemal Cumbur, iri rakiplerine hız ve kondisyonuyla direniyor",
-      "link": "https://www.aa.com.tr/tr/spor/atom-karinca-cemal-cumbur-iri-rakiplerine-hiz-ve-kondisyonuyla-direniyor/4035318",
-      "description": "Muğla'nın Seydikemer ilçesinde yaşayan 36 yaşındaki yağlı güreşçi Cemal Cumbur, kendisinden daha iri ve uzun rakipleriyle mücadelesiyle dikkati çekiyor.",
-      "pubDate": "Sun, 23 Aug 2026 22:51:09 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_d94165e0a295bb1ba9bf2e33a914cbdc.jpg"
-    },
-    {
-      "title": "Formula 1 Hollanda Grand Prix'sini Lando Norris kazandı",
-      "link": "https://www.aa.com.tr/tr/spor/formula-1-hollanda-grand-prixsini-lando-norris-kazandi/4035265",
-      "description": "Formula 1 Dünya Şampiyonası'nda sezonun 12. yarışı Hollanda Grand Prix'ini McLaren takımının Büyük Britanyalı pilotu Lando Norris kazandı.",
-      "pubDate": "Sun, 23 Aug 2026 21:21:25 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_12167bee049e5c8e4c110d111f2abfbf.jpg"
-    },
-    {
-      "title": "A Milli Kadın Voleybol Takımı, Slovenya'yı 3-1 yendi",
-      "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-voleybol-takimi-slovenyayi-3-1-yendi/4035262",
-      "description": "A Milli Kadın Voleybol Takımı, Trendyol 2026 Avrupa Kadınlar Voleybol Şampiyonası A Grubu ikinci maçında Slovenya'yı 3-1 yendi.",
-      "pubDate": "Sun, 23 Aug 2026 21:17:38 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_5bf8f3020d4dbd72084ccf3735109980.jpg"
-    },
-    {
-      "title": "Trabzonspor, Salah'ın golleriyle sezonun ilk galibiyetini aldı",
-      "link": "https://www.aa.com.tr/tr/spor/trabzonspor-salahin-golleriyle-sezonun-ilk-galibiyetini-aldi/4035241",
-      "description": "Trabzonspor, Trendyol Süper Lig'in 2. haftasında sahasında İstanbul Başakşehir'i Mısırlı yıldızı Muhammed Salah'ın golleriyle 2-1 mağlup etti.",
-      "pubDate": "Sun, 23 Aug 2026 19:59:34 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/23/thumbs_b_c_8508a4a9c89e1790db3d2dd207174e23.jpg"
     }
   ]
 }
