@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-24T21:14:39.980761+00:00",
+  "updated": "2026-08-24T22:57:55.826396+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Türkiye, Taranto 2026'da toplam 27 madalyaya ulaştı",
+      "link": "https://www.aa.com.tr/tr/spor/turkiye-taranto-2026da-toplam-27-madalyaya-ulasti/4036247",
+      "description": "20. Akdeniz Oyunları'nın (Taranto 2026) dördüncü gününde Türkiye, güreşte 2'si altın olmak üzere 5 madalya kazandı.",
+      "pubDate": "Mon, 24 Aug 2026 21:45:39 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_0f38e9fa961ff806ccde4855be3dc79e.jpg"
+    },
+    {
+      "title": "20 Yaş Altı Milli Futbol Takımı, Kuzey Makedonya'yı mağlup etti",
+      "link": "https://www.aa.com.tr/tr/spor/20-yas-alti-milli-futbol-takimi-kuzey-makedonyayi-maglup-etti/4036334",
+      "description": "20. Akdeniz Oyunları'nda (Taranto 2026) mücadele eden 20 Yaş Altı Milli Futbol Takımı, A Grubu'ndaki ikinci maçında Kuzey Makedonya'yı 3-0 yendi.",
+      "pubDate": "Tue, 25 Aug 2026 00:06:12 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/25/thumbs_b_c_8f316c24e6a1848e48afc23f47a691a1.jpg"
+    },
+    {
+      "title": "Trendyol Süper Lig'de Gençlerbirliği, 6 puanla haftayı lider tamamladı",
+      "link": "https://www.aa.com.tr/tr/spor/trendyol-super-ligde-genclerbirligi-6-puanla-haftayi-lider-tamamladi/4036329",
+      "description": "Trendyol Süper Lig'in 2. haftası tamamlandı.",
+      "pubDate": "Mon, 24 Aug 2026 23:57:35 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_227caf365cf797b948f676e50dd50ec9.jpg"
+    },
     {
       "title": "Kocaelispor, konuk ettiği Amed Sportif Faaliyetler'i yendi",
       "link": "https://www.aa.com.tr/tr/spor/kocaelispor-konuk-ettigi-amed-sportif-faaliyetleri-yendi/4036283",
@@ -64,27 +85,6 @@
       "description": "20. Akdeniz Oyunları'nda (Taranto 2026) mücadele eden Kadın Milli Voleybol Takımı, B Grubu'ndaki 2. maçında Cezayir'i 3-0 yendi.",
       "pubDate": "Mon, 24 Aug 2026 17:17:56 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_9f72c7dfeb3126385e75a0bc6889c9eb.jpg"
-    },
-    {
-      "title": "Trabzonspor'un ilk stadyumuna ismi verilen Hüseyin Avni Aker mezarı başında anıldı",
-      "link": "https://www.aa.com.tr/tr/spor/trabzonsporun-ilk-stadyumuna-ismi-verilen-huseyin-avni-aker-mezari-basinda-anildi/4035934",
-      "description": "Trabzonspor'un ilk stadyumuna ismi verilen Hüseyin Avni Aker, vefatının 82'nci yıl dönümünde kabri başında anıldı.",
-      "pubDate": "Mon, 24 Aug 2026 16:35:06 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_cab71666b4dea94f7faf2285f200c4da.jpg"
-    },
-    {
-      "title": "Sidney Maratonu organizatörleri, madalyalarda yapılan hatayı kabul etti",
-      "link": "https://www.aa.com.tr/tr/spor/sidney-maratonu-organizatorleri-madalyalarda-yapilan-hatayi-kabul-etti/4035871",
-      "description": "Sidney Maratonu organizatörleri, yarışı tamamlayan sporculara verilecek madalyalar üzerindeki işlemelerde yanlış stadın tasvir edildiğini açıkladı.",
-      "pubDate": "Mon, 24 Aug 2026 15:44:06 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_d3f7aed0ba3a3d0c0d66e5afc6d9b274.jpg"
-    },
-    {
-      "title": "MultiSport Türkiye'den İzmir'de alışveriş merkezinde koşu etkinliği",
-      "link": "https://www.aa.com.tr/tr/spor/multisport-turkiyeden-izmirde-alisveris-merkezinde-kosu-etkinligi/4033889",
-      "description": "MultiSport Türkiye, yaz aylarında yüksek sıcaklık nedeniyle açık havada spor yapmanın zorlaştığı İzmir'de, sporu günlük yaşam alanlarına taşıma amacıyla alışveriş merkezinde koşu etkinliği düzenledi.",
-      "pubDate": "Fri, 21 Aug 2026 15:29:03 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/21/thumbs_b_c_9ea2d08bb882d96558017b06e60c9b91.jpg"
     }
   ]
 }
