@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-25T08:08:44.984302+00:00",
+  "updated": "2026-08-25T10:16:37.700945+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Fenerbahçe'nin Olimpik Lyon maçı kamp kadrosu belli oldu",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahcenin-olimpik-lyon-maci-kamp-kadrosu-belli-oldu/4036710",
+      "description": "UEFA Şampiyonlar Ligi play-off turunda 1-1'in rövanşında yarın Fransa'nın Olimpik Lyon ekibiyle karşılaşacak Fenerbahçe'de kamp kadrosu belli oldu.",
+      "pubDate": "Tue, 25 Aug 2026 12:46:55 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/25/thumbs_b_c_0ab0bd0fdc3966e39228ed93b6e93d0e.jpg"
+    },
+    {
+      "title": "Fenerbahçe, UEFA Şampiyonlar Ligi'ne 1 maç uzakta",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-uefa-sampiyonlar-ligine-1-mac-uzakta/4036562",
+      "description": "UEFA Şampiyonlar Ligi play-off turunda 1-1'in rövanşında yarın Fransa temsilcisi Olimpik Lyon'a konuk olacak Fenerbahçe, 17 sezondur katılamadığı Şampiyonlar Ligi'ne 1 maç uzakta bulunuyor.",
+      "pubDate": "Tue, 25 Aug 2026 11:03:37 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/25/thumbs_b_c_86781f387461172850c65547b87695b5.jpg"
+    },
+    {
+      "title": "Fenerbahçe, Avrupa'da 306. maçına çıkacak",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-avrupada-306-macina-cikacak/4036561",
+      "description": "UEFA Şampiyonlar Ligi play-off turu rövanş maçında yarın Fransa'nın Olimpik Lyon takımına konuk olacak Fenerbahçe, Avrupa kupalarındaki 306. karşılaşmasına çıkacak.",
+      "pubDate": "Tue, 25 Aug 2026 11:03:23 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/25/thumbs_b_c_6f47a8607a4bb572e40199ca436eeb0f.jpg"
+    },
     {
       "title": "Trabzonspor'un 208. yabancı oyuncusu Fabinho",
       "link": "https://www.aa.com.tr/tr/spor/trabzonsporun-208-yabanci-oyuncusu-fabinho/4036563",
@@ -64,27 +85,6 @@
       "description": "Trabzonspor, Brezilyalı futbolcu Fabinho'yu 2 yıllığına renklerine bağladı.",
       "pubDate": "Mon, 24 Aug 2026 21:22:02 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_1df0493259ab4714a518510acfc120d5.jpg"
-    },
-    {
-      "title": "A Milli Kadın Voleybol Takımı, Macaristan'ı yendi",
-      "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-voleybol-takimi-macaristani-yendi/4036212",
-      "description": "A Milli Kadın Voleybol Takımı, Trendyol 2026 Avrupa Kadınlar Voleybol Şampiyonası A Grubu üçüncü maçında Macaristan'ı 3-0 yendi.",
-      "pubDate": "Mon, 24 Aug 2026 20:54:18 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_bb9d7ce86a0ff19643c3e1c12a410bb8.jpg"
-    },
-    {
-      "title": "Dallas Mavericks'e transfer olan Tarık Biberovic, Fenerbahçe Basketbol Takımı'na veda etti",
-      "link": "https://www.aa.com.tr/tr/spor/dallas-maverickse-transfer-olan-tarik-biberovic-fenerbahce-basketbol-takimina-veda-etti/4036127",
-      "description": "Amerikan Basketbol Ligi (NBA) ekiplerinden Dallas Mavericks'e transfer olan milli oyuncu Tarık Biberovic, Fenerbahçe'ye veda etti.",
-      "pubDate": "Mon, 24 Aug 2026 18:55:56 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_cd5701bb8d4cd5cad70b4fdda00e7c15.jpg"
-    },
-    {
-      "title": "Liverpool Futbol Akademisi Türkiye'de",
-      "link": "https://www.aa.com.tr/tr/spor/liverpool-futbol-akademisi-turkiyede/4036151",
-      "description": "İngiltere Premier Ligi ekibi Liverpool'un dünyaca ünlü gelişim ve altyapı programı Liverpool FC Uluslararası Akademisi, Türkiye'de çocuklarla buluşacak.",
-      "pubDate": "Mon, 24 Aug 2026 19:46:42 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_f2b8442678800af47f824a8f0e1ef984.jpg"
     }
   ]
 }
