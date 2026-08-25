@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-25T05:49:11.380140+00:00",
+  "updated": "2026-08-25T08:08:44.984302+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Trabzonspor'un 208. yabancı oyuncusu Fabinho",
+      "link": "https://www.aa.com.tr/tr/spor/trabzonsporun-208-yabanci-oyuncusu-fabinho/4036563",
+      "description": "Trabzonspor'un anlaşmaya vardığı Brezilyalı yıldız oyuncu Fabinho, kulübün 208. yabancı futbolcusu olarak kayıtlara geçti.",
+      "pubDate": "Tue, 25 Aug 2026 11:03:48 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/25/thumbs_b_c_2c9afdcdd2f91403dec310dcb6d55786.jpg"
+    },
+    {
+      "title": "Premier Lig'de 5 gollü Londra derbisini Chelsea kazandı",
+      "link": "https://www.aa.com.tr/tr/spor/premier-ligde-5-gollu-londra-derbisini-chelsea-kazandi-/4036493",
+      "description": "İngiltere Premier Lig'de ilk haftanın kapanışında oynanan Londra derbisinde Chelsea, deplasmanda Fulham'ı 3-2 mağlup etti.",
+      "pubDate": "Tue, 25 Aug 2026 10:27:54 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/25/thumbs_b_c_928d9dfc1fb5f75842dec085f26c0796.jpg"
+    },
+    {
+      "title": "Fenerbahçe, yarın UEFA Şampiyonlar Ligi için sahaya çıkacak",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-yarin-uefa-sampiyonlar-ligi-icin-sahaya-cikacak/4036451",
+      "description": "Fenerbahçe, UEFA Şampiyonlar Ligi play-off turunda 1-1'in rövanşında yarın Fransa'nın Olimpik Lyon takımıyla deplasmanda karşı karşıya gelecek.",
+      "pubDate": "Tue, 25 Aug 2026 09:50:42 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/25/thumbs_b_c_50228388cb82cb375e3b50ff1cf0d820.jpg"
+    },
     {
       "title": "Türkiye, Taranto 2026'da toplam 27 madalyaya ulaştı",
       "link": "https://www.aa.com.tr/tr/spor/turkiye-taranto-2026da-toplam-27-madalyaya-ulasti/4036247",
@@ -64,27 +85,6 @@
       "description": "İngiltere Premier Ligi ekibi Liverpool'un dünyaca ünlü gelişim ve altyapı programı Liverpool FC Uluslararası Akademisi, Türkiye'de çocuklarla buluşacak.",
       "pubDate": "Mon, 24 Aug 2026 19:46:42 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_f2b8442678800af47f824a8f0e1ef984.jpg"
-    },
-    {
-      "title": "Beşiktaş'tan MHK Başkanı Ferhat Gündoğdu'ya istifa çağrısı",
-      "link": "https://www.aa.com.tr/tr/spor/besiktastan-mhk-baskani-ferhat-gundogduya-istifa-cagrisi/4036140",
-      "description": "Beşiktaş Kulübü İkinci Başkanı Hakan Daltaban, Corendon Alanyaspor maçındaki hakem performansını eleştirerek MHK Başkanı Ferhat Gündoğdu'yu istifaya, TFF Başkanı Hacıosmanoğlu'nu da MHK Başkanı Gündoğdu'yu görevden almaya davet etti.",
-      "pubDate": "Mon, 24 Aug 2026 19:26:13 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_a6c2e71769b2256e0dc1c6a69a7fa420.jpg"
-    },
-    {
-      "title": "Türkiye, Taranto 2026'da 20 madalyaya ulaştı",
-      "link": "https://www.aa.com.tr/tr/spor/turkiye-taranto-2026da-20-madalyaya-ulasti/4036002",
-      "description": "Taranto 2026'da Türkiye, 3. günde 6 altın, 3 gümüş ve 4 bronz madalya kazanarak toplam 20 madalyaya ulaştı.",
-      "pubDate": "Mon, 24 Aug 2026 17:21:09 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_e68887d606a2678e0618999ef4cce174.jpg"
-    },
-    {
-      "title": "Kadın Milli Voleybol Takımı, Cezayir'i mağlup etti",
-      "link": "https://www.aa.com.tr/tr/spor/kadin-milli-voleybol-takimi-cezayiri-maglup-etti/4035995",
-      "description": "20. Akdeniz Oyunları'nda (Taranto 2026) mücadele eden Kadın Milli Voleybol Takımı, B Grubu'ndaki 2. maçında Cezayir'i 3-0 yendi.",
-      "pubDate": "Mon, 24 Aug 2026 17:17:56 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_9f72c7dfeb3126385e75a0bc6889c9eb.jpg"
     }
   ]
 }
