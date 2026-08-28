@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-28T22:04:27.005299+00:00",
+  "updated": "2026-08-28T23:04:24.049385+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Giresunspor Hentbol Takımı'nda Avrupa kupası heyecanı",
+      "link": "https://www.aa.com.tr/tr/spor/giresunspor-hentbol-takiminda-avrupa-kupasi-heyecani/4040706",
+      "description": "Hentbol Erkekler Süper Lig ekibi Giresunspor, ilk kez mücadele edeceği EHF Avrupa Kupası'nda başarı yakalamayı hedefliyor.",
+      "pubDate": "Sat, 29 Aug 2026 01:38:44 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_1336368310231f0fc3affd932d7cc96a.jpg"
+    },
+    {
+      "title": "Zonguldaklı genç milli boksör, Avrupa şampiyonluğu için yumruk sallayacak",
+      "link": "https://www.aa.com.tr/tr/spor/zonguldakli-genc-milli-boksor-avrupa-sampiyonlugu-icin-yumruk-sallayacak/4040703",
+      "description": "Zonguldaklı genç milli boksör Fırat Bozkurt, Karadağ'ın Budva kentinde 1-11 Ekim'de düzenlenecek 17 Yaş Altı Avrupa Boks Şampiyonası'nda altın madalya kazanarak Türk bayrağını göndere çektirmek istiyor.",
+      "pubDate": "Sat, 29 Aug 2026 01:37:09 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_ce18dafee41d740bd3b008c5e6088065.jpg"
+    },
+    {
+      "title": "Manchester City, başkent deplasmanında farklı kazandı",
+      "link": "https://www.aa.com.tr/tr/spor/manchester-city-baskent-deplasmaninda-farkli-kazandi/4040692",
+      "description": "İngiltere Premier Lig'in ikinci haftasında oynanan maçta Manchester City, deplasmanda Crystal Palace'ı 4-1 mağlup etti.",
+      "pubDate": "Sat, 29 Aug 2026 00:54:28 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_cb3a911e9ace12f8ee90e3682dba60ee.jpg"
+    },
     {
       "title": "PSG uzatma dakikalarında attığı gollerle deplasmandan 1 puanla döndü",
       "link": "https://www.aa.com.tr/tr/spor/psg-uzatma-dakikalarinda-attigi-gollerle-deplasmandan-1-puanla-dondu/4040677",
@@ -64,27 +85,6 @@
       "description": "20. Akdeniz Oyunları'nda (Taranto 2026) mücadele eden Erkek Milli Voleybol Takımı, B Grubu'ndaki 4. maçında İspanya'yı 3-1 yendi.",
       "pubDate": "Fri, 28 Aug 2026 21:37:33 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/28/thumbs_b_c_d653a67c41682053529ad3b2a2df02bb.jpg"
-    },
-    {
-      "title": "Beşiktaş, İtalyan futbolcu Fabio Miretti'yi kiralık olarak renklerine bağladı",
-      "link": "https://www.aa.com.tr/tr/spor/besiktas-italyan-futbolcu-fabio-mirettiyi-kiralik-olarak-renklerine-bagladi/4040528",
-      "description": "Beşiktaş, Juventus'un İtalyan futbolcusu Fabio Miretti'yi kiralık olarak kadrosuna kattı.",
-      "pubDate": "Fri, 28 Aug 2026 20:13:30 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/28/thumbs_b_c_f794dd9a6ec74bc12000e1995c96d5c1.jpg"
-    },
-    {
-      "title": "Barcelona'nın KKTC'de iptal ettiği kampa, Türk kulüpleri ile Milli Takım'ın hocaları gelecek",
-      "link": "https://www.aa.com.tr/tr/spor/barcelonanin-kktcde-iptal-ettigi-kampa-turk-kulupleri-ile-milli-takimin-hocalari-gelecek/4040438",
-      "description": "KKTC Başbakanı Ünal Üstel, İspanyol FC Barcelona Academy'nin yapmayı planladığı futbol eğitim kampını Rumların baskıları ile iptal etmesine karşın, Türk kulüpleri ile A Milli Futbol Takımı hocalarının aynı yerde çocuklarla buluşacağını ifade etti.",
-      "pubDate": "Fri, 28 Aug 2026 19:02:54 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/28/thumbs_b_c_c914da3fee1095c8055408a09858290b.jpg"
-    },
-    {
-      "title": "Trabzonspor'un Mısırlı yıldızı Muhammed Salah, beklentileri karşılayacaklarına inanıyor",
-      "link": "https://www.aa.com.tr/tr/spor/trabzonsporun-misirli-yildizi-muhammed-salah-beklentileri-karsilayacaklarina-inaniyor/4040355",
-      "description": "Yoluna UEFA Konferans Ligi'nde devam eden Trabzonspor'da Mısırlı yıldız Muhammed Salah, kendilerinden beklentinin yüksek olduğunu ve bu beklentileri karşılayabileceklerine inandığını belirtti.",
-      "pubDate": "Fri, 28 Aug 2026 17:33:26 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/28/thumbs_b_c_de296342fd2a46097a7c53413b9b95d1.jpg"
     }
   ]
 }
