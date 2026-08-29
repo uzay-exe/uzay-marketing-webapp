@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-29T07:04:36.788052+00:00",
+  "updated": "2026-08-29T08:04:44.300809+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "İstanbul Başakşehir, Süper Lig'de yarın Kasımpaşa'yı ağırlayacak",
+      "link": "https://www.aa.com.tr/tr/spor/istanbul-basaksehir-super-ligde-yarin-kasimpasayi-agirlayacak/4040787",
+      "description": "İstanbul Başakşehir, Trendyol Süper Lig'in 3. haftasında yarın Kasımpaşa'yı konuk edecek.",
+      "pubDate": "Sat, 29 Aug 2026 10:47:31 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_ac1ffa472dbb0c39dc6679c1fce0e7bb.jpg"
+    },
+    {
+      "title": "Eyüpspor, Süper Lig'de yarın Alanyaspor'u konuk edecek",
+      "link": "https://www.aa.com.tr/tr/spor/eyupspor-super-ligde-yarin-alanyasporu-konuk-edecek/4040774",
+      "description": "Eyüpspor, Trendyol Süper Lig'in 3. haftasında yarın Corendon Alanyaspor'u ağırlayacak.",
+      "pubDate": "Sat, 29 Aug 2026 10:26:35 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_4949d8dc73001c320fd1a82c49a11eba.jpg"
+    },
     {
       "title": "Fenerbahçe, Süper Lig'de yarın Samsunspor'a konuk olacak",
       "link": "https://www.aa.com.tr/tr/spor/fenerbahce-super-ligde-yarin-samsunspora-konuk-olacak/4040743",
@@ -71,20 +85,6 @@
       "description": "Fenerbahçe, 29 yaşındaki futbolcu Cengiz Ünder ile yollarını ayırdı.",
       "pubDate": "Fri, 28 Aug 2026 21:57:45 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/28/thumbs_b_c_3fd7c87ccacc38faab149fa261a0f9d3.jpg"
-    },
-    {
-      "title": "Teknik Direktör Fatih Tekke: Trabzonspor'a yakışan mücadeleyi ortaya koyacağız",
-      "link": "https://www.aa.com.tr/tr/spor/teknik-direktor-fatih-tekke-trabzonspora-yakisan-mucadeleyi-ortaya-koyacagiz/4040591",
-      "description": "Trabzonspor Teknik Direktörü Fatih Tekke, bordo-mavili takım için mücadelelerine aynı inanç, aynı kararlılık ve aynı sorumluluk duygusuyla devam edeceklerini bildirdi.",
-      "pubDate": "Fri, 28 Aug 2026 21:51:02 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/28/thumbs_b_c_1223b25dc71fdf0cf34004be90153697.jpg"
-    },
-    {
-      "title": "A Milli Kadın Voleybol Takımı, Avrupa Şampiyonası'nda grubu ikinci tamamladı",
-      "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-voleybol-takimi-avrupa-sampiyonasinda-grubu-ikinci-tamamladi/4040588",
-      "description": "A Milli Kadın Voleybol Takımı, Trendyol 2026 CEV Kadınlar Avrupa Şampiyonası A Grubu'ndaki 5. ve son maçında Polonya'ya 3-2 mağlup oldu. Ay-yıldızlı ekip, grubu 4 galibiyet ve 1 mağlubiyetle ikinci sırada bitirdi.",
-      "pubDate": "Fri, 28 Aug 2026 21:46:49 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/28/thumbs_b_c_16b82c746988e3a56d866f6352d7e9d2.jpg"
     }
   ]
 }
