@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-29T18:04:45.737870+00:00",
+  "updated": "2026-08-29T19:04:29.350617+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Galatasaray, Göztepe'yi konuk ediyor",
+      "link": "https://www.aa.com.tr/tr/spor/galatasaray-goztepeyi-konuk-ediyor/4041174",
+      "description": "Galatasaray, Trendyol Süper Lig'in üçüncü haftasında RAMS Park'ta Göztepe ile karşılaşıyor.",
+      "pubDate": "Sat, 29 Aug 2026 21:49:59 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_82924518108023d92ec5bbbe7af98444.jpg"
+    },
+    {
+      "title": "TÜMOSAN Konyaspor, Kocaelispor'a evinde  2-1 yenildi",
+      "link": "https://www.aa.com.tr/tr/spor/tumosan-konyaspor-kocaelispora-evinde-2-1-yenildi/4041152",
+      "description": "Trendyol Süper Lig'in 3. haftasında Kocaelispor, deplasmanda TÜMOSAN Konyaspor'u 2-1 yendi.",
+      "pubDate": "Sat, 29 Aug 2026 21:12:58 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_c96d5850688d9dfe5aba4138100a2abf.jpg"
+    },
+    {
+      "title": "Fenerbahçe, Faslı futbolcu Sofyan Amrabat ile yollarını ayırdı",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-fasli-futbolcu-sofyan-amrabat-ile-yollarini-ayirdi/4041154",
+      "description": "Fenerbahçe, orta saha oyuncusu Sofyan Amrabat ile yollarını ayırdığını duyurdu.",
+      "pubDate": "Sat, 29 Aug 2026 21:14:44 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_f25957aff5a863e9a3d612b2d09394db.jpg"
+    },
+    {
+      "title": "Erkek Milli Voleybol Takımı, 20. Akdeniz Oyunları'nda bronz madalya maçına çıkacak",
+      "link": "https://www.aa.com.tr/tr/spor/erkek-milli-voleybol-takimi-20-akdeniz-oyunlarinda-bronz-madalya-macina-cikacak-/4041151",
+      "description": "20. Akdeniz Oyunları'nda (Taranto 2026) mücadele eden Erkek Milli Voleybol Takımı, yarı final maçında Fransa'ya 3-2 yenildi. Milli takım, yarın bronz madalya maçına çıkacak.",
+      "pubDate": "Sat, 29 Aug 2026 21:10:29 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_6d6ad6ec38317ab4f2edf9bbe6ff60d0.jpg"
+    },
     {
       "title": "Türkiye, 20. Akdeniz Oyunları'nın dokuzuncu gününde 30'u altın olmak üzere 64 madalyaya ulaştı",
       "link": "https://www.aa.com.tr/tr/spor/turkiye-20-akdeniz-oyunlarinin-dokuzuncu-gununde-30u-altin-olmak-uzere-64-madalyaya-ulasti/4041124",
@@ -57,34 +85,6 @@
       "description": "Milli sporcu İlke Özyüksel Mihrioğlu, Dünya Modern Pentatlon Şampiyonası'nda finale yükseldi.",
       "pubDate": "Sat, 29 Aug 2026 15:06:20 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_b1c5c9a8c08a01a8938dcf27220f58bb.jpg"
-    },
-    {
-      "title": "Galatasaray ve Fenerbahçe'nin UEFA Şampiyonlar Ligi fikstürü belli oldu",
-      "link": "https://www.aa.com.tr/tr/spor/galatasaray-ve-fenerbahcenin-uefa-sampiyonlar-ligi-fiksturu-belli-oldu/4040958",
-      "description": "UEFA Şampiyonlar Ligi'nde mücadele eden Galatasaray ve Fenerbahçe'nin lig aşaması fikstürü açıklandı.",
-      "pubDate": "Sat, 29 Aug 2026 15:05:53 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_b1ca583e5c404fc0d79a86f3ec109fb2.jpg"
-    },
-    {
-      "title": "Trendyol Süper Lig'de 4. haftanın programı güncellendi",
-      "link": "https://www.aa.com.tr/tr/spor/trendyol-super-ligde-4-haftanin-programi-guncellendi/4040962",
-      "description": "Trendyol Süper Lig'de 4. haftanın programı güncellendi.",
-      "pubDate": "Sat, 29 Aug 2026 15:07:03 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_ba3f1ee5b1ea535c0cdb1ed9fa075494.jpg"
-    },
-    {
-      "title": "Galatasaray, Rafael Leao'nun transferi için görüşmelere başlandığını açıkladı",
-      "link": "https://www.aa.com.tr/tr/spor/galatasaray-rafael-leaonun-transferi-icin-gorusmelere-baslandigini-acikladi/4040977",
-      "description": "Galatasaray, Portekizli yıldız futbolcu Rafael Leao'nun transferi için oyuncu ve kulübü Milan ile görüşmelere başlandığını duyurdu.",
-      "pubDate": "Sat, 29 Aug 2026 15:13:26 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_c8e5f736bd28de4c59760606696d0724.jpg"
-    },
-    {
-      "title": "Samsunspor, Fenerbahçe karşısında kusursuz performans göstermek istiyor",
-      "link": "https://www.aa.com.tr/tr/spor/samsunspor-fenerbahce-karsisinda-kusursuz-performans-gostermek-istiyor/4040956",
-      "description": "Trendyol Süper Lig ekiplerinden Samsunspor'un teknik direktörü Thorsten Fink, yarın oynayacakları Fenerbahçe maçında hem ofansif hem de defansif anlamda sahanın her yerinde kusursuz bir performans göstermek istediklerini söyledi.",
-      "pubDate": "Sat, 29 Aug 2026 15:05:16 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_90e48e3de365aa5a591275df02113072.jpg"
     }
   ]
 }
