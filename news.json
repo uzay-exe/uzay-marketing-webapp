@@ -1,13 +1,27 @@
 {
-  "updated": "2026-08-29T19:04:29.350617+00:00",
+  "updated": "2026-08-29T20:04:36.481069+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
     {
-      "title": "Galatasaray, Göztepe'yi konuk ediyor",
+      "title": "Trabzonspor'un UEFA Konferans Ligi'ndeki fikstürü belli oldu",
+      "link": "https://www.aa.com.tr/tr/spor/trabzonsporun-uefa-konferans-ligindeki-fiksturu-belli-oldu/4041186",
+      "description": "Trabzonspor'un UEFA Konferans Ligi'ndeki fikstürü açıklandı. Bordo-mavili takım, ligdeki ilk maçında 15 Ekim Perşembe günü deplasmanda KuPS ile karşılaşacak.",
+      "pubDate": "Sat, 29 Aug 2026 22:19:39 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_bdfdc1ec442b264ba5be091cc4c00cfd.jpg"
+    },
+    {
+      "title": "Beşiktaş'ın UEFA Avrupa Ligi'ndeki fikstürü belli oldu",
+      "link": "https://www.aa.com.tr/tr/spor/besiktasin-uefa-avrupa-ligindeki-fiksturu-belli-oldu/4041182",
+      "description": "Beşiktaş'ın UEFA Avrupa Ligi'ndeki fikstürü açıklandı. Siyah-beyazlı takım, ligdeki ilk hafta mücadelesinde 17 Eylül Perşembe günü evinde Olimpik Marsilya ile karşılaşacak.",
+      "pubDate": "Sat, 29 Aug 2026 22:10:46 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_f78d37ffa38772c0f9731131f16ca5cf.jpg"
+    },
+    {
+      "title": "Galatasaray-Göztepe maçı 1-1  devam ediyor",
       "link": "https://www.aa.com.tr/tr/spor/galatasaray-goztepeyi-konuk-ediyor/4041174",
-      "description": "Galatasaray, Trendyol Süper Lig'in üçüncü haftasında RAMS Park'ta Göztepe ile karşılaşıyor.",
+      "description": "Trendyol Süper Lig'in üçüncü haftasındaki Galatasaray-Göztepe maçının ilk yarısı 1-1 sona erdi.",
       "pubDate": "Sat, 29 Aug 2026 21:49:59 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_82924518108023d92ec5bbbe7af98444.jpg"
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_e8419e887ea0b9d34487908da168950b.jpg"
     },
     {
       "title": "TÜMOSAN Konyaspor, Kocaelispor'a evinde  2-1 yenildi",
@@ -71,20 +85,6 @@
       "description": "Katar'da düzenlenecek 2027 FIBA Dünya Kupası'na katılma mücadelesinde üst üste mağlubiyetler yaşayan Yunanistan Basketbol Milli Takımı'ndaki düşüş devam ediyor.",
       "pubDate": "Sat, 29 Aug 2026 15:56:20 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_2651f221113bc1e5110aa3724d69b047.jpg"
-    },
-    {
-      "title": "Elif Sude Akgül, WT Kadınlar Açık Tekvando Şampiyonası'nda bronz madalya kazandı",
-      "link": "https://www.aa.com.tr/tr/spor/elif-sude-akgul-wt-kadinlar-acik-tekvando-sampiyonasinda-bronz-madalya-kazandi/4041002",
-      "description": "Milli sporcu Elif Sude Akgül, WT Kadınlar Açık Tekvando Şampiyonası'nda bronz madalya elde etti.",
-      "pubDate": "Sat, 29 Aug 2026 15:51:38 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_44ee6be5c1a6188bb7dd3f5646d0c822.jpg"
-    },
-    {
-      "title": "İlke Özyüksel Mihrioğlu, Dünya Modern Pentatlon Şampiyonası'nda finale yükseldi",
-      "link": "https://www.aa.com.tr/tr/spor/ilke-ozyuksel-mihrioglu-dunya-modern-pentatlon-sampiyonasinda-finale-yukseldi/4040959",
-      "description": "Milli sporcu İlke Özyüksel Mihrioğlu, Dünya Modern Pentatlon Şampiyonası'nda finale yükseldi.",
-      "pubDate": "Sat, 29 Aug 2026 15:06:20 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_b1c5c9a8c08a01a8938dcf27220f58bb.jpg"
     }
   ]
 }
