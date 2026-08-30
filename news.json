@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-30T13:04:25.178656+00:00",
+  "updated": "2026-08-30T14:04:22.081972+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "MotoGP'de Aragon Grand Prix'sini Marc Marquez kazandı",
+      "link": "https://www.aa.com.tr/tr/spor/motogpde-aragon-grand-prixsini-marc-marquez-kazandi/4041652",
+      "description": "MotoGP Dünya Şampiyonası'nın 13. etabı Aragon Grand Prix'sini, Ducati Lenovo takımından İspanyol Marc Marquez, birinci sırada bitirdi.",
+      "pubDate": "Sun, 30 Aug 2026 16:11:22 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_d1d2d25b855b838c329e5ab595eea395.jpg"
+    },
+    {
+      "title": "Galatasaray'ın yeni transferi Leao: Tekrar şampiyon olmak için buradayım",
+      "link": "https://www.aa.com.tr/tr/spor/galatasarayin-yeni-transferi-leao-tekrar-sampiyon-olmak-icin-buradayim/4041521",
+      "description": "Galatasaray'ın yeni transferi Rafael Leao, şampiyonluk mutluluğunu sarı-kırmızılı kulüpte de yaşamak istediğini söyledi.",
+      "pubDate": "Sun, 30 Aug 2026 14:14:19 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_cc3e0090499a1c8f9d1d824f9c925255.jpg"
+    },
     {
       "title": "Çorum FK, Bosna Hersekli milli futbolcu Ermin Mahmic'i transfer etti",
       "link": "https://www.aa.com.tr/tr/spor/corum-fk-bosna-hersekli-milli-futbolcu-ermin-mahmici-transfer-etti/4041515",
@@ -71,20 +85,6 @@
       "description": "20. Akdeniz Oyunları'nın (Taranto 2026) dokuzuncu gününde Türkiye, bir altın madalya da masa tenisi karışık çiftlerde Abdullah Talha Yiğenler-Ece Haraç ikilisi ile kazandı.",
       "pubDate": "Sun, 30 Aug 2026 00:05:33 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_074c016cc21b19ece192f241695cbb6d.jpg"
-    },
-    {
-      "title": "Rizespor, deplasmanda Gaziantep FK'yı 2-1 yendi",
-      "link": "https://www.aa.com.tr/tr/spor/rizespor-deplasmanda-gaziantep-fkyi-2-1-yendi/4041195",
-      "description": "Trendyol Süper Lig'in 3. haftasında Çaykur Rizespor, deplasmanda Gaziantep FK'yı 2-1 yendi.",
-      "pubDate": "Sat, 29 Aug 2026 22:38:23 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_f210eac8c3f9c784e2db5428b13d6b6c.jpg"
-    },
-    {
-      "title": "Trabzonspor'un UEFA Konferans Ligi'ndeki fikstürü belli oldu",
-      "link": "https://www.aa.com.tr/tr/spor/trabzonsporun-uefa-konferans-ligindeki-fiksturu-belli-oldu/4041186",
-      "description": "Trabzonspor'un UEFA Konferans Ligi'ndeki fikstürü açıklandı. Bordo-mavili takım, ligdeki ilk maçında 15 Ekim Perşembe günü deplasmanda KuPS ile karşılaşacak.",
-      "pubDate": "Sat, 29 Aug 2026 22:19:39 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_bdfdc1ec442b264ba5be091cc4c00cfd.jpg"
     }
   ]
 }
