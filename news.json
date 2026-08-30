@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-30T18:04:28.214581+00:00",
+  "updated": "2026-08-30T19:04:39.161936+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Eyüpspor, Alanyaspor'u 2-1 yendi",
+      "link": "https://www.aa.com.tr/tr/spor/eyupspor-alanyasporu-2-1-yendi/4041832",
+      "description": "Eyüpspor, Trendyol Süper Lig'in 3. haftasında konuk ettiği Corendon Alanyaspor'u 2-1 yendi.",
+      "pubDate": "Sun, 30 Aug 2026 19:58:23 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_da2dae5b83a3119604457c3e75267670.jpg"
+    },
     {
       "title": "Kadın Milli Voleybol Takımı, İtalya'yı yenerek şampiyonluğa ulaştı",
       "link": "https://www.aa.com.tr/tr/spor/kadin-milli-voleybol-takimi-italyayi-yenerek-sampiyonluga-ulasti/4041843",
@@ -17,11 +24,11 @@
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_e3c70fd0ad249b265dbf5cedea2fd965.jpg"
     },
     {
-      "title": "Beşiktaş, Amir Hadziahmetovic ile yollarını ayırdı",
-      "link": "https://www.aa.com.tr/tr/spor/besiktas-amir-hadziahmetovic-ile-yollarini-ayirdi/4041864",
-      "description": "Beşiktaş'ta Bosna Hersekli futbolcu Amir Hadziahmetovic'in sözleşmesi feshedildi.",
+      "title": "Beşiktaş, Amir Hadziahmetovic ve Al-Musrati ile yollarını ayırdı",
+      "link": "https://www.aa.com.tr/tr/spor/besiktas-amir-hadziahmetovic-ve-al-musrati-ile-yollarini-ayirdi/4041864",
+      "description": "Beşiktaş'ta Bosna Hersekli futbolcu Amir Hadziahmetovic ve Libyalı futbolcu Moatasem Al-Musrati ile ile yollar ayrıldı.",
       "pubDate": "Sun, 30 Aug 2026 20:36:36 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_7abae0930176144f0bf876a9dce9ae63.jpg"
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_b26e937b79e8d90763d2b9fadb19afad.jpg"
     },
     {
       "title": "Premier Lig'de 7 gollü karşılaşmayı Chelsea kazandı",
@@ -78,13 +85,6 @@
       "description": "Süper Lig'de ilk sezonunu geçiren Amed Sportif Faaliyetler, Trabzonspor ile ilk resmi maçına çıkacak.",
       "pubDate": "Sun, 30 Aug 2026 11:08:31 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_0fc4819a3afeb68ae371d5973da24d47.jpg"
-    },
-    {
-      "title": "Kırgızistan \"6. Dünya Göçebe Oyunları\"na hazır",
-      "link": "https://www.aa.com.tr/tr/spor/kirgizistan-6-dunya-gocebe-oyunlarina-hazir/4041370",
-      "description": "Kırgızistan, 6. Dünya Göçebe Oyunları ile 90'dan fazla ülkeden 4 bin sporcuyu ve binlerce ziyaretçiyi ağırlayarak, kadim göçebe kültürünü yeniden dünyayla buluşturuyor.",
-      "pubDate": "Sun, 30 Aug 2026 11:05:19 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_71d35e80640b6479699581502a6ea589.jpg"
     }
   ]
 }
