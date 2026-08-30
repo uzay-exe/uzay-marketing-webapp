@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-30T20:04:33.977312+00:00",
+  "updated": "2026-08-30T21:04:36.784872+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Fenerbahçe, deplasmanda Samsunspor'u mağlup etti",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-deplasmanda-samsunsporu-maglup-etti/4041987",
+      "description": "Fenerbahçe, Trendyol Süper Lig'in 3. haftasında deplasmanda Samsunspor'u 2-0 yendi.",
+      "pubDate": "Sun, 30 Aug 2026 22:48:15 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_6007b2f171e0a99a9294bf1b7ace16ca.jpg"
+    },
+    {
+      "title": "Başakşehir ile Kasımpaşa sahadan beraberlikle ayrıldı",
+      "link": "https://www.aa.com.tr/tr/spor/basaksehir-ile-kasimpasa-sahadan-beraberlikle-ayrildi/4041979",
+      "description": "Trendyol Süper Lig'in 3. haftasındaki Başakşehir-Kasımpaşa müsabakası 1-1 eşitlikle sonuçlandı.",
+      "pubDate": "Sun, 30 Aug 2026 22:43:17 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_64643e1d76138a3c7eae239bb9e6236d.jpg"
+    },
     {
       "title": "Fabio Miretti'nin Beşiktaş'a gelmesinde Vincenzo Italiano'nun etkisi büyük",
       "link": "https://www.aa.com.tr/tr/spor/fabio-mirettinin-besiktasa-gelmesinde-vincenzo-italianonun-etkisi-buyuk/4041961",
@@ -71,20 +85,6 @@
       "description": "Sivas'ta kardeşleriyle evlerinde eğlence amacıyla yemek masasına file gererek oynamaya başladığı masa tenisinde milli takıma seçilen Ebubekir İnce, İşitme Engelliler Avrupa Gençlik Oyunları'ndan 3 madalyayla döndü.",
       "pubDate": "Sun, 30 Aug 2026 11:35:53 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_f3fdd4465c0e7b85fffd5eef04f2fdf5.jpg"
-    },
-    {
-      "title": "A Milli Erkek Basketbol Takımı, 1067. maçına çıkacak",
-      "link": "https://www.aa.com.tr/tr/spor/a-milli-erkek-basketbol-takimi-1067-macina-cikacak/4041379",
-      "description": "2027 Dünya Kupası Elemeleri'nde yarın İzlanda'ya konuk olacak Türkiye, 90 yılı aşkın tarihinde oynadığı 1066 müsabakada 555 galibiyet, 510 mağlubiyet ve bir beraberlik yaşadı.",
-      "pubDate": "Sun, 30 Aug 2026 11:20:06 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_96d618e19e2f1b191bbffdc7912d8927.jpg"
-    },
-    {
-      "title": "Çorum FK, Süper Lig'de yarın Beşiktaş'a konuk olacak",
-      "link": "https://www.aa.com.tr/tr/spor/corum-fk-super-ligde-yarin-besiktasa-konuk-olacak/4041374",
-      "description": "Arca Çorum FK, Trendyol Süper Lig'in 3. haftasında yarın deplasmanda Beşiktaş ile karşılaşacak.",
-      "pubDate": "Sun, 30 Aug 2026 11:15:12 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_d504124db45bdec28563fcc92efeff87.jpg"
     }
   ]
 }
