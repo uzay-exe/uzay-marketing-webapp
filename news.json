@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-30T17:04:32.082963+00:00",
+  "updated": "2026-08-30T18:04:28.214581+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Kadın Milli Voleybol Takımı, İtalya'yı yenerek şampiyonluğa ulaştı",
+      "link": "https://www.aa.com.tr/tr/spor/kadin-milli-voleybol-takimi-italyayi-yenerek-sampiyonluga-ulasti/4041843",
+      "description": "20. Akdeniz Oyunları'nın (Taranto 2026) onuncu gününde Türkiye, voleybolda bir altın, atıcılık ve judoda birer bronz madalya madalya kazandı.",
+      "pubDate": "Sun, 30 Aug 2026 20:18:24 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_fdb84b58910f5d85773a11d6011c56a6.jpg"
+    },
+    {
+      "title": "Arda Güler'in gol attığı maçta Real Madrid, Malaga'yı 4-0 yendi",
+      "link": "https://www.aa.com.tr/tr/spor/arda-gulerin-gol-attigi-macta-real-madrid-malagayi-4-0-yendi/4041851",
+      "description": "İspanya 1. Futbol Ligi'nde (LaLiga) Arda Güler'in gol attığı maçta Real Madrid, Malaga'yı 4-0 yendi.",
+      "pubDate": "Sun, 30 Aug 2026 20:27:56 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_e3c70fd0ad249b265dbf5cedea2fd965.jpg"
+    },
+    {
+      "title": "Beşiktaş, Amir Hadziahmetovic ile yollarını ayırdı",
+      "link": "https://www.aa.com.tr/tr/spor/besiktas-amir-hadziahmetovic-ile-yollarini-ayirdi/4041864",
+      "description": "Beşiktaş'ta Bosna Hersekli futbolcu Amir Hadziahmetovic'in sözleşmesi feshedildi.",
+      "pubDate": "Sun, 30 Aug 2026 20:36:36 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_7abae0930176144f0bf876a9dce9ae63.jpg"
+    },
     {
       "title": "Premier Lig'de 7 gollü karşılaşmayı Chelsea kazandı",
       "link": "https://www.aa.com.tr/tr/spor/premier-ligde-7-gollu-karsilasmayi-chelsea-kazandi/4041785",
@@ -64,27 +85,6 @@
       "description": "Kırgızistan, 6. Dünya Göçebe Oyunları ile 90'dan fazla ülkeden 4 bin sporcuyu ve binlerce ziyaretçiyi ağırlayarak, kadim göçebe kültürünü yeniden dünyayla buluşturuyor.",
       "pubDate": "Sun, 30 Aug 2026 11:05:19 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_71d35e80640b6479699581502a6ea589.jpg"
-    },
-    {
-      "title": "Spor camiasından 30 Ağustos Zafer Bayramı mesajı",
-      "link": "https://www.aa.com.tr/tr/spor/spor-camiasindan-30-agustos-zafer-bayrami-mesaji/4041326",
-      "description": "Spor camiası, 30 Ağustos Zafer Bayramı dolayısıyla kutlama mesajı yayımladı.",
-      "pubDate": "Sun, 30 Aug 2026 10:05:59 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_bdd59e7a8dec46a622cec14fe49864a4.jpg"
-    },
-    {
-      "title": "A Milli Erkek Basketbol Takımı, Dünya Kupası Elemeleri'nde yarın İzlanda'ya konuk olacak",
-      "link": "https://www.aa.com.tr/tr/spor/a-milli-erkek-basketbol-takimi-dunya-kupasi-elemelerinde-yarin-izlandaya-konuk-olacak/4041295",
-      "description": "A Milli Erkek Basketbol Takımı, FIBA 2027 Dünya Kupası Avrupa Elemeleri 2. Tur J Grubu'ndaki ikinci maçında yarın İzlanda'ya konuk olacak.",
-      "pubDate": "Sun, 30 Aug 2026 09:26:07 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_007173303541c6b8a336f2ff9b70dd5e.jpg"
-    },
-    {
-      "title": "Beşiktaş, Süper Lig'de yarın Çorum FK'yi konuk edecek",
-      "link": "https://www.aa.com.tr/tr/spor/besiktas-super-ligde-yarin-corum-fkyi-konuk-edecek/4041292",
-      "description": "Beşiktaş, Trendyol Süper Lig'in 3. haftasında yarın Arca Çorum FK'yi ağırlayacak.",
-      "pubDate": "Sun, 30 Aug 2026 09:18:53 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_9f87371687cfbe4059233160929d664c.jpg"
     }
   ]
 }
