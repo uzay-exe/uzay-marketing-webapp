@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-30T06:05:06.846105+00:00",
+  "updated": "2026-08-30T07:04:40.065946+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "A Milli Erkek Basketbol Takımı, Dünya Kupası Elemeleri'nde yarın İzlanda'ya konuk olacak",
+      "link": "https://www.aa.com.tr/tr/spor/a-milli-erkek-basketbol-takimi-dunya-kupasi-elemelerinde-yarin-izlandaya-konuk-olacak/4041295",
+      "description": "A Milli Erkek Basketbol Takımı, FIBA 2027 Dünya Kupası Avrupa Elemeleri 2. Tur J Grubu'ndaki ikinci maçında yarın İzlanda'ya konuk olacak.",
+      "pubDate": "Sun, 30 Aug 2026 09:26:07 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_007173303541c6b8a336f2ff9b70dd5e.jpg"
+    },
+    {
+      "title": "Beşiktaş, Süper Lig'de yarın Çorum FK'yi konuk edecek",
+      "link": "https://www.aa.com.tr/tr/spor/besiktas-super-ligde-yarin-corum-fkyi-konuk-edecek/4041292",
+      "description": "Beşiktaş, Trendyol Süper Lig'in 3. haftasında yarın Arca Çorum FK'yi ağırlayacak.",
+      "pubDate": "Sun, 30 Aug 2026 09:18:53 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_9f87371687cfbe4059233160929d664c.jpg"
+    },
     {
       "title": "20. Akdeniz Oyunları'nda masa tenisi karışık çiftlerde Abdullah Talha Yiğenler-Ece Haraç ikilisi altın madalya kazandı",
       "link": "https://www.aa.com.tr/tr/spor/20-akdeniz-oyunlarinda-masa-tenisi-karisik-ciftlerde-abdullah-talha-yigenler-ece-harac-ikilisi-altin-madalya-kazandi/4041219",
@@ -71,20 +85,6 @@
       "description": "Dünya serbest dalış rekortmeni ve milli sporcu Şahika Ercümen, 30 Ağustos Zafer Bayramı'nın 104. yıl dönümü dolayısıyla Hatay'ın Yayladağı ilçesindeki Karamağara Koyu'nda \"Zafer Dalışı\" gerçekleştirdi.",
       "pubDate": "Sat, 29 Aug 2026 18:51:25 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_6a3d4cd573478a10678e1501497fe7d7.jpg"
-    },
-    {
-      "title": "Rafael Leao, Galatasaray için İstanbul'da",
-      "link": "https://www.aa.com.tr/tr/spor/rafael-leao-galatasaray-icin-istanbulda/4041061",
-      "description": "Galatasaray Kulübünün transfer görüşmelerine başladığı Portekizli futbolcu Rafael Leao, İstanbul'a geldi.",
-      "pubDate": "Sat, 29 Aug 2026 17:01:28 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_cb1416a24c326223e5b1d96313eceadd.jpg"
-    },
-    {
-      "title": "Kadın Milli Voleybol Takımı, Taranto 2026'da finale yükseldi",
-      "link": "https://www.aa.com.tr/tr/spor/kadin-milli-voleybol-takimi-taranto-2026da-finale-yukseldi/4040961",
-      "description": "20. Akdeniz Oyunları'nda (Taranto 2026) mücadele eden Kadın Milli Voleybol Takımı, Sırbistan'ı 3-1 yenerek finale yükseldi.",
-      "pubDate": "Sat, 29 Aug 2026 15:06:58 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/29/thumbs_b_c_539db1343d982912404cbf1032b9ce50.jpg"
     }
   ]
 }
