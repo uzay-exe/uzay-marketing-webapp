@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-31T15:04:32.826348+00:00",
+  "updated": "2026-08-31T16:04:38.276664+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Messi, Arjantin milli takımına veda etti",
+      "link": "https://www.aa.com.tr/tr/spor/messi-arjantin-milli-takimina-veda-etti/4042931",
+      "description": "Arjantinli yıldız futbolcu, milli takım kariyerine son verdiğini duyurdu.",
+      "pubDate": "Mon, 31 Aug 2026 18:52:26 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/31/thumbs_b_c_5e0dc1b0318d4613f09dcc29802e3779.jpg"
+    },
+    {
+      "title": "Juventus'tan Kenan Yıldız'ın sağlık durumuna ilişkin açıklama:",
+      "link": "https://www.aa.com.tr/tr/spor/juventustan-kenan-yildizin-saglik-durumuna-iliskin-aciklama/4042905",
+      "description": "İtalyan ekibi Juventus'ta forma giyen 21 yaşındaki milli futbolcu Kenan Yıldız, ameliyat oldu.",
+      "pubDate": "Mon, 31 Aug 2026 18:14:39 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/31/thumbs_b_c_0333eea58a9f82e98eab94e8140d8a19.jpg"
+    },
     {
       "title": "Liverpool, Fransız futbolcu Barcola'yı kadrosuna kattı",
       "link": "https://www.aa.com.tr/tr/spor/liverpool-fransiz-futbolcu-barcolayi-kadrosuna-katti/4042793",
@@ -71,20 +85,6 @@
       "description": "Bu yıl katıldığı Türkiye ve dünya şampiyonalarında toplam 6 madalya kazanan milli sporcu Yusuf Kıvanç Erkan, gelecek yıl mücadele edeceği büyükler kategorisinde de rekor kırıp kürsüye çıkmayı hedefliyor.",
       "pubDate": "Sun, 30 Aug 2026 11:34:27 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_2b060628764ff3ff9050adb6cf7bae50.jpg"
-    },
-    {
-      "title": "Fenerbahçe, deplasmanda Samsunspor'u mağlup etti",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-deplasmanda-samsunsporu-maglup-etti/4041987",
-      "description": "Fenerbahçe, Trendyol Süper Lig'in 3. haftasında deplasmanda Samsunspor'u 2-0 yendi.",
-      "pubDate": "Sun, 30 Aug 2026 22:48:15 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_6007b2f171e0a99a9294bf1b7ace16ca.jpg"
-    },
-    {
-      "title": "Başakşehir ile Kasımpaşa sahadan beraberlikle ayrıldı",
-      "link": "https://www.aa.com.tr/tr/spor/basaksehir-ile-kasimpasa-sahadan-beraberlikle-ayrildi/4041979",
-      "description": "Trendyol Süper Lig'in 3. haftasındaki Başakşehir-Kasımpaşa müsabakası 1-1 eşitlikle sonuçlandı.",
-      "pubDate": "Sun, 30 Aug 2026 22:43:17 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_64643e1d76138a3c7eae239bb9e6236d.jpg"
     }
   ]
 }
