@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-31T10:04:28.582493+00:00",
+  "updated": "2026-08-31T11:04:33.511472+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Trabzonspor, reklam sponsorluğu için anlaşma sağladı",
+      "link": "https://www.aa.com.tr/tr/spor/trabzonspor-reklam-sponsorlugu-icin-anlasma-sagladi/4042542",
+      "description": "Trabzonspor ve Albayrak Tasarruf Finansman Anonim Şirketi arasında reklam sponsorluğu anlaşması yapıldı.",
+      "pubDate": "Mon, 31 Aug 2026 13:59:41 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/31/thumbs_b_c_71c914398f2fbab1b8e2c99a886fe977.jpg"
+    },
     {
       "title": "Avustralya Basketbol Ligi, yeni kurallar için FIBA'nın onayını bekliyor",
       "link": "https://www.aa.com.tr/tr/spor/avustralya-basketbol-ligi-yeni-kurallar-icin-fibanin-onayini-bekliyor/4042419",
@@ -78,13 +85,6 @@
       "description": "İspanya 1. Futbol Ligi'nde (LaLiga) Arda Güler'in gol attığı maçta Real Madrid, Malaga'yı 4-0 yendi.",
       "pubDate": "Sun, 30 Aug 2026 20:27:56 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_e3c70fd0ad249b265dbf5cedea2fd965.jpg"
-    },
-    {
-      "title": "Beşiktaş, Amir Hadziahmetovic ve Al-Musrati ile yollarını ayırdı",
-      "link": "https://www.aa.com.tr/tr/spor/besiktas-amir-hadziahmetovic-ve-al-musrati-ile-yollarini-ayirdi/4041864",
-      "description": "Beşiktaş'ta Bosna Hersekli futbolcu Amir Hadziahmetovic ve Libyalı futbolcu Moatasem Al-Musrati ile ile yollar ayrıldı.",
-      "pubDate": "Sun, 30 Aug 2026 20:36:36 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_b26e937b79e8d90763d2b9fadb19afad.jpg"
     }
   ]
 }
