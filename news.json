@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-31T13:04:39.410450+00:00",
+  "updated": "2026-08-31T14:04:38.450976+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Liverpool, Fransız futbolcu Barcola'yı kadrosuna kattı",
+      "link": "https://www.aa.com.tr/tr/spor/liverpool-fransiz-futbolcu-barcolayi-kadrosuna-katti/4042793",
+      "description": "İngiltere Premier Lig takımlarından Liverpool, Fransız kanat forvet Bradley Barcola'yı transfer etti.",
+      "pubDate": "Mon, 31 Aug 2026 16:27:04 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/31/thumbs_b_c_fc113c64dfacd571de7bed3331536948.jpg"
+    },
+    {
+      "title": "Manchester City, Brezilyalı kanat oyuncusu Allan Elias'ı transfer etti",
+      "link": "https://www.aa.com.tr/tr/spor/manchester-city-brezilyali-kanat-oyuncusu-allan-eliasi-transfer-etti/4042768",
+      "description": "İngiltere Premier Lig ekiplerinden Manchester City, Brezilyalı kanat oyuncusu Allan Elias'ı renklerine bağladı.",
+      "pubDate": "Mon, 31 Aug 2026 16:03:30 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/31/thumbs_b_c_2bdcb4715edc2ed99cfac3224d9945f9.jpg"
+    },
     {
       "title": "TFF Tahkim Kurulu, Serdal Adalı'nın cezasını kaldırdı",
       "link": "https://www.aa.com.tr/tr/spor/tff-tahkim-kurulu-serdal-adalinin-cezasini-kaldirdi/4042748",
@@ -71,20 +85,6 @@
       "description": "Trendyol Süper Lig'in 3. haftasındaki Başakşehir-Kasımpaşa müsabakası 1-1 eşitlikle sonuçlandı.",
       "pubDate": "Sun, 30 Aug 2026 22:43:17 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_64643e1d76138a3c7eae239bb9e6236d.jpg"
-    },
-    {
-      "title": "Fabio Miretti'nin Beşiktaş'a gelmesinde Vincenzo Italiano'nun etkisi büyük",
-      "link": "https://www.aa.com.tr/tr/spor/fabio-mirettinin-besiktasa-gelmesinde-vincenzo-italianonun-etkisi-buyuk/4041961",
-      "description": "Beşiktaş'ın Juventus'tan kiralık olarak kadrosuna kattığı İtalyan futbolcu Fabio Miretti, siyah-beyazlılara gelmesinde teknik direktör Vincenzo Italiano'nun etkisinin büyük olduğunu söyledi.",
-      "pubDate": "Sun, 30 Aug 2026 22:09:58 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_d40434751a652c28090ac46cc191c248.jpg"
-    },
-    {
-      "title": "Eyüpspor, Alanyaspor'u 2-1 yendi",
-      "link": "https://www.aa.com.tr/tr/spor/eyupspor-alanyasporu-2-1-yendi/4041832",
-      "description": "Eyüpspor, Trendyol Süper Lig'in 3. haftasında konuk ettiği Corendon Alanyaspor'u 2-1 yendi.",
-      "pubDate": "Sun, 30 Aug 2026 19:58:23 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_da2dae5b83a3119604457c3e75267670.jpg"
     }
   ]
 }
