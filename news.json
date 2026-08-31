@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-31T19:04:26.846933+00:00",
+  "updated": "2026-08-31T20:04:29.662145+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Fenerbahçe'den Diego Carlos'a Parma ile transfer görüşmesi izni",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahceden-diego-carlosa-parma-ile-transfer-gorusmesi-izni/4043064",
+      "description": "Fenerbahçe Kulübü, Brezilyalı futbolcusu Diego Carlos'a İtalya ekibi Parma ile transfer görüşmeleri gerçekleştirmesi için izin verdiğini duyurdu.",
+      "pubDate": "Mon, 31 Aug 2026 22:31:11 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/31/thumbs_b_c_0fb8d5384d59c663c9002e1d6ddde38f.jpg"
+    },
     {
       "title": "Messi, Arjantin milli takımına veda etti",
       "link": "https://www.aa.com.tr/tr/spor/messi-arjantin-milli-takimina-veda-etti/4042931",
@@ -78,13 +85,6 @@
       "description": "Sezonun son grand slam tenis turnuvası ABD Açık'ta erkeklerde 4 numaralı seribaşı Novak Djokovic ve kadınlarda Venus Williams, ilk turda elendi.",
       "pubDate": "Mon, 31 Aug 2026 10:16:48 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/31/thumbs_b_c_6c797d861327e13ef438083ff138d7a7.jpg"
-    },
-    {
-      "title": "Milli serbest dalışçı Yusuf Kıvanç Erkan'ın hedefi büyüklerde zirve",
-      "link": "https://www.aa.com.tr/tr/spor/milli-serbest-dalisci-yusuf-kivanc-erkanin-hedefi-buyuklerde-zirve/4041394",
-      "description": "Bu yıl katıldığı Türkiye ve dünya şampiyonalarında toplam 6 madalya kazanan milli sporcu Yusuf Kıvanç Erkan, gelecek yıl mücadele edeceği büyükler kategorisinde de rekor kırıp kürsüye çıkmayı hedefliyor.",
-      "pubDate": "Sun, 30 Aug 2026 11:34:27 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/30/thumbs_b_c_2b060628764ff3ff9050adb6cf7bae50.jpg"
     }
   ]
 }
