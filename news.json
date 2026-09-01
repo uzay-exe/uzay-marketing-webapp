@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-01T22:07:38.567865+00:00",
+  "updated": "2026-09-01T23:07:07.772084+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Türkiye, 20. Akdeniz Oyunları'nın 12. gününde 10 madalya kazandı",
+      "link": "https://www.aa.com.tr/tr/spor/turkiye-20-akdeniz-oyunlarinin-12-gununde-10-madalya-kazandi/4044613",
+      "description": "20. Akdeniz Oyunları'nın (Taranto 2026) 12. gününde Türkiye, 1 altın, 7 gümüş ve 2 bronz olmak üzere toplam 10 madalya kazandı.",
+      "pubDate": "Wed, 02 Sep 2026 01:08:23 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/09/02/thumbs_b_c_31df26958abb21889ddd119f8e61f5b8.jpg"
+    },
     {
       "title": "Milli futbolcu Deniz Gül'ün \"çocukluk hayali\" Galatasaray",
       "link": "https://www.aa.com.tr/tr/spor/milli-futbolcu-deniz-gulun-cocukluk-hayali-galatasaray/4044557",
@@ -78,13 +85,6 @@
       "description": "Katar'da düzenlenecek FIBA 2027 Dünya Kupası'na başkent Doha ve çevresinde bulunan 4 farklı salon ev sahipliği yapacak.",
       "pubDate": "Tue, 01 Sep 2026 14:20:04 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/09/01/thumbs_b_c_1b014a1de3cbe2180ec626b1ac2f63ec.jpg"
-    },
-    {
-      "title": "Milli futbolcu Deniz Gül, Galatasaray için İstanbul'a geldi",
-      "link": "https://www.aa.com.tr/tr/spor/milli-futbolcu-deniz-gul-galatasaray-icin-istanbula-geldi/4043761",
-      "description": "Galatasaray'ın transfer görüşmelerinde bulunduğu Portekiz ekibi Porto'nun santrforu milli futbolcu Deniz Gül, İstanbul'a geldi.",
-      "pubDate": "Tue, 01 Sep 2026 13:48:54 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/09/01/thumbs_b_c_b6d0f9938a8c08e0d5648a7e4f8a4f76.jpg"
     }
   ]
 }
