@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-01T09:08:21.377275+00:00",
+  "updated": "2026-09-01T10:08:30.664267+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Fenerbahçe ile Cabir Holding, sponsorluk anlaşması imzaladı",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-ile-cabir-holding-sponsorluk-anlasmasi-imzaladi/4043546",
+      "description": "Fenerbahçe Kulübü ile Cabir Holding arasında sponsorluk anlaşması yapıldı.",
+      "pubDate": "Tue, 01 Sep 2026 12:14:49 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/09/01/thumbs_b_c_5eedcb5f13c1b26ac43f26e29166329b.jpg"
+    },
+    {
+      "title": "Milli yüzücü Kırhan Yılmaz, başarılarını Dakar 2026'ya taşıyacak",
+      "link": "https://www.aa.com.tr/tr/spor/milli-yuzucu-kirhan-yilmaz-basarilarini-dakar-2026ya-tasiyacak/4043449",
+      "description": "Milli sporcu Kırhan Yılmaz, yüzmede elde ettiği başarıları uluslararası arenaya taşımayı hedefliyor.",
+      "pubDate": "Tue, 01 Sep 2026 11:11:30 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/09/01/thumbs_b_c_e0bd39e228a43155f3540dd1f36f0da3.jpg"
+    },
     {
       "title": "Yağlı güreşin yıldızları Cumhurbaşkanlığı Kupası'nda buluşacak",
       "link": "https://www.aa.com.tr/tr/spor/yagli-guresin-yildizlari-cumhurbaskanligi-kupasinda-bulusacak/4043443",
@@ -71,20 +85,6 @@
       "description": "Fenerbahçe Kulübü, Brezilyalı futbolcusu Diego Carlos'a İtalya ekibi Parma ile transfer görüşmeleri gerçekleştirmesi için izin verdiğini duyurdu.",
       "pubDate": "Mon, 31 Aug 2026 22:31:11 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/31/thumbs_b_c_0fb8d5384d59c663c9002e1d6ddde38f.jpg"
-    },
-    {
-      "title": "Messi, Arjantin milli takımına veda etti",
-      "link": "https://www.aa.com.tr/tr/spor/messi-arjantin-milli-takimina-veda-etti/4042931",
-      "description": "Arjantinli yıldız futbolcu, milli takım kariyerine son verdiğini duyurdu.",
-      "pubDate": "Mon, 31 Aug 2026 18:52:26 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/31/thumbs_b_c_5e0dc1b0318d4613f09dcc29802e3779.jpg"
-    },
-    {
-      "title": "Juventus'tan Kenan Yıldız'ın sağlık durumuna ilişkin açıklama:",
-      "link": "https://www.aa.com.tr/tr/spor/juventustan-kenan-yildizin-saglik-durumuna-iliskin-aciklama/4042905",
-      "description": "İtalyan ekibi Juventus'ta forma giyen 21 yaşındaki milli futbolcu Kenan Yıldız, ameliyat oldu.",
-      "pubDate": "Mon, 31 Aug 2026 18:14:39 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/31/thumbs_b_c_0333eea58a9f82e98eab94e8140d8a19.jpg"
     }
   ]
 }
