@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-01T13:09:01.766313+00:00",
+  "updated": "2026-09-01T14:08:53.514503+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Türkiye Satranç Federasyonu başkanlığı için iki aday yarışacak",
+      "link": "https://www.aa.com.tr/tr/spor/turkiye-satranc-federasyonu-baskanligi-icin-iki-aday-yarisacak/4044012",
+      "description": "Türkiye Satranç Federasyonu (TSF), Enes Efendioğlu ve Bülent Mert Dikeç'in olağanüstü seçimli genel kurulda başkanlığa aday olduklarını duyurdu.",
+      "pubDate": "Tue, 01 Sep 2026 16:41:37 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/09/01/thumbs_b_c_83fd9691960a2bb6de68c813bd4e8215.jpg"
+    },
+    {
+      "title": "Fenerbahçe'nin Hollandalı futbolcusu Oosterwolde, ameliyat edildi",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahcenin-hollandali-futbolcusu-oosterwolde-ameliyat-edildi/4044002",
+      "description": "Fenerbahçe Kulübü, sakatlığı bulunan Hollandalı savunma oyuncusu Jayden Oosterwolde'nin ameliyat edildiğini duyurdu.",
+      "pubDate": "Tue, 01 Sep 2026 16:29:18 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/09/01/thumbs_b_c_bf66d4bee5406feff98e1f89af26725f.jpg"
+    },
+    {
+      "title": "Göztepe'de Amin Cherni, Nantes'a kiralandı",
+      "link": "https://www.aa.com.tr/tr/spor/goztepede-amin-cherni-nantesa-kiralandi/4043964",
+      "description": "Trendyol Süper Lig ekiplerinden Göztepe'de Amin Cherni, Fransa Ligue 2 ekiplerinden Nantes'a kiralandı.",
+      "pubDate": "Tue, 01 Sep 2026 16:08:04 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/09/01/thumbs_b_c_4d3c2847a8fecb6ce9cfeaed4435012b.jpg"
+    },
     {
       "title": "Katar'da düzenlenecek FIBA 2027 Dünya Kupası'na 4 salon ev sahipliği yapacak",
       "link": "https://www.aa.com.tr/tr/spor/katarda-duzenlenecek-fiba-2027-dunya-kupasina-4-salon-ev-sahipligi-yapacak/4043807",
@@ -64,27 +85,6 @@
       "description": "Trendyol Süper Lig'in 3. haftasında Amed Sportif Faaliyetler'e 2-1 mağlup olan Trabzonspor, bu sezona arzu ettiği başlangıcı yapamadı.",
       "pubDate": "Tue, 01 Sep 2026 11:07:11 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/09/01/thumbs_b_c_1273ad6b666afcc6b455d00a261da8b9.jpg"
-    },
-    {
-      "title": "A Milli Erkek Basketbol Takımı, Dünya Kupası'na katılma hakkı elde etti",
-      "link": "https://www.aa.com.tr/tr/spor/a-milli-erkek-basketbol-takimi-dunya-kupasina-katilma-hakki-elde-etti/4043143",
-      "description": "A Milli Erkek Basketbol Takımı, FIBA 2027 Dünya Kupası Avrupa Elemeleri 2. Tur J Grubu'ndaki ikinci maçında İzlanda'yı deplasmanda 110-73 mağlup etti.",
-      "pubDate": "Tue, 01 Sep 2026 00:29:01 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/09/01/thumbs_b_c_a324ea5f726d99dc3293f6e34ce58391.jpg"
-    },
-    {
-      "title": "Trendyol Süper Lig'de üçüncü hafta karşılaşmaları oynandı",
-      "link": "https://www.aa.com.tr/tr/spor/trendyol-super-ligde-ucuncu-hafta-karsilasmalari-oynandi/4043126",
-      "description": "Trendyol Süper Lig'in 3. haftası, iki maçla tamamlandı.",
-      "pubDate": "Mon, 31 Aug 2026 23:55:38 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/31/thumbs_b_c_33571427d55942a2ba1df319e3b8a6ce.jpg"
-    },
-    {
-      "title": "Amed Sportif Faaliyetler, sahasında Trabzonspor'u mağlup etti",
-      "link": "https://www.aa.com.tr/tr/spor/amed-sportif-faaliyetler-sahasinda-trabzonsporu-maglup-etti/4043071",
-      "description": "Trendyol Süper Lig'in 3. haftasında Amed Sportif Faaliyetler, sahasında Trabzonspor'u 2-1 mağlup etti.",
-      "pubDate": "Mon, 31 Aug 2026 22:51:42 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/31/thumbs_b_c_586638d5318af9789378cdd99952d0fb.jpg"
     }
   ]
 }
