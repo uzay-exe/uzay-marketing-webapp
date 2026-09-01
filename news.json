@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-01T10:08:30.664267+00:00",
+  "updated": "2026-09-01T11:07:52.187819+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Galatasaray, Deniz Gül ile görüşmelere başlandığını duyurdu",
+      "link": "https://www.aa.com.tr/tr/spor/galatasaray-deniz-gul-ile-gorusmelere-baslandigini-duyurdu/4043761",
+      "description": "Galatasaray Kulübü, milli oyuncu Deniz Gül ile görüşmelere başlandığını açıkladı.",
+      "pubDate": "Tue, 01 Sep 2026 13:48:54 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/09/01/thumbs_b_c_b94f6773d4b113b076cc015af931bd03.jpg"
+    },
     {
       "title": "Fenerbahçe ile Cabir Holding, sponsorluk anlaşması imzaladı",
       "link": "https://www.aa.com.tr/tr/spor/fenerbahce-ile-cabir-holding-sponsorluk-anlasmasi-imzaladi/4043546",
@@ -78,13 +85,6 @@
       "description": "Beşiktaş, Trendyol Süper Lig'in 3. haftasında konuk ettiği Arca Çorum FK'yi 6-2 yendi.",
       "pubDate": "Mon, 31 Aug 2026 22:42:23 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/31/thumbs_b_c_7f2b9c0e0a8798492070fb96b4e5a0e6.jpg"
-    },
-    {
-      "title": "Fenerbahçe'den Diego Carlos'a Parma ile transfer görüşmesi izni",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahceden-diego-carlosa-parma-ile-transfer-gorusmesi-izni/4043064",
-      "description": "Fenerbahçe Kulübü, Brezilyalı futbolcusu Diego Carlos'a İtalya ekibi Parma ile transfer görüşmeleri gerçekleştirmesi için izin verdiğini duyurdu.",
-      "pubDate": "Mon, 31 Aug 2026 22:31:11 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/31/thumbs_b_c_0fb8d5384d59c663c9002e1d6ddde38f.jpg"
     }
   ]
 }
