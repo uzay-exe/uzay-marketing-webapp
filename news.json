@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-01T11:07:52.187819+00:00",
+  "updated": "2026-09-01T12:11:23.342541+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Katar'da düzenlenecek FIBA 2027 Dünya Kupası'na 4 salon ev sahipliği yapacak",
+      "link": "https://www.aa.com.tr/tr/spor/katarda-duzenlenecek-fiba-2027-dunya-kupasina-4-salon-ev-sahipligi-yapacak/4043807",
+      "description": "Katar'da düzenlenecek FIBA 2027 Dünya Kupası'na başkent Doha ve çevresinde bulunan 4 farklı salon ev sahipliği yapacak.",
+      "pubDate": "Tue, 01 Sep 2026 14:20:04 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/09/01/thumbs_b_c_1b014a1de3cbe2180ec626b1ac2f63ec.jpg"
+    },
     {
       "title": "Galatasaray, Deniz Gül ile görüşmelere başlandığını duyurdu",
       "link": "https://www.aa.com.tr/tr/spor/galatasaray-deniz-gul-ile-gorusmelere-baslandigini-duyurdu/4043761",
@@ -78,13 +85,6 @@
       "description": "Trendyol Süper Lig'in 3. haftasında Amed Sportif Faaliyetler, sahasında Trabzonspor'u 2-1 mağlup etti.",
       "pubDate": "Mon, 31 Aug 2026 22:51:42 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/31/thumbs_b_c_586638d5318af9789378cdd99952d0fb.jpg"
-    },
-    {
-      "title": "Vlahovic'in yıldızlaştığı maçta Beşiktaş farklı kazandı",
-      "link": "https://www.aa.com.tr/tr/spor/vlahovicin-yildizlastigi-macta-besiktas-farkli-kazandi-/4043070",
-      "description": "Beşiktaş, Trendyol Süper Lig'in 3. haftasında konuk ettiği Arca Çorum FK'yi 6-2 yendi.",
-      "pubDate": "Mon, 31 Aug 2026 22:42:23 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/08/31/thumbs_b_c_7f2b9c0e0a8798492070fb96b4e5a0e6.jpg"
     }
   ]
 }
