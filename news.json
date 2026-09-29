@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-28T18:24:13.123712+00:00",
+  "updated": "2026-09-29T04:03:39.944604+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "UEFA Uluslar Ligi'nin ikinci haftasına 8 maçla devam edildi",
+      "link": "https://www.aa.com.tr/tr/spor/uefa-uluslar-liginin-ikinci-haftasina-8-macla-devam-edildi/4072053",
+      "description": "Organizasyonunun ikinci haftasında A, B ve C liglerinde karşılaşmalar oynandı.",
+      "pubDate": "Mon, 28 Sep 2026 23:52:39 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/09/28/thumbs_b_c_4846a6066f0fc603bd6fb137fa40cee9.jpg"
+    },
+    {
+      "title": "A Milli Futbol Takımı, İtalya'ya 4-1 yenildi",
+      "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-italyaya-4-1-yenildi/4072045",
+      "description": "A Milli Futbol Takımı, UEFA Uluslar A Ligi maçında İtalya'ya 4-1 yenildi.",
+      "pubDate": "Mon, 28 Sep 2026 23:38:16 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/09/28/thumbs_b_c_c44cd716054dfce15e43fb31d1153cbe.jpg"
+    },
     {
       "title": "Yeşil Burun Adaları'nın kalecisi Vozinha, ünlü olmaktan şikayetçi",
       "link": "https://www.aa.com.tr/tr/spor/yesil-burun-adalarinin-kalecisi-vozinha-unlu-olmaktan-sikayetci/4071800",
@@ -71,20 +85,6 @@
       "description": "Basketbol Avrupa Ligi'nde (EuroLeague) çift maç haftası heyecanı yarın başlayacak.",
       "pubDate": "Mon, 28 Sep 2026 10:59:14 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/09/28/thumbs_b_c_6ed8a841d233f13eb7c2f42f7194b25e.jpg"
-    },
-    {
-      "title": "Fenerbahçe Tarfin, Basketbol Avrupa Ligi'nde yarın Bayern Münih'i konuk edecek",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-basketbol-avrupa-liginde-yarin-bayern-munihi-konuk-edecek/4071250",
-      "description": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Avrupa Ligi'nin (EuroLeague) 2. haftasında yarın Alman ekibi Bayern Münih'i ağırlayacak.",
-      "pubDate": "Mon, 28 Sep 2026 10:46:56 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/09/28/thumbs_b_c_115f4fce62229b5f030db520fcde8a2d.jpg"
-    },
-    {
-      "title": "Anadolu Efes, Avrupa Ligi'nde yarın Real Madrid'i ağırlayacak",
-      "link": "https://www.aa.com.tr/tr/spor/anadolu-efes-avrupa-liginde-yarin-real-madridi-agirlayacak/4071229",
-      "description": "Anadolu Efes Basketbol Takımı, Avrupa Ligi'nin 2. haftasında yarın İspanyol ekibi Real Madrid'i konuk edecek.",
-      "pubDate": "Mon, 28 Sep 2026 10:29:24 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/09/28/thumbs_b_c_85d3095486cf238b07168fcea2179d47.jpg"
     }
   ]
 }
