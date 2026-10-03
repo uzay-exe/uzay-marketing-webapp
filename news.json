@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-02T20:18:44.070831+00:00",
+  "updated": "2026-10-03T05:59:39.698059+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Edin Dzeko, Bosna Hersek Milli Takımı'na veda etti",
+      "link": "https://www.aa.com.tr/tr/spor/edin-dzeko-bosna-hersek-milli-takimina-veda-etti/4076638",
+      "description": "Bosna Hersek'in \"yaşayan efsanesi\" olarak bilinen ve Boşnaklar tarafından \"Elmas\" olarak isimlendirilen Edin Dzeko, milli takımla son kez sahaya çıktı.",
+      "pubDate": "Sat, 03 Oct 2026 00:46:07 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/03/thumbs_b_c_4aa67c669a948b86a9681c39892ce107.jpg"
+    },
+    {
+      "title": "UEFA Uluslar Ligi'nin 3. haftası 10 maçla devam etti",
+      "link": "https://www.aa.com.tr/tr/spor/uefa-uluslar-liginin-3-haftasi-10-macla-devam-etti/4076615",
+      "description": "UEFA Uluslar Ligi'nin üçüncü haftası, 10 maçla devam etti.",
+      "pubDate": "Fri, 02 Oct 2026 23:57:30 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/02/thumbs_b_c_245df08ea91d36492346add0641e2e06.jpg"
+    },
+    {
+      "title": "Türkiye üçüncü maçında da puanla tanışamadı",
+      "link": "https://www.aa.com.tr/tr/spor/turkiye-ucuncu-macinda-da-puanla-tanisamadi/4076574",
+      "description": "UEFA Uluslar A Ligi 1. Grup maçında deplasmanda Belçika'ya 3-0 mağlup olan Türkiye, üçüncü maçında da puanla tanışamadı.",
+      "pubDate": "Fri, 02 Oct 2026 22:40:36 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/02/thumbs_b_c_26bf72d29c18f1d3fa346fce3c94df38.jpg"
+    },
     {
       "title": "Fenerbahçe Tarfin, Dubai Basketbol'u 76-66 yendi",
       "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-dubai-basketbolu-76-66-yendi/4076586",
@@ -64,27 +85,6 @@
       "description": "İngiltere Premier Lig ekiplerinden Manchester City, finansal kuralları ihlal etme gerekçesiyle suçlu bulunduğu bağımsız kurulun kararına itiraz etti.",
       "pubDate": "Fri, 02 Oct 2026 15:52:20 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/02/thumbs_b_c_541d69c48064b0ee6f3707e78b09d463.jpg"
-    },
-    {
-      "title": "TFF, milli takım kafilesinin sorun yaşamadan Liege Havalimanı'ndan çıktığını açıkladı",
-      "link": "https://www.aa.com.tr/tr/spor/tff-milli-takim-kafilesinin-sorun-yasamadan-liege-havalimanindan-ciktigini-acikladi/4076042",
-      "description": "Türkiye Futbol Federasyonu (TFF), UEFA Uluslar A Ligi'nde Belçika ile karşılaşacak A Milli Futbol Takımı ile federasyon kafilesinin dün sorun yaşamadan Liege Havalimanı'ndan çıkış yaptığını bildirdi.",
-      "pubDate": "Fri, 02 Oct 2026 14:03:43 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/02/thumbs_b_c_447086a3633160652fb7748b588d22bf.jpg"
-    },
-    {
-      "title": "Fenerbahçe Kulübü Yönetim Kurulu Üyesi Özbağı'dan stat projesine ilişkin açıklama",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-kulubu-yonetim-kurulu-uyesi-ozbagidan-stat-projesine-iliskin-aciklama/4075950",
-      "description": "Fenerbahçe Kulübü Yönetim Kurulu Üyesi Nihat Özbağı, Chobani Stadı'nın kapasite artış projesinde yaklaşık 1 milyon dolarlık mimari, statik ve betonarme proje bedellerini karşılayacağını söyledi.",
-      "pubDate": "Fri, 02 Oct 2026 12:51:29 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/02/thumbs_b_c_a5b6b8c625a18b1e1db9208e7da715bd.jpg"
-    },
-    {
-      "title": "Geleneksel Türk okçuluğunda Federasyon Kupası, Gaziantep'te yapılacak",
-      "link": "https://www.aa.com.tr/tr/spor/geleneksel-turk-okculugunda-federasyon-kupasi-gaziantepte-yapilacak/4075921",
-      "description": "Geleneksel Türk Okçuluk Aksaçlılar Açık Hava Puta Federasyon Kupası, yarın başlayacak.",
-      "pubDate": "Fri, 02 Oct 2026 12:29:03 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/02/thumbs_b_c_b9e9183df53780785de945725911c95d.jpg"
     }
   ]
 }
