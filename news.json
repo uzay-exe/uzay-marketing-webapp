@@ -1,90 +1,90 @@
 {
-  "updated": "2026-10-11T10:34:02.197275+00:00",
+  "updated": "2026-10-11T20:46:06.647724+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Beşiktaş, Dolmabahçe'de 3 puanı 2 golle aldı",
+      "link": "https://www.aa.com.tr/tr/spor/besiktas-dolmabahcede-3-puani-2-golle-aldi/4085383",
+      "description": "Trendyol Süper Lig'in 7. haftasında Kocaelispor'u konuk eden Beşiktaş, rakibini 2-1 yenerek puanını 15'e yükseltti ve ligde ikinci sıraya yükseldi.",
+      "pubDate": "Sun, 11 Oct 2026 19:58:39 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_0658b4ff09143a5b4ef46fadb4c851bb.jpg"
+    },
+    {
+      "title": "Formula 1 Singapur Grand Prix'sini Max Verstappen kazandı",
+      "link": "https://www.aa.com.tr/tr/spor/formula-1-singapur-grand-prixsini-max-verstappen-kazandi/4085332",
+      "description": "Formula 1 Dünya Şampiyonası'nda sezonun 17. yarışı Singapur Grand Prix'sini, Red Bull takımından Hollandalı pilot Max Verstappen kazandı.",
+      "pubDate": "Sun, 11 Oct 2026 18:34:55 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_ed7f2768edd5427297e2b510375dc993.jpg"
+    },
+    {
+      "title": "Milli sporcular, Yıldızlar Avrupa Boks Şampiyonası'nı 6 madalyayla tamamladı",
+      "link": "https://www.aa.com.tr/tr/spor/milli-sporcular-yildizlar-avrupa-boks-sampiyonasini-6-madalyayla-tamamladi/4085336",
+      "description": "Türkiye, Karadağ'da düzenlenen Yıldızlar Avrupa Boks Şampiyonası'nı 2'si altın olmak üzere toplam 6 madalyayla tamamladı.",
+      "pubDate": "Sun, 11 Oct 2026 18:46:51 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_592ac4351bedc465ff99d4d80e5e049b.jpg"
+    },
+    {
+      "title": "Hull City ile Everton arasındaki 4 gollü maçta kazanan çıkmadı",
+      "link": "https://www.aa.com.tr/tr/spor/hull-city-ile-everton-arasindaki-4-gollu-macta-kazanan-cikmadi/4085326",
+      "description": "İngiltere Premier Lig'in 6. haftasında oynanan maçta Hull City ile Everton 2-2 berabere kaldı.",
+      "pubDate": "Sun, 11 Oct 2026 18:27:55 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_03d6e8c3e63f0f03d5f6ad66df40df54.jpg"
+    },
+    {
+      "title": "Milli atıcı Safiye Temizdemir, Avrupa Şampiyonası'nda altın madalya kazandı",
+      "link": "https://www.aa.com.tr/tr/spor/milli-atici-safiye-temizdemir-avrupa-sampiyonasinda-altin-madalya-kazandi/4085322",
+      "description": "Milli sporcu Safiye Temizdemir, Yunanistan'da devam eden Avrupa Plak Atışları Şampiyonası'nda altın madalya kazandı.",
+      "pubDate": "Sun, 11 Oct 2026 18:24:17 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_4b8e31510d71e714de08c67fc8d6ac78.jpg"
+    },
+    {
+      "title": "Arca Çorum FK, deplasmanda Gaziantep FK'yi yendi",
+      "link": "https://www.aa.com.tr/tr/spor/arca-corum-fk-deplasmanda-gaziantep-fkyi-yendi/4085250",
+      "description": "Trendyol Süper Lig'in 7. haftasında Arca Çorum FK, deplasmanda Gaziantep FK'yi 3-0 yendi.",
+      "pubDate": "Sun, 11 Oct 2026 17:08:03 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_c82e838081360e1a0e3449a0cf998416.jpg"
+    },
+    {
+      "title": "Can Öncü, Supersport Estoril ayağının ikinci yarışında 4. oldu",
+      "link": "https://www.aa.com.tr/tr/spor/can-oncu-supersport-estoril-ayaginin-ikinci-yarisinda-4-oldu/4085299",
+      "description": "Motosiklet sürücüsü Can Öncü, Dünya Supersport Şampiyonası'nın Portekiz'deki 11. ayağının ikinci yarışında 4'üncülüğü elde etti.",
+      "pubDate": "Sun, 11 Oct 2026 17:53:41 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_f7d56e6aabe01f2a842b8a142f5fd627.jpg"
+    },
+    {
+      "title": "TÜMOSAN Konyaspor ile İstanbul Başakşehir berabere kaldı",
+      "link": "https://www.aa.com.tr/tr/spor/tumosan-konyaspor-ile-istanbul-basaksehir-berabere-kaldi/4085107",
+      "description": "Trendyol Süper Lig'in 7. haftasında oynanan TÜMOSAN Konyaspor-İstanbul Başakşehir maçı 0-0 bitti.",
+      "pubDate": "Sun, 11 Oct 2026 14:29:12 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_118ccc364c9dcaa30c8c5ecd6c53ea4c.jpg"
+    },
+    {
+      "title": "A Milli Futbol Takımı'nda yolların ayrıldığı teknik direktör Montella'dan veda mesajı",
+      "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takiminda-yollarin-ayrildigi-teknik-direktor-montelladan-veda-mesaji/4085150",
+      "description": "A Milli Futbol Takımı'nda yolların ayrıldığı teknik direktör Vincenzo Montella, veda mesajı yayımladı.",
+      "pubDate": "Sun, 11 Oct 2026 15:30:57 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_37792063e9a07049c7aa905f9af4d008.jpg"
+    },
+    {
+      "title": "Fenerbahçe, Aston Villa maçının hazırlıklarına başladı",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-aston-villa-macinin-hazirliklarina-basladi/4085123",
+      "description": "Fenerbahçe Futbol Takımı, UEFA Şampiyonlar Ligi'nin ikinci haftasında 14 Ekim Çarşamba günü deplasmanda İngiltere temsilcisi Aston Villa ile yapacağı maçın hazırlıklarına başladı.",
+      "pubDate": "Sun, 11 Oct 2026 14:39:28 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_a6e43779215c8db9c650c1b1aeec4b1e.jpg"
+    },
+    {
+      "title": "Deniz Öncü, Moto2 Endonezya yarışını 22. sırada bitirdi",
+      "link": "https://www.aa.com.tr/tr/spor/deniz-oncu-moto2-endonezya-yarisini-22-sirada-bitirdi/4085084",
+      "description": "Motosiklet sürücüsü Deniz Öncü, Moto2 Dünya Şampiyonası'nın Endonezya'da düzenlenen 17. ayağında 22. oldu.",
+      "pubDate": "Sun, 11 Oct 2026 13:55:04 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_edbe106a77e2ad18a1285ea8f46edd32.jpg"
+    },
     {
       "title": "Genel Menajer Schürmann'ın Dünya Kulüpler Şampiyonası'nda favorisi takımı VakıfBank",
       "link": "https://www.aa.com.tr/tr/spor/genel-menajer-schurmannin-dunya-kulupler-sampiyonasinda-favorisi-takimi-vakifbank/4084950",
       "description": "VakıfBank Kadın Voleybol Takımı Genel Menajeri Banu Can Schürmann, aralık ayında gerçekleştirilecek FIVB Dünya Kulüpler Şampiyonası'nda sarı-siyahlı takımla Eczacıbaşı Peron İstanbul'u favori olarak gördüğünü söyledi.",
       "pubDate": "Sun, 11 Oct 2026 11:15:46 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_e4076f7b96382792b211fc35267f5fb7.jpg"
-    },
-    {
-      "title": "Grekoromen Güreş Milli Takımı'nın hedefi Dünya Şampiyonası'nda tüm kategorilerde madalya",
-      "link": "https://www.aa.com.tr/tr/spor/grekoromen-gures-milli-takiminin-hedefi-dunya-sampiyonasinda-tum-kategorilerde-madalya/4084959",
-      "description": "Grekoromen A Milli Güreş Takımı, Kazakistan'da düzenlenecek 2026 Dünya Şampiyonası'ndan bütün kategorilerde madalyayla dönmeyi hedefliyor.",
-      "pubDate": "Sun, 11 Oct 2026 11:20:08 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_9d0371d097173b90e32913dd8560d751.jpg"
-    },
-    {
-      "title": "MotoGP'de Endonezya Grand Prix'sini Marco Bezzecchi kazandı",
-      "link": "https://www.aa.com.tr/tr/spor/motogpde-endonezya-grand-prixsini-marco-bezzecchi-kazandi/4084995",
-      "description": "MotoGP Dünya Şampiyonası'nda Endonezya Grand Prix'sini, Aprilia takımından İtalyan Marco Bezzecchi kazandı.",
-      "pubDate": "Sun, 11 Oct 2026 11:51:14 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_01a8ca97434ffa53929178fb964f8bde.jpg"
-    },
-    {
-      "title": "Galatasaray-Barcelona maçını İtalyan hakem Guida yönetecek",
-      "link": "https://www.aa.com.tr/tr/spor/galatasaray-barcelona-macini-italyan-hakem-guida-yonetecek/4084986",
-      "description": "Galatasaray'ın UEFA Şampiyonlar Ligi'nde 13 Ekim Salı günü sahasında İspanya temsilcisi Barcelona ile yapacağı maçı İtalyan hakem Marco Guida yönetecek.",
-      "pubDate": "Sun, 11 Oct 2026 11:41:40 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_3a7e77ef0d2ac32ecc3fef863bef3226.jpg"
-    },
-    {
-      "title": "Çaykur Rizespor, iç sahada gol ve puanla tanışamadı",
-      "link": "https://www.aa.com.tr/tr/spor/caykur-rizespor-ic-sahada-gol-ve-puanla-tanisamadi/4084965",
-      "description": "Trendyol Süper Lig'in 7. haftasında konuk ettiği Fenerbahçe'ye 3-0 mağlup olan Çaykur Rizespor, bu sezon iç sahada henüz gol ve puan sevinci yaşayamadı.",
-      "pubDate": "Sun, 11 Oct 2026 11:25:50 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_d2952bfbc72700eace2d380ca6017f8b.jpg"
-    },
-    {
-      "title": "Dünyanın akrobasi pilotları Fethiye'de buluşuyor",
-      "link": "https://www.aa.com.tr/tr/spor/dunyanin-akrobasi-pilotlari-fethiyede-bulusuyor/4084961",
-      "description": "Muğla'nın Fethiye ilçesinde bu yıl 26'ncısı düzenlenecek Uluslararası Ölüdeniz Hava Oyunları Festivali'nde, dünyanın farklı ülkelerinden akrobasi pilotları gösteri yapacak.",
-      "pubDate": "Sun, 11 Oct 2026 11:21:39 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_8b30a6abb4dea4a73f5a22ad2a797f3f.jpg"
-    },
-    {
-      "title": "Ayhancan Güven, ABD'de Indy 8 Saat yarışını birinci bitirdi",
-      "link": "https://www.aa.com.tr/tr/spor/ayhancan-guven-abdde-indy-8-saat-yarisini-birinci-bitirdi-/4084946",
-      "description": "Milli otomobil sporcusu Ayhancan Güven, ABD'de Intercontinental GT Challenge (IGTC) sezonunun final ayağı Indy 8 Saat yarışını, takım arkadaşlarıyla birlikte birinci sırada tamamladı.",
-      "pubDate": "Sun, 11 Oct 2026 11:12:36 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_44dd6781a2ebb1346b673f1778788651.jpg"
-    },
-    {
-      "title": "Voleybolda Erkekler Şampiyonlar Kupası yarın sahibini bulacak",
-      "link": "https://www.aa.com.tr/tr/spor/voleybolda-erkekler-sampiyonlar-kupasi-yarin-sahibini-bulacak/4084879",
-      "description": "Ziraat Bankkart ile Galatasaray voleybol takımları arasındaki 2026 Erkekler AXA Sigorta Şampiyonlar Kupası maçı, yarın Kırıkkale'de oynanacak.",
-      "pubDate": "Sun, 11 Oct 2026 09:56:09 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_64e73ef7238a1ce007c8fa41d46a0def.jpg"
-    },
-    {
-      "title": "Cumhurbaşkanlığı Yarı Maratonu, Ankara'da başladı",
-      "link": "https://www.aa.com.tr/tr/spor/cumhurbaskanligi-yari-maratonu-ankarada-basladi/4084861",
-      "description": "Cumhurbaşkanlığı Yarı Maratonu, Ankara'da verilen startla başladı.",
-      "pubDate": "Sun, 11 Oct 2026 09:11:21 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_680051e3b18de7a0435c18cd58fe1504.jpg"
-    },
-    {
-      "title": "Hiperaktivite tanısı konulan çocuk yönlendirildiği boksta Türkiye şampiyonu oldu",
-      "link": "https://www.aa.com.tr/tr/spor/hiperaktivite-tanisi-konulan-cocuk-yonlendirildigi-boksta-turkiye-sampiyonu-oldu/4084804",
-      "description": "Siirt'te hiperaktivite tanısı konulan 14 yaşındaki Berat Yıldırım, babasının yönlendirmesiyle başladığı boksta altın madalyanın sahibi oldu.",
-      "pubDate": "Sun, 11 Oct 2026 00:14:11 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_74834c0b554a00449d6a1ac8ce8aa7a5.jpg"
-    },
-    {
-      "title": "Oryantiringde uluslararası başarıların temeli altyapıda atılıyor",
-      "link": "https://www.aa.com.tr/tr/spor/oryantiringde-uluslararasi-basarilarin-temeli-altyapida-atiliyor/4084797",
-      "description": "Türkiye Oryantiring Federasyonu Başkanı Atilla Güler, uluslararası yarışmalarda elde edilen başarıların sürdürülebilir hale getirilmesi için altyapı çalışmalarına ağırlık verdiklerini belirterek \"Geleceğin milli takımını hazırlıyoruz.\" dedi.",
-      "pubDate": "Sun, 11 Oct 2026 00:11:31 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_e70ffa7b64a75ec311099f66e43862e5.jpg"
-    },
-    {
-      "title": "Milli sporcu Hakan Akkaya, Avrupa Para Eskrim Şampiyonası'nda bronz madalya kazandı",
-      "link": "https://www.aa.com.tr/tr/spor/milli-sporcu-hakan-akkaya-avrupa-para-eskrim-sampiyonasinda-bronz-madalya-kazandi/4084779",
-      "description": "Milli sporcu Hakan Akkaya, Büyük Britanya'da düzenlenen Avrupa Para Eskrim Şampiyonası'nda bronz madalya kazandı.",
-      "pubDate": "Sat, 10 Oct 2026 23:44:02 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/10/thumbs_b_c_ea4a487493766d7da0988aa2cf710a27.jpg"
     }
   ]
 }
