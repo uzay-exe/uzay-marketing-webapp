@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-11T20:46:06.647724+00:00",
+  "updated": "2026-10-12T06:55:17.422211+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Galatasaray, Şampiyonlar Ligi'nde yarın İspanya ekibi Barcelona'yı konuk edecek",
+      "link": "https://www.aa.com.tr/tr/spor/galatasaray-sampiyonlar-liginde-yarin-ispanya-ekibi-barcelonayi-konuk-edecek/4085586",
+      "description": "RAMS Park'taki müsabaka saat 22.00'de başlayacak. Karşılaşmanın hakemi İtalyan Marco Guida olacak.",
+      "pubDate": "Mon, 12 Oct 2026 09:36:16 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/12/thumbs_b_c_dc3a2cb21fc0a5055276eff9b6a61632.jpg"
+    },
+    {
+      "title": "Eyüpspor, Süper Lig'de Göztepe'yi konuk edecek",
+      "link": "https://www.aa.com.tr/tr/spor/eyupspor-super-ligde-goztepeyi-konuk-edecek/4085508",
+      "description": "Eyüpspor, Trendyol Süper Lig'de 7. haftanın kapanış maçında  sahasında Göztepe ile karşılaşacak.",
+      "pubDate": "Mon, 12 Oct 2026 00:06:10 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/12/thumbs_b_c_b56caad6ab50123523b93b5376894e79.jpg"
+    },
     {
       "title": "Beşiktaş, Dolmabahçe'de 3 puanı 2 golle aldı",
       "link": "https://www.aa.com.tr/tr/spor/besiktas-dolmabahcede-3-puani-2-golle-aldi/4085383",
@@ -71,20 +85,6 @@
       "description": "Fenerbahçe Futbol Takımı, UEFA Şampiyonlar Ligi'nin ikinci haftasında 14 Ekim Çarşamba günü deplasmanda İngiltere temsilcisi Aston Villa ile yapacağı maçın hazırlıklarına başladı.",
       "pubDate": "Sun, 11 Oct 2026 14:39:28 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_a6e43779215c8db9c650c1b1aeec4b1e.jpg"
-    },
-    {
-      "title": "Deniz Öncü, Moto2 Endonezya yarışını 22. sırada bitirdi",
-      "link": "https://www.aa.com.tr/tr/spor/deniz-oncu-moto2-endonezya-yarisini-22-sirada-bitirdi/4085084",
-      "description": "Motosiklet sürücüsü Deniz Öncü, Moto2 Dünya Şampiyonası'nın Endonezya'da düzenlenen 17. ayağında 22. oldu.",
-      "pubDate": "Sun, 11 Oct 2026 13:55:04 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_edbe106a77e2ad18a1285ea8f46edd32.jpg"
-    },
-    {
-      "title": "Genel Menajer Schürmann'ın Dünya Kulüpler Şampiyonası'nda favorisi takımı VakıfBank",
-      "link": "https://www.aa.com.tr/tr/spor/genel-menajer-schurmannin-dunya-kulupler-sampiyonasinda-favorisi-takimi-vakifbank/4084950",
-      "description": "VakıfBank Kadın Voleybol Takımı Genel Menajeri Banu Can Schürmann, aralık ayında gerçekleştirilecek FIVB Dünya Kulüpler Şampiyonası'nda sarı-siyahlı takımla Eczacıbaşı Peron İstanbul'u favori olarak gördüğünü söyledi.",
-      "pubDate": "Sun, 11 Oct 2026 11:15:46 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/11/thumbs_b_c_e4076f7b96382792b211fc35267f5fb7.jpg"
     }
   ]
 }
