@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-17T01:00:31.466671+00:00",
+  "updated": "2026-10-17T06:30:37.245122+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Kocaelispor, Süper Lig'de yarın Göztepe'yi konuk edecek",
+      "link": "https://www.aa.com.tr/tr/spor/kocaelispor-super-ligde-yarin-goztepeyi-konuk-edecek/4091627",
+      "description": "Kocaelispor, Trendyol Süper Lig'in 8. haftasında yarın sahasında Göztepe ile karşılaşacak.",
+      "pubDate": "Sat, 17 Oct 2026 09:27:34 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/17/thumbs_b_c_3047a91a5dd0b3a88ab4e7e1c24d714f.jpg"
+    },
     {
       "title": "Otizmli Ahsen, sosyalleşmesi için yönlendirildiği atletizmde şampiyonluklara imza attı",
       "link": "https://www.aa.com.tr/tr/spor/otizmli-ahsen-sosyallesmesi-icin-yonlendirildigi-atletizmde-sampiyonluklara-imza-atti/4091568",
@@ -78,13 +85,6 @@
       "description": "Milli otomobil sporcusu Alp Aksoy, 2027 sezonunda Ferrari Sürücü Akademisi pilotu olarak Formula Bölgesel Avrupa Şampiyonası'nda (FIA FRECA) mücadele edecek.",
       "pubDate": "Fri, 16 Oct 2026 14:23:22 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/16/thumbs_b_c_5b6f2d0bf45d5ec0a7e2be52a08647a4.jpg"
-    },
-    {
-      "title": "Güreşte Dünya Şampiyonası kadrosu belli oldu",
-      "link": "https://www.aa.com.tr/tr/spor/gureste-dunya-sampiyonasi-kadrosu-belli-oldu/4090794",
-      "description": "Türkiye'yi grekoromen stil 130 kiloda, Avrupa şampiyonalarında 13. altın madalyasını kazanarak rekor kıran Rıza Kayaalp temsil edecek.",
-      "pubDate": "Fri, 16 Oct 2026 12:34:57 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/16/thumbs_b_c_f5aee7d6691ed6491e92516b8e78fb44.jpg"
     }
   ]
 }
