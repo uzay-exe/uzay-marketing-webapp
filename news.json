@@ -1,7 +1,56 @@
 {
-  "updated": "2026-10-21T12:51:51.138502+00:00",
+  "updated": "2026-10-21T21:12:47.011695+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "UEFA'dan Halil Umut Meler'e görev",
+      "link": "https://www.aa.com.tr/tr/spor/uefadan-halil-umut-melere-gorev/4096457",
+      "description": "FIFA kokartlı hakem Halil Umut Meler, UEFA Avrupa Ligi'nde yarın oynanacak Hoffenheim-Lyon maçında görev yapacak.",
+      "pubDate": "Wed, 21 Oct 2026 22:45:50 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/21/thumbs_b_c_f033097642f8d10a14e50bb4458e0075.jpg"
+    },
+    {
+      "title": "Panathinaikos Basketbol Kulübünden Yunanistan'daki şike ve rüşvet iddialarına ilişkin açıklama",
+      "link": "https://www.aa.com.tr/tr/spor/panathinaikos-basketbol-kulubunden-yunanistandaki-sike-ve-rusvet-iddialarina-iliskin-aciklama/4096444",
+      "description": "Panathinaikos Basketbol Kulübü, Yunanistan'da yaşanan şike ve rüşvet operasyonları sonrası sert bir açıklamada bulundu.",
+      "pubDate": "Wed, 21 Oct 2026 22:33:19 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/21/thumbs_b_c_90fa1180c76e84c28890c5cdc1b198ee.jpg"
+    },
+    {
+      "title": "Galatasaray, bu sezon Şampiyonlar Ligi'ndeki ilk galibiyetini Lille karşısında aldı",
+      "link": "https://www.aa.com.tr/tr/spor/galatasaray-bu-sezon-sampiyonlar-ligindeki-ilk-galibiyetini-lille-karsisinda-aldi/4096332",
+      "description": "Galatasaray, UEFA Şampiyonlar Ligi'nin üçüncü haftasında Fransa temsilcisi Lille'i 4-2 yenerek organizasyondaki ilk puanlarını kazandı.",
+      "pubDate": "Wed, 21 Oct 2026 20:41:08 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/21/thumbs_b_c_c6c339c278da6599803c959e7bcd5409.jpg"
+    },
+    {
+      "title": "\"Hakemler dosyası\" soruşturmasında Ferdi Karadoruk'a 8 yıla kadar hapis istemi",
+      "link": "https://www.aa.com.tr/tr/spor/hakemler-dosyasi-sorusturmasinda-ferdi-karadoruka-8-yila-kadar-hapis-istemi/4096309",
+      "description": "İstanbul'da \"Hakemler dosyası\" olarak bilinen soruşturma kapsamında tutuklanan Türkiye Faal Futbol Hakemleri ve Gözlemcileri Derneği (TFFHGD) İstanbul Şubesi Başkanı Ferdi Karadoruk hakkında 8 yıla kadar hapis istemiyle iddianame düzenlendi.",
+      "pubDate": "Wed, 21 Oct 2026 20:05:16 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/21/thumbs_b_c_4eb77fd2cb095ce347bf04943372897f.jpg"
+    },
+    {
+      "title": "Trabzonspor'un eski futbolcusu Giorgi Nemsadze hayatını kaybetti",
+      "link": "https://www.aa.com.tr/tr/spor/trabzonsporun-eski-futbolcusu-giorgi-nemsadze-hayatini-kaybetti/4096182",
+      "description": "Trabzonspor Kulübü, eski futbolcusu Giorgi Nemsadze'nin hayatını kaybettiğini duyurdu.",
+      "pubDate": "Wed, 21 Oct 2026 18:05:34 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/21/thumbs_b_c_24636275944e80e3722da1f4a80db26e.jpg"
+    },
+    {
+      "title": "Yunanistan Basketbol Federasyonu Başkanı Liolios şike ve rüşvet suçlamalarıyla gözaltına alındı",
+      "link": "https://www.aa.com.tr/tr/spor/yunanistan-basketbol-federasyonu-baskani-liolios-sike-ve-rusvet-suclamalariyla-gozaltina-alindi/4096109",
+      "description": "Yunanistan Basketbol Federasyonu Başkanı Vangelis Liolios ile aralarında hakemlerin de bulunduğu 5 kişi şike ve rüşvet suçlamalarıyla gözaltına alındı.",
+      "pubDate": "Wed, 21 Oct 2026 17:14:00 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/21/thumbs_b_c_0ca0269aa5ea119361b0f268383485b6.jpg"
+    },
+    {
+      "title": "Beşiktaş Teknik Direktörü Italiano: Kaptan Orkun Kökçü'nün eksikliğini kalite açısından hissediyoruz",
+      "link": "https://www.aa.com.tr/tr/spor/besiktas-teknik-direktoru-italiano-kaptan-orkun-kokcunun-eksikligini-kalite-acisindan-hissediyoruz/4095987",
+      "description": "UEFA Avrupa Ligi'nin üçüncü haftasında yarın sahasında İngiliz ekibi Crystal Palace ile karşılaşacak Beşiktaş'ta teknik direktör Vincenzo Italiano, kaptan Orkun Kökçü'nün eksikliğini kalite açısından hissettiklerini söyledi.",
+      "pubDate": "Wed, 21 Oct 2026 16:01:50 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/21/thumbs_b_c_f2635bff2d827aef3decfebc414e2fe0.jpg"
+    },
     {
       "title": "Fenerbahçeli Kadınlar Derneği, Batman'da öğrencilerle buluştu",
       "link": "https://www.aa.com.tr/tr/spor/fenerbahceli-kadinlar-dernegi-batmanda-ogrencilerle-bulustu/4095957",
@@ -36,55 +85,6 @@
       "description": "Gençlik ve Spor Bakanı Osman Aşkın Bak, \"Güçlü bir Türk dünyasının teminatı, birbirini tanıyan, birlikte üreten ve ortak değerlerine sahip çıkan gençlerimizdir.\" dedi.",
       "pubDate": "Wed, 21 Oct 2026 13:48:04 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/21/thumbs_b_c_67d5450e3564a180f7d2dedb764dbaad.jpg"
-    },
-    {
-      "title": "Çaykur Rizespor, Trabzonspor maçına odaklandı",
-      "link": "https://www.aa.com.tr/tr/spor/caykur-rizespor-trabzonspor-macina-odaklandi-/4095688",
-      "description": "Trendyol Süper Lig'in 9. haftasında Trabzonspor'u konuk edecek Çaykur Rizespor'da savunma oyuncusu Modibo Sagnan, taraftarlarının önünde güzel bir sonuç almak istediklerini söyledi.",
-      "pubDate": "Wed, 21 Oct 2026 13:25:00 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/21/thumbs_b_c_9a0497ec497bb1b8c01763848c4ec5eb.jpg"
-    },
-    {
-      "title": "NBA Başkan Yardımcısı Tatum, NBA Avrupa'nın takımlara sunacağı kaynağa dikkati çekti",
-      "link": "https://www.aa.com.tr/tr/spor/nba-baskan-yardimcisi-tatum-nba-avrupanin-takimlara-sunacagi-kaynaga-dikkati-cekti/4095519",
-      "description": "Amerikan Basketbol Ligi (NBA) Başkan Yardımcısı Mark Tatum, NBA Avrupa projesine dahil olacak kulüplerin, Avrupa Ligi'nin 10 yıllık süreçte takımlara dağıtmayı öngördüğü kaynağın üç kat fazlasını kazanacağını söyledi.",
-      "pubDate": "Wed, 21 Oct 2026 12:10:33 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/21/thumbs_b_c_bcbe6b46410d325db9532d69ae23d4fe.jpg"
-    },
-    {
-      "title": "Karşıyaka Başantrenörü Markovic, takımının kısa sürede yakaladığı uyumdan memnun",
-      "link": "https://www.aa.com.tr/tr/spor/karsiyaka-basantrenoru-markovic-takiminin-kisa-surede-yakaladigi-uyumdan-memnun/4095497",
-      "description": "Karşıyaka'nın başantrenörü Nenad Markovic, sezon öncesinde yaşanan sorunlara rağmen kısa sürede takım kimyası ve uyumunun oluşmasından memnun olduğunu belirtti.",
-      "pubDate": "Wed, 21 Oct 2026 12:00:58 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/21/thumbs_b_c_e5f98ecb2236f86288e92583d9082a61.jpg"
-    },
-    {
-      "title": "Türk hokeyinin olimpiyat hayali",
-      "link": "https://www.aa.com.tr/tr/spor/turk-hokeyinin-olimpiyat-hayali/4095477",
-      "description": "Türkiye Hokey Federasyonu Başkanı Mustafa Çakır, Türk hokeyinin hayalinin olimpiyatta yer almak olduğunu söyledi.",
-      "pubDate": "Wed, 21 Oct 2026 11:41:32 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/21/thumbs_b_c_b145b1bdac331e1f46f0e38166d24631.jpg"
-    },
-    {
-      "title": "Beşiktaş, Avrupa'da 267. kez sahne alacak",
-      "link": "https://www.aa.com.tr/tr/spor/besiktas-avrupada-267-kez-sahne-alacak/4095414",
-      "description": "UEFA Avrupa Ligi'nin üçüncü haftasında yarın İngiltere temsilcisi Crystal Palace'ı konuk edecek Beşiktaş, Avrupa kupalarındaki 267. mücadelesine çıkacak.",
-      "pubDate": "Wed, 21 Oct 2026 11:08:27 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/21/thumbs_b_c_3a82c265e0660d7751cad31677a619f1.jpg"
-    },
-    {
-      "title": "Beşiktaş, İngiliz ekipleriyle 23. kez kozlarını paylaşacak",
-      "link": "https://www.aa.com.tr/tr/spor/besiktas-ingiliz-ekipleriyle-23-kez-kozlarini-paylasacak/4095404",
-      "description": "UEFA Avrupa Ligi'nin 3. haftasında yarın Crystal Palace'ı ağırlayacak Beşiktaş, İngiliz ekipleriyle 23. maçını oynayacak.",
-      "pubDate": "Wed, 21 Oct 2026 11:04:21 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/21/thumbs_b_c_277d73364c2449cbd1a45ed213202651.jpg"
-    },
-    {
-      "title": "Trabzonspor, Avrupa kupalarında 159. maçına çıkacak",
-      "link": "https://www.aa.com.tr/tr/spor/trabzonspor-avrupa-kupalarinda-159-macina-cikacak/4095398",
-      "description": "UEFA Konferans Ligi'nde yarın İskoçya'nın Hearts takımı ile sahasında karşılaşacak Trabzonspor, Avrupa kupalarındaki 159. maçına çıkacak.",
-      "pubDate": "Wed, 21 Oct 2026 11:03:00 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/21/thumbs_b_c_99d8575ae18032ad758ed5083a500fd8.jpg"
     }
   ]
 }
