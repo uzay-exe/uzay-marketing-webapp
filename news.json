@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-22T16:34:38.706484+00:00",
+  "updated": "2026-10-22T20:24:29.220750+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Anadolu Efes, Beşiktaş'ı 89-80 mağlup etti",
+      "link": "https://www.aa.com.tr/tr/spor/anadolu-efes-besiktasi-89-80-maglup-etti/4097823",
+      "description": "Basketbol Avrupa Ligi'nin (EuroLeague) 7. haftasında Anadolu Efes, sahasında Beşiktaş'ı 89-80 mağlup etti.",
+      "pubDate": "Thu, 22 Oct 2026 23:02:03 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/22/thumbs_b_c_248a67baf166f036fba9589274d12969.jpg"
+    },
+    {
+      "title": "Trabzonspor'dan Reis ile \"5'te 5\"",
+      "link": "https://www.aa.com.tr/tr/spor/trabzonspordan-reis-ile-5te-5/4097734",
+      "description": "UEFA Konferans Ligi'nin 2. haftasında Hearts karşısında 2-0 galip gelen bordo-mavililer, Alman teknik adam yönetiminde 5 resmi karşılaşmasını da kazandı.",
+      "pubDate": "Thu, 22 Oct 2026 20:56:57 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/22/thumbs_b_c_18078ae7573b082eb02d84c4656f3d44.jpg"
+    },
     {
       "title": "Panathinaikos'lu basketbolcu Nunn, Yunanistan'daki şike ve rüşvet skandalına tepki gösterdi",
       "link": "https://www.aa.com.tr/tr/spor/panathinaikoslu-basketbolcu-nunn-yunanistandaki-sike-ve-rusvet-skandalina-tepki-gosterdi/4097549",
@@ -71,20 +85,6 @@
       "description": "Geleneksel Türk Okçuluk Bursalı Şüca Hava Koşusu Türkiye Şampiyonası, 23-25 Ekim'de Bursa'da gerçekleştirilecek.",
       "pubDate": "Thu, 22 Oct 2026 11:34:58 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/22/thumbs_b_c_3120e963ab42ed191c40b788cacc5f04.jpg"
-    },
-    {
-      "title": "Fenerbahçe Tarfin, Basketbol Avrupa Ligi'nde yarın Olympiakos'a konuk olacak",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-basketbol-avrupa-liginde-yarin-olympiakosa-konuk-olacak/4096714",
-      "description": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Avrupa Ligi'nin (EuroLeague) 7. haftasında yarın Yunanistan'ın Olympiakos ekibiyle deplasmanda karşılaşacak.",
-      "pubDate": "Thu, 22 Oct 2026 10:15:34 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/22/thumbs_b_c_0659b3a4e83ab584811eb8a020e0458e.jpg"
-    },
-    {
-      "title": "Alperen Şengün, NBA'de sezona \"double-double\" ile başladı",
-      "link": "https://www.aa.com.tr/tr/spor/alperen-sengun-nbade-sezona-double-double-ile-basladi/4096739",
-      "description": "Amerikan Basketbol Ligi'nde (NBA) Houston Rockets, milli basketbolcu Alperen Şengün'ün \"double-double\" yaptığı maçta Dallas Mavericks'i 128-110 yendi.",
-      "pubDate": "Thu, 22 Oct 2026 10:34:57 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/22/thumbs_b_c_b2595ded7bd9801f89c2bc75a56bdf86.jpg"
     }
   ]
 }
