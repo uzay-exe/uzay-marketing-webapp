@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-25T21:23:34.430267+00:00",
+  "updated": "2026-10-26T03:03:27.194417+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Formula 1 ABD Grand Prix'sini Kimi Antonelli kazandı",
+      "link": "https://www.aa.com.tr/tr/spor/formula-1-abd-grand-prixsini-kimi-antonelli-kazandi/4100514",
+      "description": "Formula 1 Dünya Şampiyonası'nda sezonun 18. yarışı ABD Grand Prix'sini, Mercedes takımından İtalyan pilot Kimi Antonelli kazandı.",
+      "pubDate": "Mon, 26 Oct 2026 01:13:35 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/26/thumbs_b_c_5a0a7a70a3cd079c3da5d5fcc88c9dce.jpg"
+    },
     {
       "title": "Milli sporcu Furkan Akar, Kısa Kulvar Sürat Pateni Dünya Turu'nda bronz madalya kazandı",
       "link": "https://www.aa.com.tr/tr/spor/milli-sporcu-furkan-akar-kisa-kulvar-surat-pateni-dunya-turunda-bronz-madalya-kazandi/4100484",
@@ -78,13 +85,6 @@
       "description": "Okan Buruk, Galatasaray'ın başında Fenerbahçe'ye karşı 6 kez kazandı.",
       "pubDate": "Sun, 25 Oct 2026 11:27:12 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/25/thumbs_b_c_a9a1e7a08dde051f14f7a01c8434970a.jpg"
-    },
-    {
-      "title": "Beşiktaş ile Başakşehir, 40. randevuda",
-      "link": "https://www.aa.com.tr/tr/spor/besiktas-ile-basaksehir-40-randevuda/4100058",
-      "description": "Tarafların oynadıkları maçlarda Beşiktaş 12 galibiyet alırken Başakşehir 11 kez sahadan galip ayrıldı.",
-      "pubDate": "Sun, 25 Oct 2026 11:20:14 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/25/thumbs_b_c_e9321c1e93808bcd8e81c8f9eeb9c92d.jpg"
     }
   ]
 }
