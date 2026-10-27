@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-26T21:18:34.986049+00:00",
+  "updated": "2026-10-27T01:04:52.375084+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Altın Top ödülünü İngiliz futbolcu Harry Kane kazandı",
+      "link": "https://www.aa.com.tr/tr/spor/altin-top-odulunu-ingiliz-futbolcu-harry-kane-kazandi/4101865",
+      "description": "Bayern Münih ve İngiltere Milli Takımı'nın yıldız golcüsü Harry Kane, 2025-26 sezonunun en iyi futbolcusuna verilen Ballon d'Or (Altın Top) ödülünü kariyerinde ilk kez kazandı.",
+      "pubDate": "Tue, 27 Oct 2026 03:52:10 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/27/thumbs_b_c_122a3976f272beeff4258a9a6165d27d.jpg"
+    },
+    {
+      "title": "Milli eskrimcilerden Cezayir'de altın madalya",
+      "link": "https://www.aa.com.tr/tr/spor/milli-eskrimcilerden-cezayirde-altin-madalya/4101825",
+      "description": "Gençler ve Yıldızlar Kılıç Eskrim Dünya Kupası'nın Cezayir'deki ayağına katılan Türk sporcular takım halinde şampiyon oldu.",
+      "pubDate": "Tue, 27 Oct 2026 00:22:03 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/27/thumbs_b_c_6215bef21b3b9350e1c7be8100944a7c.jpg"
+    },
     {
       "title": "Milli tenisçi Ergi Kırkın, Singapur'da şampiyon oldu",
       "link": "https://www.aa.com.tr/tr/spor/milli-tenisci-ergi-kirkin-singapurda-sampiyon-oldu/4101817",
@@ -71,20 +85,6 @@
       "description": "Süper Lig'de 2009-2010 sezonunda kazandığı şampiyonlukla adını tarihe yazdıran Anadolu'nun köklü kulübü Bursaspor, üst lige geri dönmek için mücadele ettiği 1. Lig'deki performansıyla dikkati çekiyor.",
       "pubDate": "Mon, 26 Oct 2026 11:05:10 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/26/thumbs_b_c_d9f8d681545190fed07fc1ca24fe1ca7.jpg"
-    },
-    {
-      "title": "Basketbol Avrupa Ligi'nde 3. kez \"çift maç haftası\" heyecanı",
-      "link": "https://www.aa.com.tr/tr/spor/basketbol-avrupa-liginde-3-kez-cift-mac-haftasi-heyecani/4100762",
-      "description": "Basketbol Avrupa Ligi'nde (EuroLeague) bu sezon 3. kez çift maç haftası heyecanı yaşanacak.",
-      "pubDate": "Mon, 26 Oct 2026 10:43:49 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/26/thumbs_b_c_db4ba9b23dab29cba52f10edbdb3e0a7.jpg"
-    },
-    {
-      "title": "NBA'de Lakers, Luka Doncic'in 52 sayı attığı maçı kazanarak 3'te 3 yaptı",
-      "link": "https://www.aa.com.tr/tr/spor/nbade-lakers-luka-doncicin-52-sayi-attigi-maci-kazanarak-3te-3-yapti/4100726",
-      "description": "Doncic, Lakers tarihinde bir maçta en az 50 sayı, 10 asist, 5 ribaunt ve 5 üç sayı isabeti kaydeden ilk oyuncu oldu.",
-      "pubDate": "Mon, 26 Oct 2026 10:25:50 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/26/thumbs_b_c_cb5fe4112b8a6d4e63a5fa5348df1534.jpg"
     }
   ]
 }
