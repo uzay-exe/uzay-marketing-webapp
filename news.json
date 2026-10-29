@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-28T10:18:43.102653+00:00",
+  "updated": "2026-10-29T01:29:53.827515+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Beşiktaş, Olympiakos'a 81-73 yenildi",
+      "link": "https://www.aa.com.tr/tr/spor/besiktas-olympiakosa-81-73-yenildi/4104373",
+      "description": "Beşiktaş Erkek Basketbol Takımı, Avrupa Ligi'nin (EuroLeague) 8. haftasında konuk ettiği Yunanistan temsilcisi Olympiakos'a 81-73 yenildi.",
+      "pubDate": "Wed, 28 Oct 2026 23:10:32 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/28/thumbs_b_c_a40791bb0cb581f543b11e51f290754c.jpg"
+    },
+    {
+      "title": "İspanya Kral Kupası'nda 24 maç, tren kazası nedeniyle ertelendi",
+      "link": "https://www.aa.com.tr/tr/spor/ispanya-kral-kupasinda-24-mac-tren-kazasi-nedeniyle-ertelendi/4104240",
+      "description": "İspanya Kral Kupası'nda bugün oynanması planlanan 24 karşılaşma, Toledo kenti yakınlarında meydana gelen tren kazası nedeniyle ertelendi.",
+      "pubDate": "Wed, 28 Oct 2026 21:06:22 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/28/thumbs_b_c_19d0d3db08d7de418b6baf5bcb617ef4.jpg"
+    },
+    {
+      "title": "Ziraat Türkiye Kupası'ndaki Fethiyespor-Eyüpspor maçı sağanak nedeniyle ertelendi",
+      "link": "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasindaki-fethiyespor-eyupspor-maci-saganak-nedeniyle-ertelendi/4104011",
+      "description": "Fethiyespor ile Eyüpspor arasında oynanan Ziraat Türkiye Kupası 3. eleme turu maçı sağanak nedeniyle ertelendi.",
+      "pubDate": "Wed, 28 Oct 2026 17:30:42 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/28/thumbs_b_c_a723cda4924f1b60682a929e69147af8.jpg"
+    },
+    {
+      "title": "Milli halterci Muhammed Furkan Özbek dünya ikincisi oldu",
+      "link": "https://www.aa.com.tr/tr/spor/milli-halterci-muhammed-furkan-ozbek-dunya-ikincisi-oldu/4103892",
+      "description": "Dünya Halter Şampiyonası'nda erkekler 65 kiloda mücadele eden milli sporcu Muhammed Furkan Özbek, koparmada ve toplamda gümüş, silkmede bronz madalya kazandı.",
+      "pubDate": "Wed, 28 Oct 2026 16:25:24 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/28/thumbs_b_c_44d3d6cd20161e473795e5b0653bda14.jpg"
+    },
+    {
+      "title": "Real Madrid, Mbappe'nin Mao Zedong hakkındaki açıklamaları için özür diledi",
+      "link": "https://www.aa.com.tr/tr/spor/real-madrid-mbappenin-mao-zedong-hakkindaki-aciklamalari-icin-ozur-diledi/4103880",
+      "description": "Real Madrid, Fransız futbolcusu Kylian Mbappe'nin Çin Halk Cumhuriyeti'nin kurucusu Mao Zedong hakkındaki açıklamaları için özür mesajı yayımladı.",
+      "pubDate": "Wed, 28 Oct 2026 16:18:44 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/28/thumbs_b_c_ca017ea4092b3d7f53182af7820fdb92.jpg"
+    },
+    {
+      "title": "Ironman 70.3 Türkiye yarışları, 1 Kasım'da Antalya'da yapılacak",
+      "link": "https://www.aa.com.tr/tr/spor/ironman-703-turkiye-yarislari-1-kasimda-antalyada-yapilacak/4103868",
+      "description": "Bu yıl 12'ncisi düzenlenecek ve yüzme, bisiklet ile koşudan oluşan Ironman 70.3 Türkiye yarışları, 1 Kasım Pazar günü Antalya'da yapılacak.",
+      "pubDate": "Wed, 28 Oct 2026 16:10:47 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/28/thumbs_b_c_6ce2d894fd9d8957eb41e4caba5b8587.jpg"
+    },
+    {
+      "title": "Türkiye Basketbol Federasyonunun mali genel kurulu yapıldı",
+      "link": "https://www.aa.com.tr/tr/spor/turkiye-basketbol-federasyonunun-mali-genel-kurulu-yapildi/4103619",
+      "description": "Türkiye Basketbol Federasyonu (TBF) Olağan Mali Genel Kurulu, Ankara'da gerçekleştirildi.",
+      "pubDate": "Wed, 28 Oct 2026 13:11:53 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/28/thumbs_b_c_21d25f1ef198e821e0473efa9157d1c0.jpg"
+    },
+    {
+      "title": "İngiltere Lig Kupası'ndaki olaylı maçta Arsenal, 4. Lig ekibine elendi",
+      "link": "https://www.aa.com.tr/tr/spor/ingiltere-lig-kupasindaki-olayli-macta-arsenal-4-lig-ekibine-elendi/4103639",
+      "description": "İngiltere Lig Kupası'ndaki olaylı maçta Arsenal, 4. Futbol Ligi (EFL League Two) ekibi Fleetwood Town'a penaltılarla elendi.",
+      "pubDate": "Wed, 28 Oct 2026 13:22:42 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/28/thumbs_b_c_fb409577800263e07964037c5415f909.jpg"
+    },
     {
       "title": "Thomas Van Tonder, Güney Afrika'da 280 metrelik monkey bar parkurunu geçti",
       "link": "https://www.aa.com.tr/tr/spor/thomas-van-tonder-guney-afrikada-280-metrelik-monkey-bar-parkurunu-gecti/4103587",
@@ -29,62 +85,6 @@
       "description": "Fenerbahçe, İsmail Kartal'ın istifasının ardından yeni teknik direktör belirlenene kadar yardımcı antrenör Dirk Kuyt'ın teknik sorumlu olarak görev yapacağını duyurdu.",
       "pubDate": "Wed, 28 Oct 2026 11:49:23 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/28/thumbs_b_c_a64779d17f5badc3295a2a43086958c8.jpg"
-    },
-    {
-      "title": "Trabzonspor Basketbol Takımı'nın yıldızı Tillman'ın hedefi çifte şampiyonluk",
-      "link": "https://www.aa.com.tr/tr/spor/trabzonspor-basketbol-takiminin-yildizi-tillmanin-hedefi-cifte-sampiyonluk/4103447",
-      "description": "Trabzonspor Erkek Basketbol Takımı'nın NBA'den transfer ettiği uzun forvet Xavier Tillman, bordo-mavili ekiple ligde ve Avrupa'da kupa kazanmak için mücadele ediyor.",
-      "pubDate": "Wed, 28 Oct 2026 11:20:38 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/28/thumbs_b_c_24e77443faf94695b9342c54e54b1cc2.jpg"
-    },
-    {
-      "title": "Milli sporcu Hakan'ın hedefi tekerlekli sandalye eskriminde kalıcı bir miras bırakmak",
-      "link": "https://www.aa.com.tr/tr/spor/milli-sporcu-hakanin-hedefi-tekerlekli-sandalye-eskriminde-kalici-bir-miras-birakmak-/4103417",
-      "description": "Milli sporcu Hakan Akkaya, Los Angeles 2028'de altın madalya kazanmanın yanı sıra kendisinden sonra gelecek sporcular için kalıcı bir sistem oluşturmayı hedefliyor.",
-      "pubDate": "Wed, 28 Oct 2026 11:06:39 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/28/thumbs_b_c_67429010cb37a8393c5bb638953c54c7.jpg"
-    },
-    {
-      "title": "Trabzonspor, son 16 sezonun en golcü dönemini yaşıyor",
-      "link": "https://www.aa.com.tr/tr/spor/trabzonspor-son-16-sezonun-en-golcu-donemini-yasiyor/4103431",
-      "description": "Trendyol Süper Lig'de haftayı 4-3'lük Çaykur Rizespor galibiyetiyle kapatan Trabzonspor, son yılların en golcü dönemini yaşıyor.",
-      "pubDate": "Wed, 28 Oct 2026 11:12:08 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/28/thumbs_b_c_0a32e346efba91d62e0965429e8475e6.jpg"
-    },
-    {
-      "title": "Archie Brown ile Abdülkerim Bardakcı, PFDK'ye sevk edildi",
-      "link": "https://www.aa.com.tr/tr/spor/archie-brown-ile-abdulkerim-bardakci-pfdkye-sevk-edildi-/4103398",
-      "description": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Süper Lig'den 6 kulübün yanı sıra Fenerbahçe'nin futbolcusu Archie Brown ile Galatasaray'ın oyuncusu Abdülkerim Bardakcı'yı Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk etti.",
-      "pubDate": "Wed, 28 Oct 2026 10:53:44 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/28/thumbs_b_c_97ff579328397a336bbd70b1e1056d36.jpg"
-    },
-    {
-      "title": "Fenerbahçe Tarfin, Basketbol Avrupa Ligi'nde yarın Real Madrid'e konuk olacak",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-basketbol-avrupa-liginde-yarin-real-madride-konuk-olacak/4103310",
-      "description": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Basketbol Avrupa Ligi'nin (EuroLeague) 9. haftasında yarın İspanya'nın Real Madrid ekibiyle deplasmanda karşı karşıya gelecek.",
-      "pubDate": "Wed, 28 Oct 2026 09:43:50 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/28/thumbs_b_c_5a49b424bbce3eec961344f43983bd0b.jpg"
-    },
-    {
-      "title": "DOSYA: THY Avrupa Ligi",
-      "link": "https://www.aa.com.tr/tr/spor/dosya-thy-avrupa-ligi/4103296",
-      "description": "Basketbol THY Avrupa Ligi'nde yeni sezon heyecanı başlarken, organizasyon tarihine 11 şampiyonlukla damga vuran Real Madrid en başarılı takım, takımları toplamda 14 zafer elde eden İspanya ise en başarılı ülke olarak zirvedeki yerini koruyor.",
-      "pubDate": "Wed, 28 Oct 2026 09:17:59 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/28/thumbs_b_c_6b37c32d6221da7563bc15433eddce24.jpg"
-    },
-    {
-      "title": "NBA'de Lakers, Luka Doncic'in 41 sayı attığı maçta sezonun ilk mağlubiyetini aldı",
-      "link": "https://www.aa.com.tr/tr/spor/nbade-lakers-luka-doncicin-41-sayi-attigi-macta-sezonun-ilk-maglubiyetini-aldi/4103307",
-      "description": "Amerikan Basketbol Ligi'nde (NBA) Los Angeles Lakers, Luka Doncic'in 41 sayı attığı maçta, sahasında Portland Trail Blazers'a 136-129 yenildi.",
-      "pubDate": "Wed, 28 Oct 2026 09:38:56 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/28/thumbs_b_c_77225bb21ffa7de0a3bce5c4090bfe62.jpg"
-    },
-    {
-      "title": "Türkiye, 2026 Dakar Gençlik Olimpiyat Oyunları'na 34 sporcuyla katılacak",
-      "link": "https://www.aa.com.tr/tr/spor/turkiye-2026-dakar-genclik-olimpiyat-oyunlarina-34-sporcuyla-katilacak/4103121",
-      "description": "Türkiye, Senegal'in başkenti Dakar'da 31 Ekim-13 Kasım tarihlerinde düzenlenecek 2026 Dakar Gençlik Olimpiyat Oyunları'nda 16 dalda 34 sporcuyla mücadele edecek.",
-      "pubDate": "Tue, 27 Oct 2026 23:48:47 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/27/thumbs_b_c_d6799c30c6f99a9c44a559c7e970c08b.jpg"
     }
   ]
 }
