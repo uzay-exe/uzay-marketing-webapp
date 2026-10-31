@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-30T18:57:40.644361+00:00",
+  "updated": "2026-10-31T01:58:25.976586+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Galatasaray, deplasmanda Konyaspor'u 4-0 yenerek liderliğini sürdürdü",
+      "link": "https://www.aa.com.tr/tr/spor/galatasaray-deplasmanda-konyasporu-4-0-yenerek-liderligini-surdurdu/4106855",
+      "description": "Galatasaray, Trendyol Süper Lig'de 10. haftasının açılış maçında TÜMOSAN Konyaspor'u deplasmanda 4-0 yenerek liderliğini sürdürdü.",
+      "pubDate": "Fri, 30 Oct 2026 21:07:36 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/30/thumbs_b_c_4e49aa68866ec442f0fa1b1da43f4a0f.jpg"
+    },
     {
       "title": "Beşiktaş-Hapoel Beer-Sheva maçı Gürcistan'da oynanacak",
       "link": "https://www.aa.com.tr/tr/spor/besiktas-hapoel-beer-sheva-maci-gurcistanda-oynanacak/4106816",
@@ -73,18 +80,11 @@
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/30/thumbs_b_c_146a70dd4ca3906b186b04ba4d53d929.jpg"
     },
     {
-      "title": "Kocaelispor, Süper Lig'de yarın Çaykur Rizespor'u konuk edecek",
-      "link": "https://www.aa.com.tr/tr/spor/kocaelispor-super-ligde-yarin-caykur-rizesporu-konuk-edecek/4106099",
-      "description": "Kocaelispor, Trendyol Süper Lig'in 10. haftasında yarın Çaykur Rizespor'u ağırlayacak.",
+      "title": "Kocaelispor, Süper Lig'de bugün Çaykur Rizespor'u konuk edecek",
+      "link": "https://www.aa.com.tr/tr/spor/kocaelispor-super-ligde-bugun-caykur-rizesporu-konuk-edecek/4106099",
+      "description": "Kocaelispor, Trendyol Süper Lig'in 10. haftasında bugün Çaykur Rizespor'u ağırlayacak.",
       "pubDate": "Fri, 30 Oct 2026 12:57:39 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/30/thumbs_b_c_ccb0011601e172b5b53777a2771a948a.jpg"
-    },
-    {
-      "title": "Ziraat Bankkart'ın Dünya Kulüpler Voleybol Şampiyonası'ndaki maç programı belli oldu",
-      "link": "https://www.aa.com.tr/tr/spor/ziraat-bankkartin-dunya-kulupler-voleybol-sampiyonasindaki-mac-programi-belli-oldu/4106054",
-      "description": "2026 FIVB Erkekler Dünya Kulüpler Voleybol Şampiyonası'nda mücadele edecek Ziraat Bankkart'ın maç programı duyuruldu.",
-      "pubDate": "Fri, 30 Oct 2026 12:23:57 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/30/thumbs_b_c_36ec5b6bc4a8136c8fb313253086cf4b.jpg"
     }
   ]
 }
