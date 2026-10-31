@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-31T14:59:19.406299+00:00",
+  "updated": "2026-10-31T19:12:25.412839+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Fenerbahçe, öne geçtiği müsabakada Göztepe'ye mağlup",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-one-gectigi-musabakada-goztepeye-maglup/4107590",
+      "description": "Trendyol Süper Lig'in 10. haftasında Göztepe, deplasmanda Fenerbahçe karşısında ilk yarısını geride tamamladığı mücadeleden 2-1 galip ayrıldı.",
+      "pubDate": "Sat, 31 Oct 2026 21:07:38 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/31/thumbs_b_c_fa334612f7d76de7abc09313be609c55.jpg"
+    },
+    {
+      "title": "Türkiye Basketbol Federasyonu Başkanı Türkoğlu, Katar Türk Okulu öğrencileri ile buluştu",
+      "link": "https://www.aa.com.tr/tr/spor/turkiye-basketbol-federasyonu-baskani-turkoglu-katar-turk-okulu-ogrencileri-ile-bulustu/4107447",
+      "description": "Türkiye Basketbol Federasyonu (TBF) Başkanı Hidayet Türkoğlu, FIBA'nın düzenlediği etkinlikte Katar Türk Okulu öğrencileriyle bir araya gelerek, yurt dışında yaşayan genç Türk sporcuları milli takım forması altında görmek istediklerini söyledi.",
+      "pubDate": "Sat, 31 Oct 2026 18:14:37 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/31/thumbs_b_c_1041f918626b12e5fd3fe773f85ac9c3.jpg"
+    },
+    {
+      "title": "Kocaelispor ile Çaykur Rizespor golsüz berabere kaldı",
+      "link": "https://www.aa.com.tr/tr/spor/-kocaelispor-ile-caykur-rizespor-golsuz-berabere-kaldi/4107428",
+      "description": "Trendyol Süper Lig'in 10. haftasındaki Kocaelispor-Çaykur Rizespor maçı 0-0 beraberlikle sona erdi.",
+      "pubDate": "Sat, 31 Oct 2026 17:57:10 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/31/thumbs_b_c_3a47b1bcbf975100f83f86e41f0d944f.jpg"
+    },
     {
       "title": "Milli halterci Kaan Kahriman, Çin'deki dünya şampiyonasında gümüş madalya kazandı",
       "link": "https://www.aa.com.tr/tr/spor/milli-halterci-kaan-kahriman-cindeki-dunya-sampiyonasinda-gumus-madalya-kazandi/4107419",
@@ -64,27 +85,6 @@
       "description": "Kasımpaşa ile Beşiktaş, yarın oynanacak maçla Süper Lig'de 47. kez karşı karşıya gelecek.",
       "pubDate": "Sat, 31 Oct 2026 11:04:45 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/31/thumbs_b_c_2872a682cf555230438e058d61559d4a.jpg"
-    },
-    {
-      "title": "Sivasspor, yarın ligde Boluspor'u konuk edecek",
-      "link": "https://www.aa.com.tr/tr/spor/sivasspor-yarin-ligde-bolusporu-konuk-edecek/4107064",
-      "description": "Ekenler Beton Sivasspor, Trendyol 1. Lig'in 13. haftasında yarın sahasında Boluspor ile karşılaşacak.",
-      "pubDate": "Sat, 31 Oct 2026 09:58:59 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/31/thumbs_b_c_385d2d5149ccf9e0be8aee20812e4139.jpg"
-    },
-    {
-      "title": "Başakşehir, Süper Lig'de yarın Samsunspor'u ağırlayacak",
-      "link": "https://www.aa.com.tr/tr/spor/basaksehir-super-ligde-yarin-samsunsporu-agirlayacak/4107055",
-      "description": "İstanbul Başakşehir, Trendyol Süper Lig'in 10. haftasında yarın Samsunspor'u konuk edecek.",
-      "pubDate": "Sat, 31 Oct 2026 09:47:28 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/31/thumbs_b_c_dee6b19137cfa7bd883b7dc4547c3ea1.jpg"
-    },
-    {
-      "title": "Beşiktaş, Süper Lig'de yarın Kasımpaşa'ya konuk olacak",
-      "link": "https://www.aa.com.tr/tr/spor/besiktas-super-ligde-yarin-kasimpasaya-konuk-olacak/4107042",
-      "description": "Beşiktaş, Trendyol Süper Lig'in 10. haftasında yarın deplasmanda Kasımpaşa ile karşı karşıya gelecek.",
-      "pubDate": "Sat, 31 Oct 2026 09:28:04 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/10/31/thumbs_b_c_ccf3e523dd8b1fd2a75fdc827efef9dc.jpg"
     }
   ]
 }
