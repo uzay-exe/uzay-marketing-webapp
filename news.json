@@ -1,11 +1,60 @@
 {
-  "updated": "2026-11-02T08:49:32.774672+00:00",
+  "updated": "2026-11-02T19:07:42.988914+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
     {
+      "title": "Stuttgart'ın teknik direktörü Hoeness: Bizim için zorlu bir maç olacak",
+      "link": "https://www.aa.com.tr/tr/spor/stuttgartin-teknik-direktoru-hoeness-bizim-icin-zorlu-bir-mac-olacak/4109039",
+      "description": "UEFA Şampiyonlar Ligi'nin 4. haftasında yarın Galatasaray'a konuk olacak Almanya temsilcisi Stuttgart'ın teknik direktörü Sebastian Hoeness, galibiyet için ellerinden geleni yapacaklarını söyledi.",
+      "pubDate": "Mon, 02 Nov 2026 19:54:09 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/02/thumbs_b_c_c14c78e39b44c0b54b3cf311ed338cb0.jpg"
+    },
+    {
+      "title": "Ümit Milli Futbol Takımı'nın Çekya maçı ücretsiz izlenebilecek",
+      "link": "https://www.aa.com.tr/tr/spor/umit-milli-futbol-takiminin-cekya-maci-ucretsiz-izlenebilecek/4108795",
+      "description": "Ümit Milli Futbol Takımı'nın 2027 UEFA 21 Yaş Altı Avrupa Şampiyonası Elemeleri'nde 13 Kasım Cuma günü Rize'de Çekya ile yapacağı play-off turu ilk maçı ücretsiz izlenebilecek.",
+      "pubDate": "Mon, 02 Nov 2026 15:43:05 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/02/thumbs_b_c_d67e0a921573943668cbbe0ec8ae5cee.jpg"
+    },
+    {
+      "title": "Galatasaray Teknik Direktörü Okan Buruk: Kara bulutları dağıttık",
+      "link": "https://www.aa.com.tr/tr/spor/galatasaray-teknik-direktoru-okan-buruk-kara-bulutlari-dagittik/4108709",
+      "description": "Okan Buruk, \"Kazanmak için hem bireysel hem de kulüp olarak birçok nedenimiz var. Türk futbolunun böyle galibiyetlere ve Şampiyonlar Ligi'nde ilerlemeye ihtiyacı var.\" dedi.",
+      "pubDate": "Mon, 02 Nov 2026 14:26:58 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/02/thumbs_b_c_7981270501302e163dad8471306ec36b.jpg"
+    },
+    {
+      "title": "Fenerbahçe-Liverpool maçını Fransız hakem Clement Turpin yönetecek",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-liverpool-macini-fransiz-hakem-clement-turpin-yonetecek/4108549",
+      "description": "Fenerbahçe'nin UEFA Şampiyonlar Ligi'nin 4. haftasında 4 Kasım Çarşamba günü İngiliz ekibi Liverpool'u konuk edeceği karşılaşmayı Fransız hakem Clement Turpin yönetecek.",
+      "pubDate": "Mon, 02 Nov 2026 12:40:55 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/02/thumbs_b_c_31f05157c557534b9a7caf6832e78c2b.jpg"
+    },
+    {
+      "title": "A Milli Futbol Takımı'nın Fransa ile yapacağı maçın misafir tribün biletleri satışa sunuldu",
+      "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takiminin-fransa-ile-yapacagi-macin-misafir-tribun-biletleri-satisa-sunuldu/4108564",
+      "description": "A Milli Futbol Takımı'nın UEFA Uluslar A Ligi 1. Grup'ta 15 Kasım Pazar günü deplasmanda Fransa ile oynayacağı müsabakanın sınırlı sayıdaki misafir tribün bilet satışları başladı.",
+      "pubDate": "Mon, 02 Nov 2026 12:50:10 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/02/thumbs_b_c_f7f230fc0b61df2398bb26ac52be1529.jpg"
+    },
+    {
+      "title": "TBF Başkanı Hidayet Türkoğlu, 2027 Dünya Kupası için umutlu",
+      "link": "https://www.aa.com.tr/tr/spor/tbf-baskani-hidayet-turkoglu-2027-dunya-kupasi-icin-umutlu/4108457",
+      "description": "Türkiye Basketbol Federasyonu (TBF) Başkanı Hidayet Türkoğlu, A Milli Erkek Basketbol Takımı'nın mücadele edeceği 2027 FIBA Dünya Kupası'nda Türkiye'yi yeniden gururlandıracak bir başarı elde etmek istediklerini söyledi.",
+      "pubDate": "Mon, 02 Nov 2026 11:35:56 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/02/thumbs_b_c_8df453906c9fe97e45b173f2b24d4fe4.jpg"
+    },
+    {
+      "title": "Premier Lig'de Arsenal zirvenin yeni sahibi oldu",
+      "link": "https://www.aa.com.tr/tr/spor/premier-ligde-arsenal-zirvenin-yeni-sahibi-oldu/4108505",
+      "description": "Liverpool'u 1-0 yenen Arsenal, Manchester City'nin mağlup olduğu haftada liderliğe yerleşti.",
+      "pubDate": "Mon, 02 Nov 2026 12:01:06 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/02/thumbs_b_c_3be25ff72d5800b46b60466671d05cf0.jpg"
+    },
+    {
       "title": "Türk hentbolunda gözler Avrupa ve dünya şampiyonalarına çevrildi",
       "link": "https://www.aa.com.tr/tr/spor/turk-hentbolunda-gozler-avrupa-ve-dunya-sampiyonalarina-cevrildi/4108431",
-      "description": "Türkiye Hentbol Federasyonu Başkanı Mesut Çebi, \"A Milli Kadın Hentbol Takımımız ile Avrupa Şampiyonası'nda hedefimiz tabii ki üst tura çıkmak. Uzun vadede hedefimiz Avrupa Şampiyonası'nda yarı finaller oynamak.\" dedi.",
+      "description": "Türkiye Hentbol Federasyonu Başkanı Mesut Çebi, 2026 Kadınlar Avrupa Hentbol Şampiyonası ile erkek milli takımının ilk kez mücadele edeceği Almanya'daki Dünya Şampiyonası'nda üst tura çıkmayı hedeflediklerini söyledi.",
       "pubDate": "Mon, 02 Nov 2026 11:12:20 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/02/thumbs_b_c_b8ac03c0ff10935c48d2cb339cdfcef0.jpg"
     },
@@ -36,55 +85,6 @@
       "description": "UEFA Şampiyonlar Ligi'nin dördüncü haftasında yarın Almanya temsilcisi Stuttgart'ı ağırlayacak olan Galatasaray, Avrupa kupalarındaki 343 müsabakada 122 galibiyet, 131 mağlubiyet yaşadı.",
       "pubDate": "Mon, 02 Nov 2026 11:04:28 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/02/thumbs_b_c_2ca6124a6fc97fa417069e2faf05d48c.jpg"
-    },
-    {
-      "title": "TSK Spor Gücü, 100 yılı aşkın süredir Türk sporuna katkı sağlıyor",
-      "link": "https://www.aa.com.tr/tr/spor/tsk-spor-gucu-100-yili-askin-suredir-turk-sporuna-katki-sagliyor/4108362",
-      "description": "Türk Silahlı Kuvvetleri (TSK) bünyesinde spor faaliyetlerinin geliştirilmesi amacıyla kurulan ve TSK Spor Gücü Komutanlığı adıyla faaliyetlerini sürdüren komutanlık, bir asrı aşkın süredir farklı branşlarda Türk sporuna katkı sunuyor.",
-      "pubDate": "Mon, 02 Nov 2026 10:15:54 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/02/thumbs_b_c_60ef403e150ef16a67384ea2f27823a3.jpg"
-    },
-    {
-      "title": "NBA'de Lakers, Luka Doncic'in 45 sayı attığı maçta Raptors'ı yendi",
-      "link": "https://www.aa.com.tr/tr/spor/nbade-lakers-luka-doncicin-45-sayi-attigi-macta-raptorsi-yendi/4108364",
-      "description": "Amerikan Basketbol Ligi'nde (NBA) Los Angeles Lakers, Luka Doncic'in 45 sayıyla yıldızlaştığı maçta Toronto Raptors'ı 131-125 mağlup etti.",
-      "pubDate": "Mon, 02 Nov 2026 10:17:34 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/02/thumbs_b_c_4472bb3513bb4746873fae4ce645097f.jpg"
-    },
-    {
-      "title": "UEFA Şampiyonlar Ligi'nde 4. hafta heyecanı yarın başlayacak",
-      "link": "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-4-hafta-heyecani-yarin-baslayacak/4108361",
-      "description": "UEFA Şampiyonlar Ligi'nde 4. haftanın perdesi, yarın açılacak. Galatasaray'ın yarın Almanya ekibi Stuttgart'ı ağırlayacağı haftada Fenerbahçe ise çarşamba günü İngiltere temsilcisi Liverpool'u konuk edecek.",
-      "pubDate": "Mon, 02 Nov 2026 10:14:19 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/02/thumbs_b_c_88308ff8aafa7f0e17504f3077e9b7dc.jpg"
-    },
-    {
-      "title": "Galatasaray, Şampiyonlar Ligi'nde yarın Almanya ekibi Stuttgart'ı ağırlayacak",
-      "link": "https://www.aa.com.tr/tr/spor/galatasaray-sampiyonlar-liginde-yarin-almanya-ekibi-stuttgarti-agirlayacak/4108358",
-      "description": "Galatasaray, UEFA Şampiyonlar Ligi'nin 4. haftasında yarın Almanya'nın Stuttgart takımını konuk edecek.",
-      "pubDate": "Mon, 02 Nov 2026 10:08:22 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/02/thumbs_b_c_044a5dbbb7423acb5cef54c3285a7852.jpg"
-    },
-    {
-      "title": "Türkiye Üniversite Sporları Federasyonundan Anadolu Ajansına ödül",
-      "link": "https://www.aa.com.tr/tr/spor/turkiye-universite-sporlari-federasyonundan-anadolu-ajansina-odul/4108306",
-      "description": "Türkiye Üniversite Sporları Federasyonunun (TÜSF) 30. kuruluş yıl dönümü kapsamında Ankara'da düzenlediği ödül ve tanıtım gecesinde, üniversite sporlarının kamuoyuna duyurulmasına katkılarından dolayı AA muhabiri Fatih Gazioğlu'na ödül verildi.",
-      "pubDate": "Mon, 02 Nov 2026 09:18:18 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/02/thumbs_b_c_6a17446b38244ba76084044a455bf361.jpg"
-    },
-    {
-      "title": "Kimi Antonelli 2026 Formula 1 dünya şampiyonu oldu",
-      "link": "https://www.aa.com.tr/tr/spor/kimi-antonelli-2026-formula-1-dunya-sampiyonu-oldu/4108244",
-      "description": "Mercedes takımının İtalyan pilotu Kimi Antonelli, 2026 Formula 1 dünya şampiyonu oldu.",
-      "pubDate": "Mon, 02 Nov 2026 02:12:44 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/02/thumbs_b_c_499fd3bcb4c8c972106f0f052d9541d5.jpg"
-    },
-    {
-      "title": "Beşiktaş'ın deplasman fobisi Kasımpaşa'da devam etti",
-      "link": "https://www.aa.com.tr/tr/spor/besiktasin-deplasman-fobisi-kasimpasada-devam-etti/4108160",
-      "description": "Trendyol Süper Lig'in 10. haftasında Kasımpaşa'ya konuk olan Beşiktaş, rakibiyle 2-2 berabere kaldı.",
-      "pubDate": "Sun, 01 Nov 2026 19:58:08 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/01/thumbs_b_c_1ca5f06bc2673369583e1cf6a0c82ff8.jpg"
     }
   ]
 }
