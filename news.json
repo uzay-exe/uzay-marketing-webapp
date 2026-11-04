@@ -1,90 +1,90 @@
 {
-  "updated": "2026-11-04T02:53:05.691405+00:00",
+  "updated": "2026-11-04T10:24:14.863417+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Geleneksel Türk Okçuluk Takımı, Dünya Şampiyonası'nda 4 madalya kazandı",
+      "link": "https://www.aa.com.tr/tr/spor/geleneksel-turk-okculuk-takimi-dunya-sampiyonasinda-4-madalya-kazandi/4111338",
+      "description": "Güney Kore'de düzenlenen Dünya Geleneksel Okçuluk Şampiyonası'nda mücadele eden milli takım, 4 madalya kazandı.",
+      "pubDate": "Wed, 04 Nov 2026 13:14:15 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/04/thumbs_b_c_ec0f35fe97e7f9731571b7a2dbea6186.jpg"
+    },
+    {
+      "title": "UEFA Şampiyonlar Ligi'nde 2 Türk teknik direktör ilk kez karşı karşıya gelecek",
+      "link": "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-2-turk-teknik-direktor-ilk-kez-karsi-karsiya-gelecek/4111307",
+      "description": "UEFA Şampiyonlar Ligi tarihinde ilk kez iki Türk teknik direktör karşı karşıya gelecek.",
+      "pubDate": "Wed, 04 Nov 2026 12:51:58 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/04/thumbs_b_c_a59ee7fc6b7ff803443e5656ee136ab4.jpg"
+    },
+    {
+      "title": "Dakar 2026'da altın madalya kazanan Sema Nur Yüksel'in hedefi büyüklerde de olimpiyat şampiyonluğu",
+      "link": "https://www.aa.com.tr/tr/spor/dakar-2026da-altin-madalya-kazanan-sema-nur-yukselin-hedefi-buyuklerde-de-olimpiyat-sampiyonlugu/4111165",
+      "description": "Senegal'de düzenlenen 4. Yaz Gençlik Olimpiyat Oyunları'nda (Dakar 2026) judoda altın madalya kazanan milli sporcu Sema Nur Yüksel, büyüklerde de olimpiyat şampiyonluğuna ulaşarak İstiklal Marşı'nı okutmayı hedefliyor.",
+      "pubDate": "Wed, 04 Nov 2026 11:24:48 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/04/thumbs_b_c_ac27fcec07ff39dea26419a2cef35e0d.jpg"
+    },
+    {
+      "title": "Trabzonspor, Avrupa kupalarında 160. maçına çıkacak",
+      "link": "https://www.aa.com.tr/tr/spor/trabzonspor-avrupa-kupalarinda-160-macina-cikacak/4111146",
+      "description": "UEFA Konferans Ligi'nde yarın Almanya'nın Freiburg takımı ile sahasında karşılaşacak Trabzonspor, Avrupa kupalarındaki 160. maçına çıkacak.",
+      "pubDate": "Wed, 04 Nov 2026 11:15:20 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/04/thumbs_b_c_60adff75122e12a673814aef949f42c9.jpg"
+    },
+    {
+      "title": "Aleksey Batrakov, Galatasaray kariyerine görkemli bir başlangıç yaptı",
+      "link": "https://www.aa.com.tr/tr/spor/aleksey-batrakov-galatasaray-kariyerine-gorkemli-bir-baslangic-yapti/4111145",
+      "description": "Galatasaray'ın Rus futbolcusu Aleksey Batrakov, sarı-kırmızılı takımdaki kariyerine görkemli bir başlangıç yaptı.",
+      "pubDate": "Wed, 04 Nov 2026 11:15:13 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/04/thumbs_b_c_0487deb48a6fdce198ebb7b3ecb99a1a.jpg"
+    },
+    {
+      "title": "Beşiktaş, Avrupa'da 268. kez sahne alacak",
+      "link": "https://www.aa.com.tr/tr/spor/besiktas-avrupada-268-kez-sahne-alacak/4111135",
+      "description": "UEFA Avrupa Ligi'nin dördüncü haftasında yarın İskoçya temsilcisi Celtic'e konuk olacak Beşiktaş, Avrupa kupalarındaki 268. mücadelesine çıkacak.",
+      "pubDate": "Wed, 04 Nov 2026 11:10:37 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/04/thumbs_b_c_b6994195ce967985e310f5db75528e3c.jpg"
+    },
+    {
+      "title": "Fenerbahçe Tarfin, Avrupa Ligi'nde yarın Baskonia'yı konuk edecek",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-avrupa-liginde-yarin-baskoniayi-konuk-edecek/4111050",
+      "description": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Avrupa Ligi'nin (EuroLeague) 10. haftasında yarın sahasında İspanya ekibi Kosner ​​​​​​​Baskonia ile karşılaşacak.",
+      "pubDate": "Wed, 04 Nov 2026 10:24:12 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/04/thumbs_b_c_d9a128e3994d1cda3d03b12b9096f474.jpg"
+    },
+    {
+      "title": "UEFA Konferans Ligi'nde 3. hafta maçları yarın oynanacak",
+      "link": "https://www.aa.com.tr/tr/spor/uefa-konferans-liginde-3-hafta-maclari-yarin-oynanacak/4111051",
+      "description": "UEFA Konferans Ligi'nde 3. hafta maçları yarın yapılacak.",
+      "pubDate": "Wed, 04 Nov 2026 10:24:17 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/04/thumbs_b_c_7dc97a6840bf7f7c6d5054581c5ce293.jpg"
+    },
+    {
+      "title": "Anadolu Efes, Avrupa Ligi'nde yarın Paris Basketbol'u ağırlayacak",
+      "link": "https://www.aa.com.tr/tr/spor/anadolu-efes-avrupa-liginde-yarin-paris-basketbolu-agirlayacak/4111022",
+      "description": "Anadolu Efes Erkek Basketbol Takımı, Avrupa Ligi'nin (EuroLeague) onuncu haftasında yarın Fransa temsilcisi Paris Basketbol'u konuk edecek.",
+      "pubDate": "Wed, 04 Nov 2026 10:09:35 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/04/thumbs_b_c_8a718464c5802586c63fe189103a0c2d.jpg"
+    },
+    {
+      "title": "Trabzonspor, UEFA Konferans Ligi'nde yarın sahasında Freiburg ile karşılaşacak",
+      "link": "https://www.aa.com.tr/tr/spor/trabzonspor-uefa-konferans-liginde-yarin-sahasinda-freiburg-ile-karsilasacak/4110999",
+      "description": "Trabzonspor, UEFA Konferans Ligi'nin 3. haftasında yarın sahasında Almanya'nın Freiburg takımı ile karşılaşacak.",
+      "pubDate": "Wed, 04 Nov 2026 10:01:23 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/04/thumbs_b_c_47f1215c27fb6614b8878486fe6a381a.jpg"
+    },
+    {
+      "title": "Beşiktaş, UEFA Avrupa Ligi'nde yarın Celtic'in konuğu olacak",
+      "link": "https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-yarin-celticin-konugu-olacak/4110967",
+      "description": "Beşiktaş, UEFA Avrupa Ligi'nin dördüncü haftasında yarın İskoçya temsilcisi Celtic'in konuğu olacak.",
+      "pubDate": "Wed, 04 Nov 2026 09:37:34 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/04/thumbs_b_c_17735efc8965ce9cef54e1dafa05413a.jpg"
+    },
     {
       "title": "Fenerbahçe'de teknik direktörlük görevine Emre Belözoğlu getirildi",
       "link": "https://www.aa.com.tr/tr/spor/fenerbahcede-teknik-direktorluk-gorevine-emre-belozoglu-getirildi/4110526",
       "description": "Fenerbahçe'de teknik direktörlük görevine Emre Belözoğlu getirildi.",
       "pubDate": "Tue, 03 Nov 2026 23:28:11 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/03/thumbs_b_c_c8dcad5d9b787d8073267425a04ccccb.jpg"
-    },
-    {
-      "title": "A Milli Futbol Takımı'nın aday kadrosu \"canlı yayında\" açıklanacak",
-      "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takiminin-aday-kadrosu-canli-yayinda-aciklanacak/4110512",
-      "description": "A Milli Futbol Takımı'nın yeni teknik direktörü Sergen Yalçın, ilk aday kadrosunu \"canlı yayında\" açıklayacak.",
-      "pubDate": "Tue, 03 Nov 2026 23:07:58 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/03/thumbs_b_c_de3c3357187c958ca889029038be39a0.jpg"
-    },
-    {
-      "title": "Galatasaray, Stuttgart'ı 2-0 yenerek Şampiyonlar Ligi'nde puanını 6'ya yükselti",
-      "link": "https://www.aa.com.tr/tr/spor/galatasaray-stuttgarti-2-0-yenerek-sampiyonlar-liginde-puanini-6ya-yukselti/4110444",
-      "description": "Galatasaray, UEFA Şampiyonlar Ligi'nin 4. haftasında konuk ettiği Almanya'nın Stuttgart takımını 2-0 yenerek puanını 6'ya çıkardı.",
-      "pubDate": "Tue, 03 Nov 2026 21:48:29 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/03/thumbs_b_c_0842a44c3a169bb23118ad742b3b79b1.jpg"
-    },
-    {
-      "title": "Kasımpaşa, teknik direktör Emre Belözoğlu'na veda etti",
-      "link": "https://www.aa.com.tr/tr/spor/kasimpasa-teknik-direktor-emre-belozogluna-veda-etti/4110481",
-      "description": "Süper Lig ekiplerinden Kasımpaşa, teknik direktör Emre Belözoğlu ile yolların ayrıldığını duyurdu.",
-      "pubDate": "Tue, 03 Nov 2026 22:33:34 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/03/thumbs_b_c_f20af19143cef748ffe1cbfdbb13ea0c.jpg"
-    },
-    {
-      "title": "Süper Lig'den 7 takım, PFDK'ye sevk edildi",
-      "link": "https://www.aa.com.tr/tr/spor/super-ligden-7-takim-pfdkye-sevk-edildi/4110470",
-      "description": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Trendyol Süper Lig'den 7 takımı Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk etti.",
-      "pubDate": "Tue, 03 Nov 2026 22:18:11 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/03/thumbs_b_c_d6dcd0d9b4a5527eaf7412777f8a2fe2.jpg"
-    },
-    {
-      "title": "Fenerbahçe Kulübü Başkan Vekili Barış Göktürk'ten istifa açıklaması",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-kulubu-baskan-vekili-baris-gokturkten-istifa-aciklamasi/4110382",
-      "description": "Fenerbahçe Kulübü Başkan Vekili Barış Göktürk, istifa ettiğine dair haberlerin doğru olmadığını duyurdu.",
-      "pubDate": "Tue, 03 Nov 2026 20:23:29 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/03/thumbs_b_c_37e921ce944ddd0104cae32536e63321.jpg"
-    },
-    {
-      "title": "Kaleci ile çarpıştığı pozisyonda kalbi duran İspanyol futbolcu Jesus de Miguel hayatını kaybetti",
-      "link": "https://www.aa.com.tr/tr/spor/kaleci-ile-carpistigi-pozisyonda-kalbi-duran-ispanyol-futbolcu-jesus-de-miguel-hayatini-kaybetti/4109726",
-      "description": "İspanya 2. Futbol Ligi'nde Andorra ile yapılan maçta kaleciyle çarpıştığı pozisyonda kalbi duran Tenerife'nin 30 yaşındaki İspanyol futbolcusu Jesus de Miguel Alameda, kaldırıldığı hastanede hayatını kaybetti.",
-      "pubDate": "Tue, 03 Nov 2026 12:51:20 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/03/thumbs_b_c_7fd8510888588ca3e2d5a2489426b41b.jpg"
-    },
-    {
-      "title": "Fenerbahçe'de teknik sorumlu Kuyt: İyi bir performansla reaksiyon göstermeliyiz",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahcede-teknik-sorumlu-kuyt-iyi-bir-performansla-reaksiyon-gostermeliyiz/4110093",
-      "description": "UEFA Şampiyonlar Ligi'nin 4. haftasında yarın İngiltere'nin Liverpool takımını ağırlayacak Fenerbahçe'de teknik sorumlu Dirk Kuyt, iyi bir performansla reaksiyon göstermeleri gerektiğini söyledi.",
-      "pubDate": "Tue, 03 Nov 2026 16:31:42 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/03/thumbs_b_c_e2a7a828b99e58ed94edd758ee621b07.jpg"
-    },
-    {
-      "title": "Milli atıcı Şevval İlayda Tarhan, Katar'da dünya şampiyonu oldu",
-      "link": "https://www.aa.com.tr/tr/spor/milli-atici-sevval-ilayda-tarhan-katarda-dunya-sampiyonu-oldu-/4109904",
-      "description": "Milli atıcı Şevval İlayda Tarhan, Katar'da düzenlenen ISSF Tüm Dallar Dünya Şampiyonası'nda 50 metre tabanca kategorisinde altın madalya kazandı.",
-      "pubDate": "Tue, 03 Nov 2026 14:27:13 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/03/thumbs_b_c_cefdca6ed4a3974a59772d5c4289fade.jpg"
-    },
-    {
-      "title": "Trabzonspor-Freiburg maçını Estonyalı hakem Kristo Tohver yönetecek",
-      "link": "https://www.aa.com.tr/tr/spor/trabzonspor-freiburg-macini-estonyali-hakem-kristo-tohver-yonetecek/4109728",
-      "description": "Trabzonspor'un UEFA Konferans Ligi'nin 3. haftasında 5 Kasım Perşembe günü Almanya'nın Freiburg takımını konuk edeceği mücadelede Estonyalı hakem Kristo Tohver düdük çalacak.",
-      "pubDate": "Tue, 03 Nov 2026 12:52:42 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/03/thumbs_b_c_78a4afee013190425b95b5bfaf56ddbc.jpg"
-    },
-    {
-      "title": "Basketbol Avrupa Ligi'nde 10. hafta heyecanı yarın başlayacak",
-      "link": "https://www.aa.com.tr/tr/spor/basketbol-avrupa-liginde-10-hafta-heyecani-yarin-baslayacak/4109569",
-      "description": "Basketbol Avrupa Ligi'nde (EuroLeague) 10. haftanın perdesi yarın açılacak.",
-      "pubDate": "Tue, 03 Nov 2026 11:52:59 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/03/thumbs_b_c_ae1cdd32c3f227b8bf77f73a4324e993.jpg"
-    },
-    {
-      "title": "Suudi Arabistan'da düzenlenecek 2027 Asya Kupası \"olağanüstü koşullar\" nedeniyle ertelendi",
-      "link": "https://www.aa.com.tr/tr/spor/suudi-arabistanda-duzenlenecek-2027-asya-kupasi-olaganustu-kosullar-nedeniyle-ertelendi/4109496",
-      "description": "Suudi Arabistan'da gerçekleştirilecek 2027 AFC Asya Kupası, ev sahibi ülkeye yönelik saldırılar nedeniyle ertelendi.",
-      "pubDate": "Tue, 03 Nov 2026 11:24:15 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/03/thumbs_b_c_e61dd7658d916e1fa2e6695927338ffc.jpg"
     }
   ]
 }
