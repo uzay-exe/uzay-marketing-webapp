@@ -1,7 +1,56 @@
 {
-  "updated": "2026-11-18T19:55:31.037734+00:00",
+  "updated": "2026-11-19T09:49:52.221217+00:00",
   "source": "Anadolu Ajansı - Spor",
   "items": [
+    {
+      "title": "Adı gibi \"Gençlerbirliği\"",
+      "link": "https://www.aa.com.tr/tr/spor/adi-gibi-genclerbirligi/4130117",
+      "description": "Trendyol Süper Lig'de 19 yaş ve altı futbolculara 1060 dakika süre veren Gençlerbirliği, ligde bu istatistikte zirvede yer aldı.",
+      "pubDate": "Thu, 19 Nov 2026 11:08:50 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/19/thumbs_b_c_d8fa1116e771926df92eeb15548b1d63.jpg"
+    },
+    {
+      "title": "Milli atlet Elif Naz Köseoğlu gözünü Avrupa Kros Şampiyonası'na dikti",
+      "link": "https://www.aa.com.tr/tr/spor/milli-atlet-elif-naz-koseoglu-gozunu-avrupa-kros-sampiyonasina-dikti/4130128",
+      "description": "Balkan Kros Şampiyonası'nda altın madalya kazanan milli atlet Elif Naz Köseoğlu, Sırbistan'da düzenlenecek Avrupa Kros Şampiyonası'na katılarak madalya kazanmak için çalışıyor.",
+      "pubDate": "Thu, 19 Nov 2026 11:12:13 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/19/thumbs_b_c_ac7af50bad901f2469e02a1f652f5b37.jpg"
+    },
+    {
+      "title": "Galatasaray, rekor için Samsunspor karşısına çıkacak",
+      "link": "https://www.aa.com.tr/tr/spor/galatasaray-rekor-icin-samsunspor-karsisina-cikacak/4130122",
+      "description": "Trendyol Süper Lig'in 12. haftasında 21 Kasım Cumartesi günü Samsunspor'u ağırlayacak Galatasaray, kulüp tarihinin ligdeki iç saha yenilmezlik rekorunu kırmak için sahaya çıkacak.",
+      "pubDate": "Thu, 19 Nov 2026 11:09:51 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/19/thumbs_b_c_5cec181c1a77aeb3861dbbe8849a8bca.jpg"
+    },
+    {
+      "title": "Milli basketbolcu Alperen Şengün, iki gözüne aldığı darbeyle sakatlandı",
+      "link": "https://www.aa.com.tr/tr/spor/milli-basketbolcu-alperen-sengun-iki-gozune-aldigi-darbeyle-sakatlandi/4130059",
+      "description": "Houston Rockets forması giyen milli oyuncu Alperen Şengün'ün, deplasmanda Indiana Pacers'ı 119-104 yendikleri maçın ikinci çeyreğinde yüzüne aldığı darbe sonrasında sağ gözünde şişlik ve sol gözünün korneasında çizik meydana geldi.",
+      "pubDate": "Thu, 19 Nov 2026 10:28:42 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/19/thumbs_b_c_1a899d7b11b5b85481abdf1293c54c03.jpg"
+    },
+    {
+      "title": "Beşiktaş Fuzul, Basketbol Avrupa Ligi'nde yarın Partizan deplasmanında",
+      "link": "https://www.aa.com.tr/tr/spor/besiktas-fuzul-basketbol-avrupa-liginde-yarin-partizan-deplasmaninda/4130022",
+      "description": "Beşiktaş Fuzul, Basketbol Avrupa Ligi'nin (EuroLeague) 13. haftasında yarın Sırbistan temsilcisi Partizan ile deplasmanda karşılaşacak.",
+      "pubDate": "Thu, 19 Nov 2026 09:54:46 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/19/thumbs_b_c_8cda7259443f433f0945e350d2cfa74b.jpg"
+    },
+    {
+      "title": "Anadolu Efes, Basketbol Avrupa Ligi'nde yarın LDLC Asvel'i ağırlayacak",
+      "link": "https://www.aa.com.tr/tr/spor/anadolu-efes-basketbol-avrupa-liginde-yarin-ldlc-asveli-agirlayacak/4130021",
+      "description": "Anadolu Efes, Basketbol Avrupa Ligi'nin (EuroLeague) 13. haftasında yarın Fransa'nın LDLC Asvel ekibini ağırlayacak.",
+      "pubDate": "Thu, 19 Nov 2026 09:53:34 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/19/thumbs_b_c_65d1e98160fb0522a6d9116f5bdfedb1.jpg"
+    },
+    {
+      "title": "Beşiktaş, sahasında Real Madrid'i mağlup etti",
+      "link": "https://www.aa.com.tr/tr/spor/besiktas-sahasinda-real-madridi-maglup-etti/4129833",
+      "description": "Basketbol Avrupa Ligi'nin (EuroLeague) 12. haftasında Beşiktaş Fuzul, sahasında İspanya ekibi Real Madrid'i 83-79 yendi.",
+      "pubDate": "Wed, 18 Nov 2026 23:45:36 +0300",
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/18/thumbs_b_c_050b062bbb53e4f51a914944b5decd77.jpg"
+    },
     {
       "title": "Volkan Demirel, Gaziantep FK'yi üst sıralara taşımak istiyor",
       "link": "https://www.aa.com.tr/tr/spor/volkan-demirel-gaziantep-fkyi-ust-siralara-tasimak-istiyor/4129435",
@@ -36,55 +85,6 @@
       "description": "Beşiktaş Kulübü, SB Energetics ile futbol A takımı forma sırt sponsorluğu anlaşması yaptı.",
       "pubDate": "Wed, 18 Nov 2026 14:17:44 +0300",
       "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/18/thumbs_b_c_2fd97a71d1a9b6a9bf35fc7b0eb9e85d.jpg"
-    },
-    {
-      "title": "Beşiktaş Kulübü Başkanı Serdal Adalı: Yetiştiremediğimiz transferler oldu onları tamamlayacağız",
-      "link": "https://www.aa.com.tr/tr/spor/besiktas-kulubu-baskani-serdal-adali-yetistiremedigimiz-transferler-oldu-onlari-tamamlayacagiz/4129326",
-      "description": "Beşiktaş Kulübü Başkanı Serdal Adalı, ara transfer dönemiyle ilgili transfer çalışmalarının devam ettiğini söyledi.",
-      "pubDate": "Wed, 18 Nov 2026 15:37:34 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/18/thumbs_b_c_e26f7e0b8d9a91256d3e05d991eef18f.jpg"
-    },
-    {
-      "title": "Fenerbahçe Kulübünden Melli ve Key'in sağlık durumuna ilişkin açıklama",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-kulubunden-melli-ve-keyin-saglik-durumuna-iliskin-aciklama/4129344",
-      "description": "Fenerbahçe Kulübü, erkek basketbol takımının forvetleri Nicolo Melli ve Braxton Key'in sağlık durumlarıyla ilgili bilgilendirmede bulundu.",
-      "pubDate": "Wed, 18 Nov 2026 15:54:13 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/18/thumbs_b_c_cf493da9655a0cf455b8d6da6e01d9d7.jpg"
-    },
-    {
-      "title": "61. Cumhurbaşkanlığı Türkiye Bisiklet Turu, 190 ülke ve bölgede yayınlandı",
-      "link": "https://www.aa.com.tr/tr/spor/61-cumhurbaskanligi-turkiye-bisiklet-turu-190-ulke-ve-bolgede-yayinlandi/4129286",
-      "description": "61. Cumhurbaşkanlığı Türkiye Bisiklet Turu (TUR 2026), uluslararası sportif rekabeti Türkiye'nin tanıtımıyla buluşturdu.",
-      "pubDate": "Wed, 18 Nov 2026 15:05:31 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/18/thumbs_b_c_6a0c51b432bc12357d7275636caf53d9.jpg"
-    },
-    {
-      "title": "Kayserispor'da galibiyet hesapları",
-      "link": "https://www.aa.com.tr/tr/spor/kayserisporda-galibiyet-hesaplari/4129179",
-      "description": "Metro Holding Kayserispor'un teknik direktörü Atila Gerin, Trendyol 1. Lig'in 15. haftasında sahalarında oynayacakları SMS Grup Sarıyer maçını kayıpsız atlatmak istediklerini söyledi.",
-      "pubDate": "Wed, 18 Nov 2026 14:05:48 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/18/thumbs_b_c_7c0ee8a145daa0c60a7010a5783a479f.jpg"
-    },
-    {
-      "title": "Real Madrid, Arda Güler'in sözleşmesini 2032'ye kadar uzattı",
-      "link": "https://www.aa.com.tr/tr/spor/real-madrid-arda-gulerin-sozlesmesini-2032ye-kadar-uzatti/4129174",
-      "description": "İspanya LaLiga ekiplerinden Real Madrid, milli futbolcu Arda Güler ile sözleşmesini 30 Haziran 2032 tarihine kadar uzatma konusunda anlaştı.",
-      "pubDate": "Wed, 18 Nov 2026 14:03:56 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/18/thumbs_b_c_f8a36c1f9aae5e6760a7c72fe14b24d0.jpg"
-    },
-    {
-      "title": "Avrupa şampiyonu genç boksörün olimpiyat hedefi",
-      "link": "https://www.aa.com.tr/tr/spor/avrupa-sampiyonu-genc-boksorun-olimpiyat-hedefi/4128748",
-      "description": "Yıldızlar kategorisinde Avrupa ve Türkiye şampiyonalarında altın madalya kazanan 16 yaşındaki boksör Masal Ece Buruk, kariyer yolculuğunun olimpiyatlara kadar uzanmasını hedefliyor.",
-      "pubDate": "Wed, 18 Nov 2026 11:32:22 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/18/thumbs_b_c_867edf6e7cb7db3d008f9856fbfe8558.jpg"
-    },
-    {
-      "title": "Milli para golfçü Mehmet Kazan, Portekiz'deki turnuvada şampiyon oldu",
-      "link": "https://www.aa.com.tr/tr/spor/milli-para-golfcu-mehmet-kazan-portekizdeki-turnuvada-sampiyon-oldu/4128762",
-      "description": "Milli para golfçü Mehmet Kazan, Avrupa Engelliler Golf Birliği (EDGA) Tour Salgados Turnuvası'nda şampiyonluk elde etti.",
-      "pubDate": "Wed, 18 Nov 2026 11:42:03 +0300",
-      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/18/thumbs_b_c_955b1111e2653f633a9dcb1ff007a7fe.jpg"
     }
   ]
 }
